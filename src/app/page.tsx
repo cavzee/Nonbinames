@@ -11,7 +11,7 @@ export default function Home() {
         </h1>
 
         <p className="mt-4 max-w-xl text-zinc-400">
-          Find a name that feels like you.
+          Find your perfect identity.
         </p>
 
         <div className="mt-16">
