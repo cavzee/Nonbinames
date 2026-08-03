@@ -1,0 +1,41 @@
+[
+  {
+    "id": "aster",
+    "slug": "aster",
+    "name": "Aster",
+    "meaning": "Star",
+    "pronunciation": "AS-ter",
+    "origin": "Greek",
+    "themes": ["Nature", "Space"],
+    "vibes": ["Soft", "Modern", "Botanical"],
+    "tags": ["Floral", "Rare"],
+    "similar": ["Nova", "Sage"],
+    "featured": true
+  },
+  {
+    "id": "sage",
+    "slug": "sage",
+    "name": "Sage",
+    "meaning": "Wise one",
+    "pronunciation": "SAYJ",
+    "origin": "Latin",
+    "themes": ["Nature"],
+    "vibes": ["Calm", "Minimal", "Earthy"],
+    "tags": ["Herb", "Modern"],
+    "similar": ["Aster", "River"],
+    "featured": true
+  },
+  {
+    "id": "nova",
+    "slug": "nova",
+    "name": "Nova",
+    "meaning": "New star",
+    "pronunciation": "NO-vuh",
+    "origin": "Latin",
+    "themes": ["Space"],
+    "vibes": ["Bright", "Modern", "Bold"],
+    "tags": ["Celestial"],
+    "similar": ["Aster", "Echo"],
+    "featured": true
+  }
+]
