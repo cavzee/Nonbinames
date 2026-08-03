@@ -1,4 +1,5 @@
 import { getFeaturedNames } from "@/lib";
+import { SearchBar } from "@/components/search/SearchBar";
 
 export default function Home() {
   const featuredNames = getFeaturedNames();
@@ -14,6 +15,10 @@ export default function Home() {
           Find your perfect identity.
         </p>
 
+        <div className="mt-10">
+          <SearchBar />
+        </div>
+
         <div className="mt-16">
           <h2 className="mb-6 text-2xl font-semibold">
             Featured Names
@@ -23,7 +28,7 @@ export default function Home() {
             {featuredNames.map((name) => (
               <div
                 key={name.id}
-                className="rounded-xl border border-zinc-800 bg-zinc-900 p-6"
+                className="rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition hover:border-zinc-700 hover:bg-zinc-800"
               >
                 <h3 className="text-2xl font-semibold">
                   {name.name}
