@@ -1,108 +1,139 @@
-🚀 NonbiNames Roadmap
+# 🚀 NonbiNames Roadmap
 
-«Vision: Build the fastest, most beautiful identity-inclusive name discovery platform on the web.»
+> **Vision:** Build the fastest, most beautiful identity-inclusive naming platform on the web.
 
 ---
 
-Phase 0 — Development Environment ✅
+# Phase 0 — Development Environment ✅
 
 - [x] Enable Linux
 - [x] Install VS Code
+- [x] Install Git
+- [x] Configure SSH authentication
 - [x] Install Node.js
-- [x] Install Next.js
+- [x] Create Next.js project
 - [x] Configure TypeScript
 - [x] Configure Tailwind CSS
 
 ---
 
-Phase 1 — Foundation ✅
+# Phase 1 — Foundation ✅
 
 - [x] Clean project structure
-- [x] Create project architecture
-- [x] Create "Name" TypeScript interface
-- [x] Create sample dataset
-- [x] Organize static data
-- [x] Prepare folders for scalable development
+- [x] Create scalable architecture
+- [x] Define Name TypeScript interface
+- [x] Create initial JSON datasets
+- [x] Build Name Engine
+- [x] Create first homepage
+- [x] Deploy first working version
 
 ---
 
-Phase 2 — Name Engine 🚧
+# Phase 2 — Infrastructure ✅
 
-Data
+- [x] GitHub repository
+- [x] SSH Git workflow
+- [x] Initial Git commits
+- [x] Automatic Vercel deployment
 
-- [ ] Load names
-- [ ] Validate data structure
+---
 
-Search
+# Phase 3 — Core Engine 🚧
 
-- [ ] Search by name
+## Data
+
+- [x] Load names
+- [x] Validate data structure
+
+## Search
+
+- [x] Search by name
 - [ ] Search by partial text
+- [ ] Instant search
 
-Filters
+## Filters
 
-- [ ] Theme filter
-- [ ] Vibe filter
-- [ ] First letter filter
-- [ ] Name length filter
+- [ ] Theme
+- [ ] Vibe
+- [ ] First letter
+- [ ] Name length
+- [ ] Multiple filters
 
-Sorting
+## Sorting
 
 - [ ] Alphabetical
-- [ ] Featured first
+- [ ] Featured
+- [ ] Random
 
-Navigation
+## Navigation
 
-- [ ] Get name by slug
-- [ ] Get similar names
+- [x] Get name by slug
+- [ ] Similar names
 
 ---
 
-Phase 3 — User Interface
+# Phase 4 — User Interface 🚧
 
 - [ ] Header
-- [ ] Hero section
-- [ ] Search bar
+- [x] Hero section
+- [x] Search component
+- [x] Featured names
+- [x] Name cards
+- [x] Responsive grid
 - [ ] Filter panel
-- [ ] Name cards
-- [ ] Responsive grid
 - [ ] Empty state
 - [ ] Loading states
 
 ---
 
-Phase 4 — Name Pages
+# Phase 5 — Name Pages
 
-- [ ] Static name pages
+- [ ] Dynamic routes
 - [ ] Metadata
 - [ ] Similar names
 - [ ] Copy name
 - [ ] Save favourites
+- [ ] Local storage
 
 ---
 
-Phase 5 — Polish
+# Phase 6 — Collections
+
+- [ ] Nature
+- [ ] Space
+- [ ] Dark
+- [ ] Soft
+- [ ] Mythology
+- [ ] Modern
+- [ ] Minimal
+- [ ] Fantasy
+
+---
+
+# Phase 7 — Polish
 
 - [ ] Dark / Light mode
 - [ ] Accessibility audit
 - [ ] Performance optimisation
-- [ ] Lighthouse 100 target
+- [ ] Lighthouse 100/100
 
 ---
 
-Phase 6 — SEO
+# Phase 8 — SEO
 
 - [ ] Sitemap
 - [ ] Robots
-- [ ] Open Graph images
-- [ ] Structured data
+- [ ] Open Graph
+- [ ] Structured Data
 - [ ] Collection landing pages
 
 ---
 
-Phase 7 — Launch
+# Phase 9 — Launch 🚀
 
-- [ ] GitHub
-- [ ] Vercel deployment
-- [ ] Domain configuration
+- [x] GitHub
+- [x] Vercel deployment
+- [ ] Connect nonbinames.com
 - [ ] Production testing
+- [ ] Beta launch
 - [ ] Public launch 🎉
