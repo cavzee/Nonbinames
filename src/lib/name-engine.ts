@@ -1,4 +1,4 @@
-import names from "@/data/names.json";
+import names from "@/data/names";
 import type { Name, NameFilters } from "@/types/name";
 
 const allNames = names as Name[];
