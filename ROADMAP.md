@@ -136,4 +136,4 @@
 - [ ] Connect nonbinames.com
 - [ ] Production testing
 - [ ] Beta launch
-- [ ] Public launch 🎉
+- [ ] Public launch

@@ -1,4 +1,5 @@
 import { SearchSection } from "@/components/search/SearchSection";
+import { VibeSelector } from "@/components/vibes/VibeSelector";
 
 export default function Home() {
   return (
@@ -13,6 +14,8 @@ export default function Home() {
         </p>
 
         <SearchSection />
+
+        <VibeSelector />
       </section>
     </main>
   );
