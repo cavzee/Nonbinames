@@ -9,7 +9,11 @@ export function SearchSection() {
   const names = useMemo(() => searchNames(query), [query]);
 
   return (
-    <section className="mt-12">
+    <section className="mt-16">
+      <h2 className="mb-5 text-2xl font-semibold">
+        🔍 Search
+      </h2>
+
       <input
         type="text"
         value={query}
@@ -18,15 +22,11 @@ export function SearchSection() {
         className="w-full rounded-xl border border-zinc-800 bg-zinc-900 px-5 py-4 text-white placeholder:text-zinc-500 focus:border-zinc-600 focus:outline-none"
       />
 
-      <p className="mt-4 text-sm text-zinc-500">
-        {names.length} name{names.length !== 1 ? "s" : ""} found
-      </p>
-
       <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {names.map((name) => (
           <div
             key={name.id}
-            className="rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition hover:border-zinc-700"
+            className="rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition hover:border-zinc-700 hover:bg-zinc-800"
           >
             <h3 className="text-2xl font-semibold">
               {name.name}
