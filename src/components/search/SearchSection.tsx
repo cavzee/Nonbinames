@@ -6,17 +6,16 @@ import { useVibe } from "@/context/VibeContext";
 
 export function SearchSection() {
   const [query, setQuery] = useState("");
-
   const { vibe } = useVibe();
 
   const names = useMemo(
-  () =>
-    filterNames({
-      query,
-      collection: vibe,
-    }),
-  [query, vibe]
-);
+    () =>
+      filterNames({
+        query,
+        collection: vibe,
+      }),
+    [query, vibe]
+  );
 
   return (
     <section className="mt-16">
@@ -32,33 +31,55 @@ export function SearchSection() {
         className="w-full rounded-xl border border-zinc-800 bg-zinc-900 px-5 py-4 text-white placeholder:text-zinc-500 focus:border-zinc-600 focus:outline-none"
       />
 
-      <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {names.map((name) => (
-          <div
-            key={name.id}
-            className="rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition hover:border-zinc-700 hover:bg-zinc-800"
-          >
-            <h3 className="text-2xl font-semibold">
-              {name.name}
-            </h3>
+      <p className="mt-4 mb-6 text-sm text-zinc-400">
+        Showing {names.length} {names.length === 1 ? "name" : "names"}
+        {vibe && (
+          <>
+            {" "}
+            for <strong>{vibe}</strong>
+          </>
+        )}
+      </p>
 
-            <p className="mt-2 text-zinc-400">
-              {name.meaning}
-            </p>
+      {names.length === 0 ? (
+        <div className="mt-8 rounded-xl border border-zinc-800 p-10 text-center">
+          <h3 className="text-xl font-semibold">
+            No names found
+          </h3>
 
-            <div className="mt-4 flex flex-wrap gap-2">
-              {name.themes.map((theme) => (
-                <span
-                  key={theme}
-                  className="rounded-full bg-zinc-800 px-3 py-1 text-xs"
-                >
-                  {theme}
-                </span>
-              ))}
+          <p className="mt-3 text-zinc-400">
+            Try another search or choose a different vibe.
+          </p>
+        </div>
+      ) : (
+        <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {names.map((name) => (
+            <div
+              key={name.id}
+              className="rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition hover:border-zinc-700 hover:bg-zinc-800"
+            >
+              <h3 className="text-2xl font-semibold">
+                {name.name}
+              </h3>
+
+              <p className="mt-2 text-zinc-400">
+                {name.meaning}
+              </p>
+
+              <div className="mt-4 flex flex-wrap gap-2">
+                {name.themes.map((theme) => (
+                  <span
+                    key={theme}
+                    className="rounded-full bg-zinc-800 px-3 py-1 text-xs"
+                  >
+                    {theme}
+                  </span>
+                ))}
+              </div>
             </div>
-          </div>
-        ))}
-      </div>
+          ))}
+        </div>
+      )}
     </section>
   );
 }
