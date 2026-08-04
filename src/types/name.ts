@@ -6,8 +6,8 @@ export interface Name {
   pronunciation: string;
   origin: string;
 
+  collections: string[];
   themes: string[];
-  vibes: string[];
   tags: string[];
 
   similar: string[];
@@ -17,7 +17,7 @@ export interface Name {
 
 export interface NameFilters {
   query?: string;
-  vibe?: string;
+  collection?: string;
   theme?: string;
   origin?: string;
   firstLetter?: string;

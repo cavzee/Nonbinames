@@ -6,8 +6,8 @@
     "meaning": "Star",
     "pronunciation": "AS-ter",
     "origin": "Greek",
+    "collections": ["Nature", "Modern", "Soft"],
     "themes": ["Nature", "Space"],
-    "vibes": ["Soft", "Modern", "Botanical"],
     "tags": ["Floral", "Rare"],
     "similar": ["Nova", "Sage"],
     "featured": true
@@ -19,8 +19,8 @@
     "meaning": "Wise one",
     "pronunciation": "SAYJ",
     "origin": "Latin",
+    "collections": ["Nature", "Classic", "Traditional Unisex"],
     "themes": ["Nature"],
-    "vibes": ["Calm", "Minimal", "Earthy"],
     "tags": ["Herb", "Modern"],
     "similar": ["Aster", "River"],
     "featured": true
@@ -32,8 +32,8 @@
     "meaning": "New star",
     "pronunciation": "NO-vuh",
     "origin": "Latin",
+    "collections": ["Celestial", "Modern", "Bold"],
     "themes": ["Space"],
-    "vibes": ["Bright", "Modern", "Bold"],
     "tags": ["Celestial"],
     "similar": ["Aster", "Echo"],
     "featured": true

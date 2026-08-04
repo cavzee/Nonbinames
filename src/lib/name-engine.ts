@@ -26,10 +26,10 @@ export function filterNames(filters: NameFilters = {}) {
     }
 
     if (
-      filters.vibe &&
-      !name.vibes.includes(filters.vibe)
-    ) {
-      return false;
+      filters.collection &&
+      !name.collections.includes(filters.collection)
+   ) {
+  return false;
     }
 
     if (
