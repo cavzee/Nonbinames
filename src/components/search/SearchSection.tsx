@@ -1,12 +1,15 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { searchNames } from "@/lib";
+import { filterNames } from "@/lib";
 
 export function SearchSection() {
   const [query, setQuery] = useState("");
 
-  const names = useMemo(() => searchNames(query), [query]);
+  const names = useMemo(
+  () => filterNames({ query }),
+  [query]
+);
 
   return (
     <section className="mt-16">

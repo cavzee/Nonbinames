@@ -1,40 +1,65 @@
 import names from "@/data/names.json";
-import type { Name } from "@/types/name";
+import type { Name, NameFilters } from "@/types/name";
 
 const allNames = names as Name[];
 
-/**
- * Return every name.
- */
-export function getAllNames(): Name[] {
+export function getAllNames() {
   return allNames;
 }
 
-/**
- * Return featured names.
- */
-export function getFeaturedNames(): Name[] {
+export function getFeaturedNames() {
   return allNames.filter((name) => name.featured);
 }
 
-/**
- * Find a name by its slug.
- */
-export function getNameBySlug(slug: string): Name | undefined {
+export function getNameBySlug(slug: string) {
   return allNames.find((name) => name.slug === slug);
 }
 
-/**
- * Search names by title.
- */
-export function searchNames(query: string): Name[] {
-  if (!query.trim()) {
-    return allNames;
-  }
+export function filterNames(filters: NameFilters = {}) {
+  return allNames.filter((name) => {
 
-  const search = query.toLowerCase();
+    if (
+      filters.query &&
+      !name.name.toLowerCase().includes(filters.query.toLowerCase())
+    ) {
+      return false;
+    }
 
-  return allNames.filter((name) =>
-    name.name.toLowerCase().includes(search)
-  );
+    if (
+      filters.vibe &&
+      !name.vibes.includes(filters.vibe)
+    ) {
+      return false;
+    }
+
+    if (
+      filters.theme &&
+      !name.themes.includes(filters.theme)
+    ) {
+      return false;
+    }
+
+    if (
+      filters.origin &&
+      name.origin !== filters.origin
+    ) {
+      return false;
+    }
+
+    if (
+      filters.firstLetter &&
+      !name.name.startsWith(filters.firstLetter)
+    ) {
+      return false;
+    }
+
+    if (
+      filters.length &&
+      name.name.length !== filters.length
+    ) {
+      return false;
+    }
+
+    return true;
+  });
 }
