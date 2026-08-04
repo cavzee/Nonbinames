@@ -2,13 +2,20 @@
 
 import { useMemo, useState } from "react";
 import { filterNames } from "@/lib";
+import { useVibe } from "@/context/VibeContext";
 
 export function SearchSection() {
   const [query, setQuery] = useState("");
 
+  const { vibe } = useVibe();
+
   const names = useMemo(
-  () => filterNames({ query }),
-  [query]
+  () =>
+    filterNames({
+      query,
+      collection: vibe,
+    }),
+  [query, vibe]
 );
 
   return (
