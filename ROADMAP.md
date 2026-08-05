@@ -67,7 +67,7 @@
 - [x] Validate data structure
 - [x] Move to scalable alphabetical storage
 - [x] Create data loader
-- [ ] Expand curated dataset (50+ names)
+- [ ] Build curated editorial library (500+ names)
 
 ## Discovery
 
@@ -205,13 +205,98 @@
 - [x] 006 — Interactive Vibe Discovery
 - [x] 007 — Smart Discovery
 - [x] 008 — Scalable Data Architecture
+- [x] 009A — Editorial Dataset (A001)
 
 ## 🚧 Next
 
-- [ ] 009 — Curated Dataset Expansion
+- [ ] 009B — Editorial Dataset (A002)
+- [ ] 009C — Editorial Dataset (A003)
 - [ ] 010 — Name Detail Pages
 - [ ] 011 — Favourites
 - [ ] 012 — Launch MVP
+
+---
+
+# 📚 Dataset Progress
+
+## Editorial Workflow
+
+Every dataset pack follows the same process:
+
+- 🔍 Research
+- ✅ Verification
+- ✍️ Editorial review
+- 📄 JSON generation
+- 🧪 Website testing
+- 💾 Git commit
+- ☁️ GitHub push
+- 🚀 Vercel deployment
+
+Only then do we begin the next dataset pack.
+
+---
+
+## Current Progress
+
+### Letter A (Target: 25–30 names)
+
+- [x] A001 — 10 names
+- [ ] A002 — 20 names
+- [ ] A003 — 30 names
+
+### Letter B (Target: 20–25 names)
+
+- [ ] B001
+- [ ] B002
+- [ ] B003 (if required)
+
+### Letter C (Target: 25–30 names)
+
+- [ ] C001
+- [ ] C002
+- [ ] C003 (if required)
+
+### Remaining Letters
+
+- [ ] D
+- [ ] E
+- [ ] F
+- [ ] G
+- [ ] H
+- [ ] I
+- [ ] J
+- [ ] K
+- [ ] L
+- [ ] M
+- [ ] N
+- [ ] O
+- [ ] P
+- [ ] Q
+- [ ] R
+- [ ] S
+- [ ] T
+- [ ] U
+- [ ] V
+- [ ] W
+- [ ] X
+- [ ] Y
+- [ ] Z
+
+---
+
+## Library Progress
+
+Current dataset:
+
+**10 / 500+ curated names**
+
+### Milestones
+
+- 🎯 50 names — Core MVP dataset
+- 🎯 100 names — Public beta ready
+- 🎯 250 names — Strong launch library
+- 🎯 500 names — Comprehensive first edition
+- 🎯 1000+ names — Long-term vision
 
 ---
 
@@ -231,12 +316,16 @@
 
 # 📈 Current Status
 
-**Version:** v0.1.0
+**Version:** v0.2.0
 
 ✅ Discovery engine complete
 
 ✅ Scalable data architecture complete
 
-🚧 Building curated dataset
+✅ Editorial workflow established
 
-🎯 Next milestone: 50+ curated names
+🚧 Building curated library
+
+🎯 Current progress: 10 / 500+ names
+
+🎯 Next milestone: Dataset Pack A002 (20 names)
