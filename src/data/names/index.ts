@@ -7,6 +7,7 @@ import f from "./f.json";
 import g from "./g.json";
 import h from "./h.json";
 import i from "./i.json";
+import j from "./j.json";
 
 const names = [
   ...a,
@@ -18,6 +19,7 @@ const names = [
   ...g,
   ...h,
   ...i,
+  ...j,
 ];
 
 export default names;
