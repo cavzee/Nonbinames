@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { filterNames } from "@/lib";
 import { useVibe } from "@/context/VibeContext";
+import { NameCard } from "@/components/names/NameCard";
 
 export function SearchSection() {
   const [query, setQuery] = useState("");
@@ -54,29 +55,10 @@ export function SearchSection() {
       ) : (
         <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {names.map((name) => (
-            <div
+            <NameCard
               key={name.id}
-              className="rounded-xl border border-zinc-800 bg-zinc-900 p-6 transition hover:border-zinc-700 hover:bg-zinc-800"
-            >
-              <h3 className="text-2xl font-semibold">
-                {name.name}
-              </h3>
-
-              <p className="mt-2 text-zinc-400">
-                {name.meaning}
-              </p>
-
-              <div className="mt-4 flex flex-wrap gap-2">
-                {name.themes.map((theme) => (
-                  <span
-                    key={theme}
-                    className="rounded-full bg-zinc-800 px-3 py-1 text-xs"
-                  >
-                    {theme}
-                  </span>
-                ))}
-              </div>
-            </div>
+              name={name}
+            />
           ))}
         </div>
       )}
