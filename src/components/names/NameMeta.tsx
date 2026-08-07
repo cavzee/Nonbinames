@@ -7,22 +7,34 @@ type Props = {
 
 export function NameMeta({ name }: Props) {
   return (
-    <section className="mt-10 grid gap-8 md:grid-cols-2">
+    <section className="mt-14 grid gap-10 border-b border-zinc-800 pb-14 md:grid-cols-2">
 
       <div>
-        <h2 className="text-lg font-semibold">🗣 Pronunciation</h2>
-        <p className="mt-2 text-zinc-300">{name.pronunciation}</p>
+        <h2 className="text-lg font-semibold text-white">
+          🗣 Pronunciation
+        </h2>
+
+        <p className="mt-3 text-lg text-zinc-300">
+          {name.pronunciation}
+        </p>
       </div>
 
       <div>
-        <h2 className="text-lg font-semibold">🌍 Origin</h2>
-        <p className="mt-2 text-zinc-300">{name.origin}</p>
+        <h2 className="text-lg font-semibold text-white">
+          🌍 Origin
+        </h2>
+
+        <p className="mt-3 text-lg text-zinc-300">
+          {name.origin}
+        </p>
       </div>
 
       <div>
-        <h2 className="text-lg font-semibold">🏷 Collections</h2>
+        <h2 className="text-lg font-semibold text-white">
+          🏷 Collections
+        </h2>
 
-        <div className="mt-3 flex flex-wrap gap-2">
+        <div className="mt-4 flex flex-wrap gap-3">
           {name.collections.map((collection) => (
             <Badge key={collection}>
               {collection}
@@ -32,9 +44,11 @@ export function NameMeta({ name }: Props) {
       </div>
 
       <div>
-        <h2 className="text-lg font-semibold">🌿 Themes</h2>
+        <h2 className="text-lg font-semibold text-white">
+          🌿 Themes
+        </h2>
 
-        <div className="mt-3 flex flex-wrap gap-2">
+        <div className="mt-4 flex flex-wrap gap-3">
           {name.themes.map((theme) => (
             <Badge key={theme}>
               {theme}

@@ -12,6 +12,8 @@ export interface Name {
 
   similar: string[];
 
+  about: string;
+
   featured: boolean;
 }
 

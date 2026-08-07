@@ -15,6 +15,12 @@ export function getNameBySlug(slug: string) {
   return allNames.find((name) => name.slug === slug);
 }
 
+export function getNameByName(name: string) {
+  return allNames.find(
+    (n) => n.name.toLowerCase() === name.toLowerCase()
+  );
+}
+
 export function filterNames(filters: NameFilters = {}) {
   return allNames.filter((name) => {
 
@@ -28,8 +34,8 @@ export function filterNames(filters: NameFilters = {}) {
     if (
       filters.collection &&
       !name.collections.includes(filters.collection)
-   ) {
-  return false;
+    ) {
+      return false;
     }
 
     if (

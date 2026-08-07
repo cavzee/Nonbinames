@@ -4,6 +4,7 @@ import { getNameBySlug } from "@/lib";
 import { NameHero } from "@/components/names/NameHero";
 import { NameMeta } from "@/components/names/NameMeta";
 import { NameAbout } from "@/components/names/NameAbout";
+import { SimilarNames } from "@/components/names/SimilarNames";
 
 type Props = {
   params: Promise<{
@@ -38,6 +39,8 @@ export default async function NamePage({ params }: Props) {
         <NameMeta name={name} />
 
         <NameAbout name={name} />
+
+        <SimilarNames name={name} />
 
       </section>
     </main>

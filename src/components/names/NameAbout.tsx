@@ -6,16 +6,16 @@ type Props = {
 
 export function NameAbout({ name }: Props) {
   return (
-    <section className="mt-12 border-t border-zinc-800 pt-10">
-      <h2 className="text-2xl font-semibold">
+    <section className="mt-16 border-t border-zinc-800 pt-12">
+
+      <h2 className="text-3xl font-bold">
         About {name.name}
       </h2>
 
-      <p className="mt-4 leading-8 text-zinc-300">
-        An editorial description for <strong>{name.name}</strong> will
-        appear here. This section will explain the name's background,
-        modern usage, symbolism and why someone might choose it.
+      <p className="mt-6 max-w-3xl text-lg leading-8 text-zinc-300">
+        {name.about}
       </p>
+
     </section>
   );
 }
