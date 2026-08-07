@@ -69,3 +69,21 @@ export function filterNames(filters: NameFilters = {}) {
     return true;
   });
 }
+
+export function getCollectionCount() {
+  return new Set(
+    allNames.flatMap((name) => name.collections)
+  ).size;
+}
+
+export function getThemeCount() {
+  return new Set(
+    allNames.flatMap((name) => name.themes)
+  ).size;
+}
+
+export function getOriginCount() {
+  return new Set(
+    allNames.map((name) => name.origin)
+  ).size;
+}

@@ -24,9 +24,13 @@ export function NameMeta({ name }: Props) {
           🌍 Origin
         </h2>
 
-        <p className="mt-3 text-lg text-zinc-300">
-          {name.origin}
-        </p>
+        <div className="mt-4">
+          <Badge
+            href={`/discover?origin=${encodeURIComponent(name.origin)}`}
+          >
+            {name.origin}
+          </Badge>
+        </div>
       </div>
 
       <div>
@@ -36,7 +40,10 @@ export function NameMeta({ name }: Props) {
 
         <div className="mt-4 flex flex-wrap gap-3">
           {name.collections.map((collection) => (
-            <Badge key={collection}>
+            <Badge
+              key={collection}
+              href={`/discover?collection=${encodeURIComponent(collection)}`}
+            >
               {collection}
             </Badge>
           ))}
@@ -50,7 +57,10 @@ export function NameMeta({ name }: Props) {
 
         <div className="mt-4 flex flex-wrap gap-3">
           {name.themes.map((theme) => (
-            <Badge key={theme}>
+            <Badge
+              key={theme}
+              href={`/discover?theme=${encodeURIComponent(theme)}`}
+            >
               {theme}
             </Badge>
           ))}
