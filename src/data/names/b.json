@@ -10,6 +10,7 @@
     "themes": ["History"],
     "tags": ["Occupational", "English", "Established"],
     "similar": ["Blair", "Blake", "Avery"],
+    "about": "Bailey began as an English occupational surname for a bailiff or steward, someone responsible for managing land or carrying out official duties. Over time it made the transition from surname to given name and has become one of the best-known gender-neutral choices in the English-speaking world. Friendly, familiar and versatile, Bailey balances historic roots with an approachable modern style.",
     "featured": true
   },
   {
@@ -23,6 +24,7 @@
     "themes": ["Friendship"],
     "tags": ["Surname", "Elegant", "French"],
     "similar": ["Bowie", "Auden", "Arden"],
+    "about": "Bellamy comes from the Norman French phrase 'bel ami,' meaning 'beautiful friend' or 'good friend.' Originally introduced to Britain as a surname, it has more recently become an elegant and distinctive given name. With its warm meaning, graceful sound and uncommon style, Bellamy offers a sophisticated modern choice that feels both welcoming and memorable.",
     "featured": true
   },
   {
@@ -36,6 +38,7 @@
     "themes": ["Nature"],
     "tags": ["Scottish", "Surname", "Established"],
     "similar": ["Bailey", "Blake", "Bryn"],
+    "about": "Blair comes from the Scottish Gaelic word 'blàr,' meaning 'plain,' 'field' or 'battlefield.' Originally a surname linked to the Scottish landscape, it has become a well-established given name appreciated for its simplicity and quiet strength. Classic yet contemporary, Blair combines natural origins with a refined style that has long appealed as a gender-neutral choice.",
     "featured": true
   },
   {
@@ -49,6 +52,7 @@
     "themes": ["History"],
     "tags": ["English", "Surname", "Established"],
     "similar": ["Blair", "Bailey", "Alex"],
+    "about": "Blake began as an Old English surname with a fascinating history, as its original elements could describe either someone with dark hair or someone with a pale complexion. Despite these contrasting meanings, it has developed into a confident and enduring given name. Strong, simple and widely recognised, Blake remains a timeless gender-neutral choice with deep historical roots.",
     "featured": true
   },
   {
@@ -62,6 +66,7 @@
     "themes": ["Colour"],
     "tags": ["Word Name", "Minimal", "Nature"],
     "similar": ["Azure", "Brook", "Briar"],
+    "about": "Blue is a modern English word name inspired by one of nature's most recognisable colours. Often associated with clear skies, open oceans, calmness and creativity, blue carries symbolism that feels both peaceful and expansive. Minimal, memorable and contemporary, Blue is an expressive gender-neutral choice for those drawn to colour-inspired names with a relaxed modern character.",
     "featured": true
   },
   {
@@ -75,6 +80,7 @@
     "themes": ["History"],
     "tags": ["Surname", "Scottish", "Modern"],
     "similar": ["Bellamy", "Blake", "Auden"],
+    "about": "Bowie originated as a Scottish surname, traditionally interpreted as meaning 'yellow-haired.' In recent decades it has gained recognition as a distinctive given name, helped by its association with creativity and individuality. Stylish without feeling conventional, Bowie blends Scottish heritage with a bold modern identity, making it a memorable gender-neutral choice.",
     "featured": true
   },
   {
@@ -88,6 +94,7 @@
     "themes": ["Plants"],
     "tags": ["Botanical", "Nature", "Modern"],
     "similar": ["Ash", "Aspen", "Aster"],
+    "about": "Briar takes its name from the thorny shrubs found in hedgerows and woodlands, particularly wild roses and brambles. While its botanical roots suggest resilience and protection, the name also carries a gentle natural beauty. Earthy, distinctive and unmistakably modern, Briar has become a popular choice for those seeking a strong connection to the natural world.",
     "featured": true
   },
   {
@@ -101,6 +108,7 @@
     "themes": ["Water"],
     "tags": ["Nature", "English", "Minimal"],
     "similar": ["Blue", "Briar", "River"],
+    "about": "Brook comes from the English word for a small stream, making it a name closely tied to flowing water and peaceful landscapes. Originally used as a surname for someone living near a stream, it has since become a simple yet elegant given name. Calm, understated and timeless, Brook is a natural choice for those who appreciate minimalist names inspired by the outdoors.",
     "featured": false
   },
   {
@@ -114,6 +122,7 @@
     "themes": ["Landscape"],
     "tags": ["Welsh", "Nature", "Short"],
     "similar": ["Blair", "Brook", "Ash"],
+    "about": "Bryn is a Welsh name meaning 'hill,' reflecting the rolling landscapes that characterise much of Wales. Short, distinctive and easy to pronounce, it has long been appreciated for its simplicity and strong connection to nature. Its clean sound and enduring heritage make Bryn a quietly confident gender-neutral name with timeless appeal.",
     "featured": true
   },
   {
@@ -127,6 +136,7 @@
     "themes": ["Places"],
     "tags": ["Place Name", "English", "Contemporary"],
     "similar": ["Bellamy", "Bowie", "Bailey"],
+    "about": "Brighton is an English place name meaning 'Bright's town,' originally referring to a settlement associated with a person named Bright. Today it is widely recognised through the vibrant seaside city on England's south coast, giving the name a contemporary and creative atmosphere. Fresh, uncommon and full of character, Brighton offers a modern place name with an energetic yet approachable feel.",
     "featured": false
   }
 ]

@@ -10,19 +10,21 @@
     "themes": ["Nature"],
     "tags": ["Biblical", "Garden", "Established"],
     "similar": ["Ember", "Ellis", "Clover"],
+    "about": "Eden comes from the Hebrew word meaning 'delight' or 'place of pleasure' and is best known through the biblical Garden of Eden. For centuries it has symbolised peace, harmony and the beauty of the natural world. Gentle, timeless and rich in positive imagery, Eden remains an enduring gender-neutral name that combines spiritual heritage with a fresh connection to nature.",
     "featured": true
   },
   {
     "id": "ellis",
     "slug": "ellis",
     "name": "Ellis",
-    "meaning": "Benevolent",
+    "meaning": "The Lord is my God (via Elijah)",
     "pronunciation": "EL-iss",
     "origin": "Welsh",
     "collections": ["Traditional Unisex", "Classic"],
     "themes": ["History"],
     "tags": ["Welsh", "Surname", "Established"],
     "similar": ["Emery", "Ellery", "Alex"],
+    "about": "Ellis developed from the medieval Welsh form of the name Elijah before becoming a well-established surname and given name. Often associated with kindness and benevolence, it combines historic roots with a clean, contemporary sound. Familiar without feeling overused, Ellis is a timeless gender-neutral choice appreciated for its balance of tradition and modern simplicity.",
     "featured": true
   },
   {
@@ -36,6 +38,7 @@
     "themes": ["Nature"],
     "tags": ["Surname", "English", "Elegant"],
     "similar": ["Ellis", "Ellison", "Bellamy"],
+    "about": "Ellery began as an English surname traditionally interpreted as meaning 'alder island,' linking it to the alder tree and waterside landscapes. Elegant in sound and uncommon in everyday use, it carries a refined character while maintaining a subtle connection to nature. Modern yet timeless, Ellery is a distinctive gender-neutral choice with quiet sophistication.",
     "featured": true
   },
   {
@@ -49,6 +52,7 @@
     "themes": ["History"],
     "tags": ["Surname", "English", "Contemporary"],
     "similar": ["Ellery", "Ellis", "Emery"],
+    "about": "Ellison originated as an English surname meaning 'son of Ellis,' reflecting the long tradition of family names passed through generations. In recent years it has gained popularity as a given name thanks to its smooth rhythm and contemporary style. Distinctive without feeling unfamiliar, Ellison offers a modern gender-neutral option rooted in English heritage.",
     "featured": true
   },
   {
@@ -62,6 +66,7 @@
     "themes": ["Sky"],
     "tags": ["International", "Minimal", "Contemporary"],
     "similar": ["Ellis", "Ever", "Echo"],
+    "about": "Elio is an Italian name derived from the Greek sun god Helios, giving it a meaning closely connected with the sun, light and warmth. Bright in both sound and symbolism, it has become increasingly appreciated beyond Italy for its simplicity and international appeal. Modern, uplifting and effortlessly memorable, Elio is a distinctive choice inspired by the natural world.",
     "featured": true
   },
   {
@@ -75,6 +80,7 @@
     "themes": ["Fire"],
     "tags": ["Nature", "Word Name", "Modern"],
     "similar": ["Eden", "Clover", "Echo"],
+    "about": "Ember comes from the English word for a glowing piece of coal that continues to burn after the flames have faded. It evokes warmth, resilience and quiet strength, while also reflecting the rich colours of autumn. Soft yet vibrant, Ember has become a popular modern gender-neutral name for those drawn to nature-inspired names with comforting symbolism.",
     "featured": true
   },
   {
@@ -88,6 +94,7 @@
     "themes": ["History"],
     "tags": ["Established", "Germanic", "Surname"],
     "similar": ["Ellis", "Avery", "Bailey"],
+    "about": "Emery comes from an ancient Germanic name combining elements associated with work, strength and leadership. Originally introduced through medieval Europe, it later became both a surname and a well-established given name. Friendly, adaptable and timeless, Emery blends historic character with a modern style that has made it an enduring gender-neutral favourite.",
     "featured": true
   },
   {
@@ -101,6 +108,7 @@
     "themes": ["Words"],
     "tags": ["Minimal", "Contemporary", "Word Name"],
     "similar": ["Echo", "Ember", "Cove"],
+    "about": "Ever is a modern English word name inspired by the idea of continuity, permanence and possibility. Simple in form yet rich in meaning, it suggests enduring hope, lasting connection and an open future. Minimal, contemporary and quietly distinctive, Ever appeals to those who appreciate meaningful word names with an optimistic character.",
     "featured": true
   },
   {
@@ -114,6 +122,7 @@
     "themes": ["Mountains"],
     "tags": ["Place Name", "Adventure", "Modern"],
     "similar": ["Atlas", "Cove", "Delta"],
+    "about": "Everest began as an English surname before becoming globally recognised through Mount Everest, the world's highest mountain above sea level. The name has come to symbolise adventure, determination and reaching ambitious goals. Bold, inspiring and unmistakably memorable, Everest is a modern gender-neutral choice for those drawn to names with a strong sense of exploration.",
     "featured": true
   },
   {
@@ -127,6 +136,7 @@
     "themes": ["Mythology"],
     "tags": ["Greek", "Minimal", "Mythology"],
     "similar": ["Aura", "Atlas", "Ever"],
+    "about": "Echo comes from Greek mythology, where Echo was a mountain nymph whose voice lived on as a repeating sound. The name has since become associated with memory, reflection and lasting presence, while also carrying a sleek modern quality. Minimal, distinctive and rich in mythological symbolism, Echo offers a memorable gender-neutral choice with both ancient roots and contemporary appeal.",
     "featured": true
   }
 ]

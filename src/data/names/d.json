@@ -10,6 +10,7 @@
     "themes": ["Culture"],
     "tags": ["Established", "Place Name", "Modern"],
     "similar": ["Devon", "Dallas", "Casey"],
+    "about": "Dakota comes from the language of the Dakota people, where it carries the meaning 'friend' or 'ally.' While many people recognise it through the American states of North and South Dakota, the name's origins lie in the Indigenous nation itself. Warm, familiar and widely established, Dakota has become a well-known gender-neutral name that combines cultural heritage with a relaxed contemporary style.",
     "featured": true
   },
   {
@@ -23,6 +24,7 @@
     "themes": ["Places"],
     "tags": ["Place Name", "Scottish", "Surname"],
     "similar": ["Dakota", "Devon", "Darcy"],
+    "about": "Dallas originated as a Scottish place name and surname, traditionally associated with a meadow dwelling or valley landscape. Although many people now connect it with the well-known American city, its roots reach back to Scotland. Distinctive, confident and modern, Dallas blends historic heritage with contemporary appeal, making it a memorable gender-neutral choice.",
     "featured": true
   },
   {
@@ -36,6 +38,7 @@
     "themes": ["History"],
     "tags": ["Literary", "Surname", "Established"],
     "similar": ["Drew", "Devon", "Blair"],
+    "about": "Darcy began as a Norman French surname meaning 'from Arcy,' referring to several places in northern France. It later gained lasting literary recognition through Jane Austen's Pride and Prejudice, giving the name an enduring association with classic literature. Elegant, balanced and timeless, Darcy remains an established gender-neutral choice with both historical and cultural depth.",
     "featured": true
   },
   {
@@ -49,6 +52,7 @@
     "themes": ["Culture"],
     "tags": ["Modern", "International", "Rare"],
     "similar": ["Dakota", "Devon", "Charlie"],
+    "about": "Darian is a modern name often linked to Persian origins and commonly interpreted as meaning 'possessor of goodness.' Its smooth rhythm and international appeal have helped it gain popularity across many cultures. Contemporary without feeling trendy, Darian offers a refined and versatile gender-neutral choice with a gentle yet confident character.",
     "featured": true
   },
   {
@@ -62,6 +66,7 @@
     "themes": ["Water"],
     "tags": ["Geography", "Nature", "Modern"],
     "similar": ["Cove", "Brook", "Blue"],
+    "about": "Delta comes from the Greek letter of the same name, which gave its name to the triangular landform created where a river meets the sea. River deltas are places of growth, movement and renewal, making the name rich in natural symbolism. Modern, distinctive and closely connected with water, Delta offers a fresh gender-neutral choice inspired by geography and nature.",
     "featured": true
   },
   {
@@ -75,6 +80,7 @@
     "themes": ["Places"],
     "tags": ["English", "Place Name", "Established"],
     "similar": ["Dakota", "Dallas", "Darcy"],
+    "about": "Devon takes its name from the historic county in southwest England, a region celebrated for its dramatic coastline, rolling countryside and picturesque villages. Originally a place name and surname, it has become a well-established given name with enduring appeal. Familiar, relaxed and timeless, Devon combines English heritage with a natural sense of warmth and versatility.",
     "featured": true
   },
   {
@@ -88,19 +94,21 @@
     "themes": ["Birds"],
     "tags": ["Nature", "Peace", "Minimal"],
     "similar": ["Clover", "Blue", "Aura"],
+    "about": "Dove is inspired by the graceful bird that has long symbolised peace, hope and new beginnings across many cultures. Its gentle imagery gives the name a calm and uplifting character while maintaining a simple, minimalist style. Soft, elegant and closely connected to nature, Dove offers a timeless gender-neutral choice with quiet strength and meaning.",
     "featured": true
   },
   {
     "id": "drew",
     "slug": "drew",
     "name": "Drew",
-    "meaning": "Strong and manly",
+    "meaning": "Strong; courageous",
     "pronunciation": "DROO",
     "origin": "Greek",
     "collections": ["Traditional Unisex", "Classic"],
     "themes": ["History"],
     "tags": ["Short", "Established", "Popular"],
     "similar": ["Alex", "Darcy", "Charlie"],
+    "about": "Drew began as a shortened form of Andrew, a name ultimately derived from the Greek word 'andreios,' meaning 'strong' or 'courageous.' Over time it has become a well-established given name in its own right, valued for its simplicity and versatility. Short, confident and enduring, Drew remains a timeless gender-neutral choice with classic appeal.",
     "featured": true
   },
   {
@@ -114,6 +122,7 @@
     "themes": ["Landscape"],
     "tags": ["Nature", "Minimal", "Modern"],
     "similar": ["Cove", "Cedar", "Briar"],
+    "about": "Dune is inspired by the sweeping sand hills found along coastlines and deserts, landscapes shaped by wind and time. These ever-changing formations symbolise resilience, movement and quiet beauty, giving the name a calm natural character. Rare, minimalist and strongly connected to the outdoors, Dune is a distinctive modern choice for lovers of landscape-inspired names.",
     "featured": true
   },
   {
@@ -127,6 +136,7 @@
     "themes": ["Nature"],
     "tags": ["Nickname", "Vintage", "Nature"],
     "similar": ["Dune", "Briar", "Cedar"],
+    "about": "Dusty began as an affectionate English nickname before becoming an independent given name. Often associated with open landscapes, country life and vintage charm, it carries a warm, approachable personality rather than its literal meaning. Relaxed, nostalgic and quietly distinctive, Dusty offers an earthy gender-neutral choice with enduring character and friendly appeal.",
     "featured": false
   }
 ]

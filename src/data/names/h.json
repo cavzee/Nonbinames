@@ -10,6 +10,7 @@
     "themes": ["Nature"],
     "tags": ["English", "Surname", "Established"],
     "similar": ["Harley", "Hayden", "Harper"],
+    "about": "Hadley originated as an English place name and surname meaning 'heather field,' referring to open landscapes covered in flowering heather. Its countryside origins give the name a gentle connection to nature while its smooth sound keeps it feeling contemporary. Friendly, timeless and versatile, Hadley has become an established gender-neutral choice that blends English heritage with modern style.",
     "featured": true
   },
   {
@@ -23,6 +24,7 @@
     "themes": ["Water"],
     "tags": ["Coastal", "Word Name", "Nature"],
     "similar": ["Cove", "Delta", "Haven"],
+    "about": "Harbor comes from the English word for a sheltered coastal port where ships find safety from rough seas. Because of this, the name has become associated with protection, security and a sense of belonging. Modern, uncommon and inspired by the coastline, Harbor offers a peaceful gender-neutral choice with strong natural symbolism.",
     "featured": true
   },
   {
@@ -36,6 +38,7 @@
     "themes": ["Nature"],
     "tags": ["English", "Established", "Surname"],
     "similar": ["Hadley", "Hayden", "Hollis"],
+    "about": "Harley began as an Old English place name meaning 'hare meadow,' combining wildlife with the open countryside. Originally a surname, it later became a widely recognised given name appreciated for its confident yet approachable style. Classic, adaptable and enduring, Harley continues to be a popular gender-neutral choice rooted in English landscape and history.",
     "featured": true
   },
   {
@@ -49,6 +52,7 @@
     "themes": ["Landscape"],
     "tags": ["English", "Place Name", "Contemporary"],
     "similar": ["Harper", "Hollis", "Hadley"],
+    "about": "Harlow developed from an English place name traditionally interpreted as meaning 'rock hill.' Its geographical origins give the name a quiet sense of strength and permanence while its flowing sound feels distinctly modern. Stylish without being overly common, Harlow has become a memorable gender-neutral choice that blends natural imagery with contemporary elegance.",
     "featured": true
   },
   {
@@ -62,6 +66,7 @@
     "themes": ["Music"],
     "tags": ["Occupational", "English", "Popular"],
     "similar": ["Hadley", "Hayden", "Hollis"],
+    "about": "Harper began as an English occupational surname for someone who played the harp, one of history's oldest and most celebrated musical instruments. Its artistic origins give the name enduring associations with creativity, expression and storytelling. Familiar, contemporary and versatile, Harper has become one of the most established gender-neutral names of recent generations.",
     "featured": true
   },
   {
@@ -75,6 +80,7 @@
     "themes": ["Words"],
     "tags": ["Word Name", "Peaceful", "Contemporary"],
     "similar": ["Harbor", "Cove", "Ever"],
+    "about": "Haven comes from the English word meaning a place of safety, shelter or refuge. Rich in positive symbolism, it evokes feelings of peace, comfort and belonging while remaining simple and modern in style. Gentle, meaningful and quietly distinctive, Haven is a contemporary gender-neutral choice inspired by security and hope.",
     "featured": true
   },
   {
@@ -82,12 +88,13 @@
     "slug": "hayden",
     "name": "Hayden",
     "meaning": "Hay valley",
-    "pronunciation": "HAY-dən",
+    "pronunciation": "HAY-den",
     "origin": "English",
     "collections": ["Traditional Unisex", "Modern"],
     "themes": ["Nature"],
     "tags": ["English", "Established", "Surname"],
     "similar": ["Hadley", "Harley", "Harper"],
+    "about": "Hayden originated as an English place name and surname meaning 'hay valley,' reflecting the rural landscapes of medieval England. Over time it evolved into a popular given name admired for its approachable sound and enduring versatility. Familiar, timeless and closely connected to nature, Hayden remains a well-established gender-neutral choice across generations.",
     "featured": true
   },
   {
@@ -101,19 +108,21 @@
     "themes": ["Trees"],
     "tags": ["Botanical", "Nature", "Woodland"],
     "similar": ["Cedar", "Fern", "Clover"],
+    "about": "Hazel takes its name from the hazel tree, a species long associated with wisdom, creativity and protection in European folklore. Its warm woodland imagery and seasonal beauty have made it one of the most enduring botanical names. Gentle, timeless and closely connected to nature, Hazel remains a much-loved gender-neutral choice with quiet elegance.",
     "featured": true
   },
   {
     "id": "hero",
     "slug": "hero",
     "name": "Hero",
-    "meaning": "Hero",
+    "meaning": "Protector; champion",
     "pronunciation": "HEER-oh",
     "origin": "Greek",
     "collections": ["Mythic", "Bold", "Rare"],
     "themes": ["Mythology"],
     "tags": ["Greek", "Mythology", "Strong"],
     "similar": ["Atlas", "Echo", "Fenix"],
+    "about": "Hero comes from the ancient Greek word for a protector or champion and is also the name of a figure in Greek mythology celebrated through classical literature. Throughout history, the name has symbolised courage, determination and selfless action rather than physical strength alone. Bold, uncommon and inspiring, Hero is a memorable gender-neutral choice with deep mythological and literary roots.",
     "featured": true
   },
   {
@@ -127,6 +136,7 @@
     "themes": ["Trees"],
     "tags": ["English", "Surname", "Botanical"],
     "similar": ["Harley", "Harlow", "Hazel"],
+    "about": "Hollis originated as an English surname meaning 'dweller by the holly trees,' connecting it with one of Britain's most recognisable evergreen plants. Holly has long symbolised resilience, protection and life through the winter months, giving the name rich natural imagery. Distinctive yet timeless, Hollis is a refined gender-neutral choice that blends botanical heritage with contemporary style.",
     "featured": true
   }
 ]
