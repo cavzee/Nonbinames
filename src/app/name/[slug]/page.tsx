@@ -8,10 +8,14 @@ import { NameHero } from "@/components/names/NameHero";
 import { NameMeta } from "@/components/names/NameMeta";
 import { NameAbout } from "@/components/names/NameAbout";
 import { SimilarNames } from "@/components/names/SimilarNames";
+import { SurpriseAgain } from "@/components/names/SurpriseAgain";
 
 type Props = {
   params: Promise<{
     slug: string;
+  }>;
+  searchParams: Promise<{
+    returnTo?: string;
   }>;
 };
 
@@ -59,8 +63,12 @@ export async function generateMetadata(
   };
 }
 
-export default async function NamePage({ params }: Props) {
+export default async function NamePage({
+  params,
+  searchParams,
+}: Props) {
   const { slug } = await params;
+  const { returnTo } = await searchParams;
 
   const name = getNameBySlug(slug);
 
@@ -68,12 +76,20 @@ export default async function NamePage({ params }: Props) {
     notFound();
   }
 
+  const discoverUrl =
+    returnTo && returnTo.startsWith("/discover")
+      ? returnTo
+      : "/discover";
+
+  const discoverParams = new URLSearchParams(
+    discoverUrl.split("?")[1] ?? ""
+  );
+
   return (
     <main className="min-h-screen bg-zinc-950 text-white">
       <section className="mx-auto max-w-5xl px-8 py-20">
-
         <Link
-          href="/discover"
+          href={discoverUrl}
           className="text-sm text-zinc-500 transition hover:text-white"
         >
           ← Back to Discover
@@ -87,8 +103,17 @@ export default async function NamePage({ params }: Props) {
 
         <NameAbout name={name} />
 
-        <SimilarNames name={name} />
+        <SurpriseAgain
+          query={discoverParams.get("query") ?? ""}
+          collection={discoverParams.get("collection") ?? ""}
+          theme={discoverParams.get("theme") ?? ""}
+          origin={discoverParams.get("origin") ?? ""}
+          firstLetter={discoverParams.get("firstLetter") ?? ""}
+          currentNameId={name.id}
+          returnTo={discoverUrl}
+        />
 
+        <SimilarNames name={name} />
       </section>
     </main>
   );

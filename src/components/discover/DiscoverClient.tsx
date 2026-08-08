@@ -28,6 +28,7 @@ export function DiscoverClient() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
+  const query = searchParams.get("query") ?? "";
   const collection = searchParams.get("collection") ?? "";
   const theme = searchParams.get("theme") ?? "";
   const origin = searchParams.get("origin") ?? "";
@@ -69,6 +70,7 @@ export function DiscoverClient() {
       />
 
       <SearchSection
+        initialQuery={query}
         collection={collection}
         theme={theme}
         origin={origin}

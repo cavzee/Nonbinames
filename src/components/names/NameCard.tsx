@@ -3,6 +3,7 @@ import type { Name } from "@/types/name";
 
 type Props = {
   name: Name;
+  returnTo?: string;
 };
 
 function accent(theme: string) {
@@ -33,9 +34,16 @@ function accent(theme: string) {
   }
 }
 
-export function NameCard({ name }: Props) {
+export function NameCard({ name, returnTo }: Props) {
+  const href = returnTo
+    ? `/name/${name.slug}?returnTo=${encodeURIComponent(returnTo)}`
+    : `/name/${name.slug}`;
+
   return (
-    <Link href={`/name/${name.slug}`} className="group block rounded-3xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-violet-400 focus-visible:ring-offset-2 focus-visible:ring-offset-zinc-950">
+    <Link
+      href={href}
+      className="group block rounded-3xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-violet-400 focus-visible:ring-offset-2 focus-visible:ring-offset-zinc-950"
+    >
       <article
         className={`relative h-full rounded-3xl border border-zinc-800 bg-zinc-900/70 p-6 transition-all duration-300 hover:-translate-y-1 ${accent(
           name.themes[0]

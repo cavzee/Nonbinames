@@ -1,10 +1,13 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import { useRouter } from "next/navigation";
+
 import { filterNames } from "@/lib";
 import { NameCard } from "@/components/names/NameCard";
 
 type Props = {
+  initialQuery?: string;
   collection?: string;
   theme?: string;
   origin?: string;
@@ -14,13 +17,17 @@ type Props = {
 const RESULTS_PER_LOAD = 24;
 
 export function SearchSection({
+  initialQuery = "",
   collection = "",
   theme = "",
   origin = "",
   firstLetter = "",
 }: Props) {
-  const [query, setQuery] = useState("");
+  const router = useRouter();
+
+  const [query, setQuery] = useState(initialQuery);
   const [visibleCount, setVisibleCount] = useState(RESULTS_PER_LOAD);
+  const [lastSurpriseId, setLastSurpriseId] = useState<string | null>(null);
 
   const names = useMemo(
     () =>
@@ -35,11 +42,49 @@ export function SearchSection({
   );
 
   useEffect(() => {
+    setQuery(initialQuery);
     setVisibleCount(RESULTS_PER_LOAD);
-  }, [query, collection, theme, origin, firstLetter]);
+    setLastSurpriseId(null);
+  }, [initialQuery, collection, theme, origin, firstLetter]);
 
   const visibleNames = names.slice(0, visibleCount);
   const hasMore = visibleCount < names.length;
+
+  function buildReturnUrl() {
+    const params = new URLSearchParams();
+
+    if (query) params.set("query", query);
+    if (collection) params.set("collection", collection);
+    if (theme) params.set("theme", theme);
+    if (origin) params.set("origin", origin);
+    if (firstLetter) params.set("firstLetter", firstLetter);
+
+    const queryString = params.toString();
+
+    return queryString ? `/discover?${queryString}` : "/discover";
+  }
+
+  function surpriseMe() {
+    if (names.length === 0) return;
+
+    const candidates =
+      names.length > 1 && lastSurpriseId
+        ? names.filter((name) => name.id !== lastSurpriseId)
+        : names;
+
+    const selected =
+      candidates[Math.floor(Math.random() * candidates.length)];
+
+    setLastSurpriseId(selected.id);
+
+    const returnTo = buildReturnUrl();
+
+    router.push(
+      `/name/${selected.slug}?returnTo=${encodeURIComponent(returnTo)}`
+    );
+  }
+
+  const returnTo = buildReturnUrl();
 
   return (
     <section className="mt-16">
@@ -67,7 +112,7 @@ export function SearchSection({
         className="w-full rounded-2xl border border-zinc-800 bg-zinc-900 px-6 py-5 text-lg text-white placeholder:text-zinc-500 focus:border-violet-500 focus:outline-none"
       />
 
-      <div className="mt-6 flex items-center justify-between gap-4">
+      <div className="mt-6 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
         <p
           id="search-results"
           aria-live="polite"
@@ -82,15 +127,27 @@ export function SearchSection({
           {firstLetter && <> • Starts with <strong>{firstLetter}</strong></>}
         </p>
 
-        {query && (
-          <button
-            type="button"
-            onClick={() => setQuery("")}
-            className="shrink-0 text-sm text-zinc-500 transition hover:text-white"
-          >
-            Clear Search
-          </button>
-        )}
+        <div className="flex items-center gap-4">
+          {query && (
+            <button
+              type="button"
+              onClick={() => setQuery("")}
+              className="text-sm text-zinc-500 transition hover:text-white"
+            >
+              Clear Search
+            </button>
+          )}
+
+          {names.length > 0 && (
+            <button
+              type="button"
+              onClick={surpriseMe}
+              className="rounded-xl border border-violet-500/40 bg-violet-500/10 px-4 py-2 text-sm font-medium text-violet-300 transition hover:border-violet-400 hover:bg-violet-500/20 hover:text-white focus:outline-none focus:ring-2 focus:ring-violet-500 focus:ring-offset-2 focus:ring-offset-zinc-950"
+            >
+              <span aria-hidden="true">✨</span> Surprise me
+            </button>
+          )}
+        </div>
       </div>
 
       {names.length === 0 ? (
@@ -105,7 +162,11 @@ export function SearchSection({
         <>
           <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {visibleNames.map((name) => (
-              <NameCard key={name.id} name={name} />
+              <NameCard
+                key={name.id}
+                name={name}
+                returnTo={returnTo}
+              />
             ))}
           </div>
 
