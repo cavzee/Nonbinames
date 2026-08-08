@@ -20,13 +20,7 @@
 - Twitter metadata
 - Favicons
 - Web app manifest
-
----
-
-## 🔄 Current Phase — Pre-Launch
-
-### ♿ Accessibility Audit
-
+- Accessibility audit
 - Semantic HTML
 - Keyboard navigation
 - Focus states
@@ -35,6 +29,10 @@
 - Screen-reader usability
 - Heading hierarchy
 - Link and button behaviour
+
+---
+
+## 🔄 Current Phase — Pre-Launch
 
 ### 🧪 Data Validation Script
 
