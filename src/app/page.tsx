@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 
 import { HomeHero } from "@/components/home/HomeHero";
@@ -6,6 +7,24 @@ import { HiddenGem } from "@/components/home/HiddenGem";
 import { FeaturedNames } from "@/components/home/FeaturedNames";
 import { HeroSection } from "@/components/sections/HeroSection";
 import { ExploreSection } from "@/components/sections/ExploreSection";
+
+export const metadata: Metadata = {
+  title: "Discover Gender-Neutral & Non-Binary Names",
+
+  description:
+    "Discover carefully curated gender-neutral, non-binary and inclusive names with meanings, origins, pronunciation and inspiration.",
+
+  alternates: {
+    canonical: "https://nonbinames.com",
+  },
+
+  openGraph: {
+    title: "NonbiNames",
+    description:
+      "Discover carefully curated gender-neutral, non-binary and inclusive names.",
+    url: "https://nonbinames.com",
+  },
+};
 
 export default function Home() {
   return (
