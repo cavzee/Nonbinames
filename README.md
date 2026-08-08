@@ -39,12 +39,19 @@ Unlike traditional baby name websites, every name is carefully researched, edito
 
 ## 📊 Current Progress
 
-- ✅ 110+ curated names
+- ✅ Curated name library
 - ✅ Scalable alphabetical datasets
-- ✅ Instant search
-- ✅ Vibe filtering
+- ✅ Instant client-side search
+- ✅ Collection filtering
 - ✅ Responsive homepage
-- 🚧 Name Detail Pages (next milestone)
+- ✅ Dynamic statistics
+- ✅ Name detail pages
+- ✅ Similar name discovery
+- ✅ Technical SEO foundation
+- 🔄 Pre-launch accessibility and quality review
+- 📝 Q–Z editorial expansion
+
+See [`ROADMAP.md`](ROADMAP.md) for the complete development roadmap.
 
 ---
 
@@ -91,18 +98,6 @@ http://localhost:3000
 Build the world's best identity-first name discovery platform.
 
 Every name deserves thoughtful research, meaningful context, and a beautiful browsing experience.
-
----
-
-## 🗺️ Roadmap
-
-Current focus:
-
-- 📖 Name Detail Pages
-- 🔗 Similar Names
-- ❤️ Favourites
-- 🌍 SEO optimisation
-- 📚 Continue expanding the editorial library
 
 ---
 

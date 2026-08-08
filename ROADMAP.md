@@ -1,162 +1,117 @@
-# 🚀 NonbiNames Roadmap
+# 🗺️ NonbiNames Roadmap
 
-> **Vision:** Build the world's best identity-first name discovery platform.
+## ✅ Completed
 
----
-
-# ✅ Completed
-
-## Foundation
-- [x] Development environment
-- [x] Next.js + TypeScript + Tailwind CSS
-- [x] GitHub + Vercel deployment
-- [x] Scalable project architecture
-
-## Discovery Engine
-- [x] Instant search
-- [x] Explore by Vibe
-- [x] Combined search + vibe filtering
-- [x] Results counter
-- [x] Empty state
-- [x] Responsive homepage
-
-## Editorial Library
-- [x] Alphabetical JSON architecture
-- [x] Editorial workflow established
-- [x] 110 curated names (A–J)
+- Identity-first homepage
+- Curated name library
+- Alphabetical datasets
+- Instant client-side search
+- Collection filtering
+- Name detail pages
+- Similar name discovery
+- Responsive design
+- Dynamic site statistics
+- Next.js 16 architecture cleanup
+- Technical SEO foundation
+- robots.txt
+- sitemap.xml
+- Page-level metadata
+- Open Graph metadata
+- Twitter metadata
+- Favicons
+- Web app manifest
 
 ---
 
-# 🚧 Current Phase
+## 🔄 Current Phase — Pre-Launch
 
-## Build Pack 010 — Name Detail Pages
+### ♿ Accessibility Audit
 
-- [ ] Dynamic routes
-- [ ] Individual name pages
-- [ ] Pronunciation
-- [ ] Origin
-- [ ] Meaning
-- [ ] Collections
-- [ ] Themes
-- [ ] Similar names
-- [ ] Copy name
-- [ ] Share name
-- [ ] SEO metadata
+- Semantic HTML
+- Keyboard navigation
+- Focus states
+- Form labels
+- Colour contrast
+- Screen-reader usability
+- Heading hierarchy
+- Link and button behaviour
 
----
+### 🧪 Data Validation Script
 
-# 📚 Editorial Library
+- Missing required fields
+- Duplicate names and slugs
+- Invalid collections and themes
+- Broken similar-name references
+- Data consistency checks
+- Missing Q–Z entries
 
-Current progress:
+### 📚 Complete Q–Z Name Datasets
 
-- ✅ A
-- ✅ B
-- ✅ C
-- ✅ D
-- ✅ E
-- ✅ F
-- ✅ G
-- ✅ H
-- ✅ I
-- ✅ J
+- Finish remaining Q–Z names
+- Verify meanings
+- Verify pronunciations
+- Verify origins
+- Verify collections and themes
+- Verify similar-name references
+- Complete editorial content
 
-Next:
+### 📝 Final Editorial Review
 
-- [ ] K
-- [ ] L
-- [ ] M
-- [ ] N
-- [ ] O
-- [ ] P
-- [ ] Q
-- [ ] R
-- [ ] S
-- [ ] T
-- [ ] U
-- [ ] V
-- [ ] W
-- [ ] X
-- [ ] Y
-- [ ] Z
-
-Target milestones:
-
-- 🎯 250 names
-- 🎯 500 names
-- 🎯 1000+ names
+- Review every name
+- Check consistency of descriptions
+- Check spelling and formatting
+- Remove placeholder content
+- Confirm every name meets the NonbiNames curation standard
 
 ---
 
-# 🌈 Vibes
+## 🚀 Final Production Review
 
-- Modern
-- Nature
-- Celestial
-- Mythic
-- Classic
-- Traditional Unisex
-- Rare
-- Bold
-- Soft
-- Ocean
-- Autumn
-- Earthy
-- Futuristic
+- 📱 Mobile UX review
+- ⚡ Performance / Lighthouse review
+- 🔗 Internal linking review
+- 🔍 Final SEO verification
+- ♿ Accessibility verification
+- 🧹 Final codebase cleanup
+- 🧪 Production build verification
+- 🔗 Broken-link review
+- 🚀 Vercel deployment review
 
 ---
 
-# 🛣️ Future Features
+## 🌎 Post-Launch
 
-- [ ] Similar names
-- [ ] Favourites
-- [ ] Local storage
-- [ ] First-letter filtering
-- [ ] Origin filtering
-- [ ] Multiple filters
-- [ ] Editorial stories
-- [ ] Dark mode
-- [ ] Accessibility improvements
-- [ ] Lighthouse 100/100
-- [ ] SEO optimisation
-- [ ] Sitemap
-- [ ] Open Graph
-- [ ] Structured data
+- ❤️ Favourites
+- 🔗 Enhanced name discovery
+- 🎨 Expanded collections
+- 📊 Search and discovery insights
+- 📚 Continued editorial library expansion
 
 ---
 
-# 🚀 Launch
+## 🎯 Long-Term Vision
 
-- [ ] Connect nonbinames.com
-- [ ] Production testing
-- [ ] Analytics
-- [ ] Beta launch
-- [ ] Public launch
+Build the world's best identity-first name discovery platform.
+
+Every name deserves thoughtful research, meaningful context, and a beautiful browsing experience.
 
 ---
 
-# 💡 Product Principles
+## 💡 Product Principles
 
 - Identity First
 - Discovery Before Search
 - Collections Over Categories
-- Fast By Default
-- Beautiful By Default
+- Fast by Default
+- Beautiful by Default
 - Every Name Is Curated
 - Learn From Everyone. Copy No One.
 - Monetization Should Never Reduce Trust
 
 ---
 
-# 📈 Current Status
+## 📈 Editorial Growth Targets
 
-**Version:** v0.3.0
-
-✅ Discovery engine complete
-
-✅ Editorial workflow established
-
-✅ 110 curated names published
-
-🚧 Building Name Detail Pages
-
-🎯 Next milestone: Build Pack 010
+- 🎯 250 names
+- 🎯 500 names
+- 🎯 1000+ names
