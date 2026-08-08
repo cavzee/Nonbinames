@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -23,16 +24,15 @@ export const metadata: Metadata = {
   description:
     "Discover carefully curated gender-neutral, non-binary and unisex names with meanings, origins, pronunciation and inspiration.",
 
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/favicon-96x96.png", sizes: "96x96", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
 
-    icons: {
-  icon: [
-    { url: "/favicon.svg", type: "image/svg+xml" },
-    { url: "/favicon-96x96.png", sizes: "96x96", type: "image/png" },
-  ],
-  apple: "/apple-touch-icon.png",
-},
-
-manifest: "/site.webmanifest",
+  manifest: "/site.webmanifest",
 
   applicationName: "NonbiNames",
 
@@ -80,6 +80,7 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         {children}
+        <Analytics />
       </body>
     </html>
   );
