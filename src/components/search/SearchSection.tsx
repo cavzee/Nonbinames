@@ -36,7 +36,7 @@ export function SearchSection({
 
       <div className="mb-8">
         <h2 className="text-3xl font-bold">
-          🔍 Search Names
+          <span aria-hidden="true">🔍</span> Search Names
         </h2>
 
         <p className="mt-3 text-zinc-400">
@@ -44,17 +44,23 @@ export function SearchSection({
         </p>
       </div>
 
+      <label htmlFor="name-search" className="sr-only">
+        Search names
+      </label>
+
       <input
-        type="text"
+        id="name-search"
+        type="search"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
+        aria-describedby="search-results"
         placeholder="Try Juniper, Ocean, Avery..."
         className="w-full rounded-2xl border border-zinc-800 bg-zinc-900 px-6 py-5 text-lg text-white placeholder:text-zinc-500 focus:border-violet-500 focus:outline-none"
       />
 
       <div className="mt-6 flex items-center justify-between">
 
-        <p className="text-sm text-zinc-400">
+        <p id="search-results" aria-live="polite" className="text-sm text-zinc-400">
           Showing <strong>{names.length}</strong>{" "}
           {names.length === 1 ? "name" : "names"}
 
