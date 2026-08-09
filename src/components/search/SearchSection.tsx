@@ -12,6 +12,8 @@ type Props = {
   theme?: string;
   origin?: string;
   firstLetter?: string;
+  direction?: string;
+  directionType?: "theme" | "collection" | "origin" | "firstLetter" | "";
 };
 
 const RESULTS_PER_LOAD = 24;
@@ -22,6 +24,8 @@ export function SearchSection({
   theme = "",
   origin = "",
   firstLetter = "",
+  direction = "",
+  directionType = "",
 }: Props) {
   const router = useRouter();
 
@@ -37,15 +41,25 @@ export function SearchSection({
         theme: theme || undefined,
         origin: origin || undefined,
         firstLetter: firstLetter || undefined,
+        direction: direction || undefined,
+        directionType: directionType || undefined,
       }),
-    [query, collection, theme, origin, firstLetter]
+    [query, collection, theme, origin, firstLetter, direction, directionType]
   );
 
   useEffect(() => {
     setQuery(initialQuery);
     setVisibleCount(RESULTS_PER_LOAD);
     setLastSurpriseId(null);
-  }, [initialQuery, collection, theme, origin, firstLetter]);
+  }, [
+    initialQuery,
+    collection,
+    theme,
+    origin,
+    firstLetter,
+    direction,
+    directionType,
+  ]);
 
   const visibleNames = names.slice(0, visibleCount);
   const hasMore = visibleCount < names.length;
@@ -58,6 +72,8 @@ export function SearchSection({
     if (theme) params.set("theme", theme);
     if (origin) params.set("origin", origin);
     if (firstLetter) params.set("firstLetter", firstLetter);
+    if (direction) params.set("direction", direction);
+    if (directionType) params.set("directionType", directionType);
 
     const queryString = params.toString();
 

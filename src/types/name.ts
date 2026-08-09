@@ -23,5 +23,7 @@ export interface NameFilters {
   theme?: string;
   origin?: string;
   firstLetter?: string;
+  direction?: string;
+  directionType?: "theme" | "collection" | "origin" | "firstLetter";
   length?: number;
 }

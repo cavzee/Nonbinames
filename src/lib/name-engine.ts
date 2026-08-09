@@ -59,6 +59,34 @@ export function filterNames(filters: NameFilters = {}) {
       return false;
     }
 
+    if (filters.direction && filters.directionType) {
+      const direction = filters.direction;
+
+      if (filters.directionType === "theme") {
+        if (!name.themes.includes(direction)) {
+          return false;
+        }
+      }
+
+      if (filters.directionType === "collection") {
+        if (!name.collections.includes(direction)) {
+          return false;
+        }
+      }
+
+      if (filters.directionType === "origin") {
+        if (name.origin !== direction) {
+          return false;
+        }
+      }
+
+      if (filters.directionType === "firstLetter") {
+        if (!name.name.startsWith(direction)) {
+          return false;
+        }
+      }
+    }
+
     if (
       filters.length &&
       name.name.length !== filters.length
