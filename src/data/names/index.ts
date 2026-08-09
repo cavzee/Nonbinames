@@ -22,6 +22,7 @@ import u from "./u.json";
 import v from "./v.json";
 import w from "./w.json";
 import x from "./x.json";
+import y from "./y.json";
 const names = [
   ...a,
   ...b,
@@ -47,6 +48,7 @@ const names = [
   ...v,
   ...w,
   ...x,
+  ...y,
 ];
 
 export default names;
