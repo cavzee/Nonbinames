@@ -20,6 +20,16 @@ Quality always comes before quantity.
 
 # Editorial Principles
 
+### Global by Default
+
+NonbiNames should represent names from languages, cultures, and naming traditions around the world.
+
+English-language naming sources are useful references, but they should never define the boundaries of the collection.
+
+Names should be researched in their cultural and linguistic context, including spelling, pronunciation, meaning, and usage.
+
+Inclusion does not lower the editorial standard. Every name must still be genuinely attested, appropriately sourced, and suitable for the NonbiNames audience.
+
 Every name must be:
 
 - Verified from reliable sources
@@ -41,6 +51,8 @@ Every new name follows this process:
 3. Editorial review
 4. JSON entry
 5. Git commit
+
+Research should consider sources and naming traditions beyond English-language databases whenever appropriate.
 
 No name should skip verification.
 

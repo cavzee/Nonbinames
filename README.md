@@ -16,6 +16,7 @@ Unlike traditional baby name websites, every name is carefully researched, edito
 - ⚡ Static, lightning-fast architecture
 - 📱 Responsive design
 - 🏷️ Rich metadata for every name
+- 🌍 Globally inclusive editorial library
 
 ---
 

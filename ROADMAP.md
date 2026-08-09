@@ -53,6 +53,14 @@
 - Verify similar-name references
 - Complete editorial content
 
+### 🌍 Global Editorial Expansion
+
+- Expand representation across languages and cultures
+- Research through culturally and linguistically appropriate sources
+- Avoid allowing English-language naming databases to define the collection
+- Maintain consistent verification and editorial standards regardless of cultural origin
+- Distribute global representation throughout the main collection rather than isolating it into a separate category
+
 ### 📝 Final Editorial Review
 
 - Review every name
@@ -103,6 +111,7 @@ Every name deserves thoughtful research, meaningful context, and a beautiful bro
 - Fast by Default
 - Beautiful by Default
 - Every Name Is Curated
+- Global by Default
 - Learn From Everyone. Copy No One.
 - Monetization Should Never Reduce Trust
 
