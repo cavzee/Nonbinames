@@ -23,6 +23,7 @@ import v from "./v.json";
 import w from "./w.json";
 import x from "./x.json";
 import y from "./y.json";
+import z from "./z.json";
 const names = [
   ...a,
   ...b,
@@ -49,6 +50,7 @@ const names = [
   ...w,
   ...x,
   ...y,
+  ...z,
 ];
 
 export default names;
