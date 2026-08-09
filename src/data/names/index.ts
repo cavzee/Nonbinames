@@ -18,6 +18,7 @@ import q from "./q.json";
 import r from "./r.json";
 import s from "./s.json";
 import t from "./t.json";
+import u from "./u.json";
 const names = [
   ...a,
   ...b,
@@ -39,6 +40,7 @@ const names = [
   ...r,
   ...s,
   ...t,
+  ...u,
 ];
 
 export default names;
