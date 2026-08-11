@@ -10,6 +10,7 @@ import { SmartRefinement } from "@/components/discover/SmartRefinement";
 import {
   filterNames,
   getCollections,
+  getLetters,
 } from "@/lib";
 
 export function DiscoverClient() {
@@ -55,6 +56,7 @@ export function DiscoverClient() {
     );
   }
   const collections = getCollections();
+  const letters = getLetters();
 
   return (
     <section className="mx-auto max-w-6xl px-6 py-20">
@@ -71,6 +73,7 @@ export function DiscoverClient() {
       />
 
       <LetterFilter
+        letters={letters}
         selected={firstLetter}
         onSelect={(value) => updateParam("firstLetter", value)}
       />

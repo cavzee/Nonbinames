@@ -124,6 +124,22 @@ export function getCollections() {
     });
 }
 
+export function getLetters() {
+  const counts = new Map<string, number>();
+
+  for (const name of allNames) {
+    const letter = name.name.charAt(0).toUpperCase();
+
+    if (letter) {
+      counts.set(letter, (counts.get(letter) ?? 0) + 1);
+    }
+  }
+
+  return Array.from(counts.entries())
+    .map(([letter, count]) => ({ letter, count }))
+    .sort((a, b) => a.letter.localeCompare(b.letter));
+}
+
 export function getThemeCount() {
   return new Set(
     allNames.flatMap((name) => name.themes)
