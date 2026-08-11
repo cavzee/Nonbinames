@@ -7,23 +7,10 @@ import { LetterFilter } from "@/components/discover/LetterFilter";
 import { CollectionFilter } from "@/components/discover/CollectionFilter";
 import { SearchSection } from "@/components/search/SearchSection";
 import { SmartRefinement } from "@/components/discover/SmartRefinement";
-import { filterNames } from "@/lib";
-
-const collections = [
-  "Nature",
-  "Modern",
-  "Traditional Unisex",
-  "Classic",
-  "Rare",
-  "Bold",
-  "Soft",
-  "Ocean",
-  "Celestial",
-  "Earthy",
-  "Mythic",
-  "Autumn",
-  "Futuristic",
-];
+import {
+  filterNames,
+  getCollections,
+} from "@/lib";
 
 export function DiscoverClient() {
   const router = useRouter();
@@ -67,6 +54,7 @@ export function DiscoverClient() {
       queryString ? `/discover?${queryString}` : "/discover"
     );
   }
+  const collections = getCollections();
 
   return (
     <section className="mx-auto max-w-6xl px-6 py-20">
@@ -88,7 +76,7 @@ export function DiscoverClient() {
       />
 
       <CollectionFilter
-        collections={collections}
+        collections={collections.map((collection) => collection.name)}
         selected={collection}
         onSelect={(value) => updateParam("collection", value)}
       />

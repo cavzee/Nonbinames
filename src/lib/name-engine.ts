@@ -104,6 +104,26 @@ export function getCollectionCount() {
   ).size;
 }
 
+export function getCollections() {
+  const counts = new Map<string, number>();
+
+  for (const name of allNames) {
+    for (const collection of name.collections) {
+      counts.set(collection, (counts.get(collection) ?? 0) + 1);
+    }
+  }
+
+  return Array.from(counts.entries())
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => {
+      if (a.count !== b.count) {
+        return b.count - a.count;
+      }
+
+      return a.name.localeCompare(b.name);
+    });
+}
+
 export function getThemeCount() {
   return new Set(
     allNames.flatMap((name) => name.themes)
