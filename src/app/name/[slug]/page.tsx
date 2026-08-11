@@ -32,10 +32,10 @@ export async function generateMetadata(
     };
   }
 
-  const title = `${name.name} | NonbiNames`;
+  const title = `${name.name} — Meaning, Origin & Gender-Neutral Name | NonbiNames`;
 
   const description =
-    `Discover the meaning, origin, pronunciation and inspiration behind the gender-neutral name ${name.name}.`;
+    `Discover ${name.name}, a gender-neutral name meaning "${name.meaning}" with ${name.origin} origins. Explore its pronunciation, themes, inspiration and similar names.`;
 
   const url = `https://nonbinames.com/name/${name.slug}`;
 
