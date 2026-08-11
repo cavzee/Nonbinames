@@ -5,7 +5,6 @@ import { HomeHero } from "@/components/home/HomeHero";
 import { Statistics } from "@/components/home/Statistics";
 import { HiddenGem } from "@/components/home/HiddenGem";
 import { FeaturedNames } from "@/components/home/FeaturedNames";
-import { HeroSection } from "@/components/sections/HeroSection";
 import { ExploreSection } from "@/components/sections/ExploreSection";
 
 export const metadata: Metadata = {
@@ -35,8 +34,6 @@ export default function Home() {
         <HomeHero />
 
         <Statistics />
-
-        <HeroSection />
 
         <FeaturedNames />
 
