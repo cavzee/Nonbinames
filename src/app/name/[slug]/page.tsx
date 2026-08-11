@@ -1,21 +1,28 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { Suspense } from "react";
 import { notFound } from "next/navigation";
 
-import { getNameBySlug } from "@/lib";
+import {
+  getAllNames,
+  getNameBySlug,
+} from "@/lib";
 
 import { NameHero } from "@/components/names/NameHero";
 import { NameMeta } from "@/components/names/NameMeta";
 import { NameAbout } from "@/components/names/NameAbout";
 import { SimilarNames } from "@/components/names/SimilarNames";
 import { SurpriseAgain } from "@/components/names/SurpriseAgain";
+import { NameBackLink } from "@/components/names/NameBackLink";
+
+export function generateStaticParams() {
+  return getAllNames().map((name) => ({
+    slug: name.slug,
+  }));
+}
 
 type Props = {
   params: Promise<{
     slug: string;
-  }>;
-  searchParams: Promise<{
-    returnTo?: string;
   }>;
 };
 
@@ -65,10 +72,8 @@ export async function generateMetadata(
 
 export default async function NamePage({
   params,
-  searchParams,
 }: Props) {
   const { slug } = await params;
-  const { returnTo } = await searchParams;
 
   const name = getNameBySlug(slug);
 
@@ -76,24 +81,12 @@ export default async function NamePage({
     notFound();
   }
 
-  const discoverUrl =
-    returnTo && returnTo.startsWith("/discover")
-      ? returnTo
-      : "/discover";
-
-  const discoverParams = new URLSearchParams(
-    discoverUrl.split("?")[1] ?? ""
-  );
-
   return (
     <main className="min-h-screen bg-zinc-950 text-white">
       <section className="mx-auto max-w-5xl px-8 py-20">
-        <Link
-          href={discoverUrl}
-          className="text-sm text-zinc-500 transition hover:text-white"
-        >
-          ← Back to Discover
-        </Link>
+        <Suspense fallback={null}>
+          <NameBackLink />
+        </Suspense>
 
         <div className="mt-10">
           <NameHero name={name} />
@@ -103,15 +96,9 @@ export default async function NamePage({
 
         <NameAbout name={name} />
 
-        <SurpriseAgain
-          query={discoverParams.get("query") ?? ""}
-          collection={discoverParams.get("collection") ?? ""}
-          theme={discoverParams.get("theme") ?? ""}
-          origin={discoverParams.get("origin") ?? ""}
-          firstLetter={discoverParams.get("firstLetter") ?? ""}
-          currentNameId={name.id}
-          returnTo={discoverUrl}
-        />
+        <Suspense fallback={null}>
+          <SurpriseAgain currentNameId={name.id} />
+        </Suspense>
 
         <SimilarNames name={name} />
       </section>

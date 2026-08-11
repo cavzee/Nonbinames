@@ -1,30 +1,32 @@
 "use client";
 
 import { useMemo } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 
 import { filterNames } from "@/lib";
 
 type Props = {
-  query?: string;
-  collection?: string;
-  theme?: string;
-  origin?: string;
-  firstLetter?: string;
   currentNameId: string;
-  returnTo: string;
 };
 
 export function SurpriseAgain({
-  query = "",
-  collection = "",
-  theme = "",
-  origin = "",
-  firstLetter = "",
   currentNameId,
-  returnTo,
 }: Props) {
   const router = useRouter();
+  const searchParams = useSearchParams();
+
+  const query = searchParams.get("query") ?? "";
+  const collection = searchParams.get("collection") ?? "";
+  const theme = searchParams.get("theme") ?? "";
+  const origin = searchParams.get("origin") ?? "";
+  const firstLetter = searchParams.get("firstLetter") ?? "";
+  const direction = searchParams.get("direction") ?? "";
+  const directionType = searchParams.get("directionType") as
+    | "theme"
+    | "collection"
+    | "origin"
+    | "firstLetter"
+    | "";
 
   const names = useMemo(
     () =>
@@ -34,17 +36,33 @@ export function SurpriseAgain({
         theme: theme || undefined,
         origin: origin || undefined,
         firstLetter: firstLetter || undefined,
+        direction: direction || undefined,
+        directionType: directionType || undefined,
       }),
-    [query, collection, theme, origin, firstLetter]
+    [
+      query,
+      collection,
+      theme,
+      origin,
+      firstLetter,
+      direction,
+      directionType,
+    ]
   );
 
   function surpriseAgain() {
-    const candidates = names.filter((name) => name.id !== currentNameId);
+    const candidates = names.filter(
+      (name) => name.id !== currentNameId
+    );
 
     if (candidates.length === 0) return;
 
     const selected =
       candidates[Math.floor(Math.random() * candidates.length)];
+
+    const returnTo = window.location.search
+      ? `/discover${window.location.search}`
+      : "/discover";
 
     router.push(
       `/name/${selected.slug}?returnTo=${encodeURIComponent(returnTo)}`
