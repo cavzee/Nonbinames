@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 
 import { filterNames } from "@/lib";
+import { trackEvent } from "@/lib/analytics";
 import { NameCard } from "@/components/names/NameCard";
 
 type Props = {
@@ -32,6 +33,7 @@ export function SearchSection({
   const [query, setQuery] = useState(initialQuery);
   const [visibleCount, setVisibleCount] = useState(RESULTS_PER_LOAD);
   const [lastSurpriseId, setLastSurpriseId] = useState<string | null>(null);
+  const [lastTrackedSearch, setLastTrackedSearch] = useState("");
 
   const names = useMemo(
     () =>
@@ -51,6 +53,7 @@ export function SearchSection({
     setQuery(initialQuery);
     setVisibleCount(RESULTS_PER_LOAD);
     setLastSurpriseId(null);
+    setLastTrackedSearch("");
   }, [
     initialQuery,
     collection,
@@ -138,6 +141,18 @@ export function SearchSection({
         type="search"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
+        onKeyDown={(e) => {
+          const search = query.trim();
+
+          if (e.key === "Enter" && search && search !== lastTrackedSearch) {
+            trackEvent("search", {
+              queryLength: search.length,
+              resultCount: names.length,
+            });
+
+            setLastTrackedSearch(search);
+          }
+        }}
         aria-describedby="search-results"
         placeholder="Try Juniper, Ocean, Avery..."
         className="w-full rounded-2xl border border-zinc-800 bg-zinc-900 px-6 py-5 text-lg text-white placeholder:text-zinc-500 focus:border-violet-500 focus:outline-none"

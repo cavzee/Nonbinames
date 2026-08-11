@@ -1,5 +1,7 @@
 "use client";
 
+import { trackEvent } from "@/lib/analytics";
+
 type Letter = {
   letter: string;
   count: number;
@@ -43,7 +45,16 @@ export function LetterFilter({
               key={item.letter}
               type="button"
               aria-pressed={active}
-              onClick={() => onSelect(active ? "" : item.letter)}
+              onClick={() => {
+                if (!active) {
+                  trackEvent("letter_select", {
+                    letter: item.letter,
+                    resultCount: item.count,
+                  });
+                }
+
+                onSelect(active ? "" : item.letter);
+              }}
               className={`rounded-lg px-3.5 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-violet-400 focus-visible:ring-offset-2 focus-visible:ring-offset-zinc-950 ${
                 active
                   ? "bg-violet-500 text-white"

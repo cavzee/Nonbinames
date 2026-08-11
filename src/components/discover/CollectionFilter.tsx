@@ -1,5 +1,7 @@
 "use client";
 
+import { trackEvent } from "@/lib/analytics";
+
 type Collection = {
   name: string;
   count: number;
@@ -43,7 +45,16 @@ export function CollectionFilter({
               key={collection.name}
               type="button"
               aria-pressed={active}
-              onClick={() => onSelect(active ? "" : collection.name)}
+              onClick={() => {
+                if (!active) {
+                  trackEvent("collection_select", {
+                    collection: collection.name,
+                    resultCount: collection.count,
+                  });
+                }
+
+                onSelect(active ? "" : collection.name);
+              }}
               className={`rounded-full px-3.5 py-1.5 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-violet-400 focus-visible:ring-offset-2 focus-visible:ring-offset-zinc-950 ${
                 active
                   ? "bg-violet-500 text-white"

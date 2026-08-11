@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { trackEvent } from "@/lib/analytics";
 import type { Name } from "@/types/name";
 
 type Props = {
@@ -42,6 +43,12 @@ export function NameCard({ name, returnTo }: Props) {
   return (
     <Link
       href={href}
+      onClick={() => {
+        trackEvent("name_view", {
+          slug: name.slug,
+          featured: name.featured,
+        });
+      }}
       className="group block rounded-3xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-violet-400 focus-visible:ring-offset-2 focus-visible:ring-offset-zinc-950"
     >
       <article
