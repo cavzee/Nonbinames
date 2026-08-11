@@ -80,6 +80,16 @@ export function DiscoverClient() {
 
       <DiscoverHeader />
 
+      <SearchSection
+        initialQuery={query}
+        collection={collection}
+        theme={theme}
+        origin={origin}
+        firstLetter={firstLetter}
+        direction={direction}
+        directionType={directionType}
+      />
+
       <LetterFilter
         selected={firstLetter}
         onSelect={(value) => updateParam("firstLetter", value)}

@@ -106,11 +106,11 @@ export function SearchSection({
     <section className="mt-16">
       <div className="mb-8">
         <h2 className="text-3xl font-bold">
-          <span aria-hidden="true">🔍</span> Search Names
+          Find a name
         </h2>
 
         <p className="mt-3 text-zinc-400">
-          Search by name and browse every curated entry.
+          Search the library, or leave it blank and explore everything.
         </p>
       </div>
 
