@@ -72,6 +72,16 @@ export function DiscoverClient() {
         directionType={directionType}
       />
 
+      <SmartRefinement
+        names={filteredNames}
+        query={query}
+        collection={collection}
+        theme={theme}
+        origin={origin}
+        direction={direction}
+        directionType={directionType}
+      />
+
       <LetterFilter
         letters={letters}
         selected={firstLetter}
@@ -82,16 +92,6 @@ export function DiscoverClient() {
         collections={collections}
         selected={collection}
         onSelect={(value) => updateParam("collection", value)}
-      />
-
-      <SmartRefinement
-        names={filteredNames}
-        query={query}
-        collection={collection}
-        theme={theme}
-        origin={origin}
-        direction={direction}
-        directionType={directionType}
       />
 
     </section>
