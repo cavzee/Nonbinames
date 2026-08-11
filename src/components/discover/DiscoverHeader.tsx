@@ -18,7 +18,7 @@ export function DiscoverHeader() {
       </h1>
 
       <p className="mt-6 max-w-3xl text-lg leading-8 text-zinc-400">
-        Browse our growing collection of carefully researched gender-neutral
+        Explore our growing collection of carefully researched gender-neutral
         names. Search instantly, explore by letter, or discover names through
         collections, themes and origins.
       </p>
