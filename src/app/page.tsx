@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Discover Gender-Neutral & Non-Binary Names",
 
   description:
-    "Discover carefully curated gender-neutral, non-binary and inclusive names with meanings, origins, pronunciation and inspiration.",
+    "Discover carefully curated gender-neutral and non-binary names with meanings, origins, pronunciation and inspiration.",
 
   alternates: {
     canonical: "https://nonbinames.com",

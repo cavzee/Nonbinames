@@ -28,7 +28,7 @@ export function HomeHero() {
           Find a name
           <br />
           <span className="bg-gradient-to-r from-violet-400 via-sky-400 to-emerald-400 bg-clip-text text-transparent">
-            that feels like you.
+            that feels right.
           </span>
         </h1>
 

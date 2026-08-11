@@ -12,12 +12,12 @@ export function ExploreSection() {
         </p>
 
         <h2 className="mt-2 text-3xl font-bold">
-          Browse by personality
+          Explore by vibe
         </h2>
 
         <p className="mt-4 max-w-2xl leading-7 text-zinc-400">
-          Every collection has its own mood. Start exploring by the vibe
-          that best matches the feeling you're looking for.
+          Every collection has its own mood. Explore the library by the feeling,
+          style or character you're drawn to.
         </p>
 
       </div>
