@@ -111,15 +111,6 @@ export function DiscoverClient() {
         directionType={directionType}
       />
 
-      <SearchSection
-        initialQuery={query}
-        collection={collection}
-        theme={theme}
-        origin={origin}
-        firstLetter={firstLetter}
-        direction={direction}
-        directionType={directionType}
-      />
     </section>
   );
 }
