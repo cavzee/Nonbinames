@@ -76,7 +76,7 @@ export function DiscoverClient() {
       />
 
       <CollectionFilter
-        collections={collections.map((collection) => collection.name)}
+        collections={collections}
         selected={collection}
         onSelect={(value) => updateParam("collection", value)}
       />
