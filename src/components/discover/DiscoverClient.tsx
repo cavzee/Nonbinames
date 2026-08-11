@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 
 import { DiscoverHeader } from "@/components/discover/DiscoverHeader";
@@ -71,13 +70,6 @@ export function DiscoverClient() {
 
   return (
     <section className="mx-auto max-w-6xl px-6 py-20">
-      <Link
-        href="/"
-        className="text-sm text-zinc-500 transition hover:text-white"
-      >
-        ← Back Home
-      </Link>
-
       <DiscoverHeader />
 
       <SearchSection
