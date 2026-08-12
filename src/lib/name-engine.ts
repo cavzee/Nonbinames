@@ -151,3 +151,98 @@ export function getOriginCount() {
     allNames.map((name) => name.origin)
   ).size;
 }
+
+export type DiscoverySeoType =
+  | "collection"
+  | "theme"
+  | "origin"
+  | "length";
+
+export function getDiscoverySeoNames(
+  type: DiscoverySeoType,
+  value: string
+) {
+  switch (type) {
+    case "collection":
+      return filterNames({ collection: value });
+
+    case "theme":
+      return filterNames({ theme: value });
+
+    case "origin":
+      return filterNames({ origin: value });
+
+    case "length": {
+      const length = Number(value);
+
+      if (!Number.isInteger(length) || length < 1) {
+        return [];
+      }
+
+      return filterNames({ length });
+    }
+  }
+}
+
+export function getDiscoverySeoValues(type: DiscoverySeoType) {
+  switch (type) {
+    case "collection":
+      return getCollections()
+        .filter(({ count }) => count >= 10)
+        .map(({ name }) => name);
+
+    case "theme": {
+      const counts = new Map<string, number>();
+
+      for (const name of allNames) {
+        for (const theme of name.themes) {
+          counts.set(theme, (counts.get(theme) ?? 0) + 1);
+        }
+      }
+
+      return Array.from(counts.entries())
+        .filter(([, count]) => count >= 8)
+        .sort((a, b) => {
+          if (a[1] !== b[1]) {
+            return b[1] - a[1];
+          }
+
+          return a[0].localeCompare(b[0]);
+        })
+        .map(([theme]) => theme);
+    }
+
+    case "origin": {
+      const counts = new Map<string, number>();
+
+      for (const name of allNames) {
+        counts.set(name.origin, (counts.get(name.origin) ?? 0) + 1);
+      }
+
+      return Array.from(counts.entries())
+        .filter(([, count]) => count >= 5)
+        .sort((a, b) => {
+          if (a[1] !== b[1]) {
+            return b[1] - a[1];
+          }
+
+          return a[0].localeCompare(b[0]);
+        })
+        .map(([origin]) => origin);
+    }
+
+    case "length": {
+      const counts = new Map<number, number>();
+
+      for (const name of allNames) {
+        const length = name.name.length;
+        counts.set(length, (counts.get(length) ?? 0) + 1);
+      }
+
+      return Array.from(counts.entries())
+        .filter(([, count]) => count >= 10)
+        .sort((a, b) => a[0] - b[0])
+        .map(([length]) => String(length));
+    }
+  }
+}
