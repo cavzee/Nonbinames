@@ -6,10 +6,26 @@
     "meaning": "Wise person; herb",
     "pronunciation": "SAYJ",
     "origin": "English",
-    "collections": ["Nature", "Modern", "Soft"],
-    "themes": ["Plants", "Words"],
-    "tags": ["English", "Nature", "Wisdom", "Unisex"],
-    "similar": ["Sky", "Sunny", "Shiloh"],
+    "collections": [
+      "Nature",
+      "Modern",
+      "Soft"
+    ],
+    "themes": [
+      "Plants",
+      "Words"
+    ],
+    "tags": [
+      "English",
+      "Nature",
+      "Wisdom",
+      "Unisex"
+    ],
+    "similar": [
+      "Sky",
+      "Sunny",
+      "Shiloh"
+    ],
     "about": "Sage comes directly from the English word for both a fragrant herb and a wise or knowledgeable person. The botanical association gives it a natural character, while its figurative meaning connects it with wisdom and experience. Simple, peaceful and established across genders, Sage is a thoughtful gender-neutral name with both natural and intellectual appeal.",
     "featured": true
   },
@@ -20,10 +36,25 @@
     "meaning": "Defending warrior",
     "pronunciation": "SASH-uh",
     "origin": "Russian",
-    "collections": ["Traditional Unisex", "Modern", "Classic"],
-    "themes": ["History"],
-    "tags": ["Russian", "Ukrainian", "Unisex", "Diminutive"],
-    "similar": ["Sacha", "Sanya", "Sam"],
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Classic"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "Russian",
+      "Ukrainian",
+      "Unisex",
+      "Diminutive"
+    ],
+    "similar": [
+      "Sacha",
+      "Sanya",
+      "Sam"
+    ],
     "about": "Sasha is a Russian and Ukrainian diminutive of Aleksandr or Aleksandra, ultimately connected with the Greek name Alexandros and the idea of defending or protecting. Used for people of more than one gender, Sasha has travelled well beyond its Slavic origins and is now familiar internationally. Warm, energetic and established, Sasha is a naturally versatile gender-neutral choice.",
     "featured": true
   },
@@ -34,25 +65,56 @@
     "meaning": "Short form of Samuel or Samantha",
     "pronunciation": "SAM",
     "origin": "English",
-    "collections": ["Traditional Unisex", "Classic", "Modern"],
-    "themes": ["History"],
-    "tags": ["English", "Unisex", "Diminutive", "Established"],
-    "similar": ["Sasha", "Sage", "Sunny"],
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "English",
+      "Unisex",
+      "Diminutive",
+      "Established"
+    ],
+    "similar": [
+      "Sasha",
+      "Sage",
+      "Sunny"
+    ],
     "about": "Sam is an established English short form of names including Samuel, Samson and Samantha. Its long history of use across genders has made it one of the most familiar gender-neutral names in English-speaking cultures. Friendly, uncomplicated and timeless, Sam offers the comfort of a well-known name without requiring a strongly gendered identity.",
     "featured": true
   },
   {
     "id": "sora",
     "slug": "sora",
-    "name": "Sky",
+    "name": "Sora",
     "pronunciation": "SOH-rah",
     "origin": "Japanese",
-    "collections": ["Celestial", "Nature", "Modern"],
-    "themes": ["Sky", "Nature"],
-    "tags": ["Japanese", "Unisex", "Celestial"],
-    "similar": ["Sky", "Ren", "Rin"],
+    "collections": [
+      "Celestial",
+      "Nature",
+      "Modern"
+    ],
+    "themes": [
+      "Sky",
+      "Nature"
+    ],
+    "tags": [
+      "Japanese",
+      "Unisex",
+      "Celestial"
+    ],
+    "similar": [
+      "Sky",
+      "Ren",
+      "Rin"
+    ],
     "about": "Sora is a Japanese given name written with several possible kanji, including 空 and 昊, both meaning 'sky.' Other kanji can create different meanings while retaining the same pronunciation. Used across genders, Sora has a light, expansive quality that connects it naturally with the open sky. Modern and elegant, it is a distinctive gender-neutral name with strong Japanese roots.",
-    "featured": true
+    "featured": true,
+    "meaning": "Sky"
   },
   {
     "id": "shiloh",
@@ -61,10 +123,26 @@
     "meaning": "Possibly tranquil",
     "pronunciation": "SHY-loh",
     "origin": "Hebrew",
-    "collections": ["Traditional Unisex", "Modern", "Rare"],
-    "themes": ["Peace", "History"],
-    "tags": ["Hebrew", "Biblical", "Unisex", "Place Name"],
-    "similar": ["Sage", "Sky", "Shannon"],
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "Peace",
+      "History"
+    ],
+    "tags": [
+      "Hebrew",
+      "Biblical",
+      "Unisex",
+      "Place Name"
+    ],
+    "similar": [
+      "Sage",
+      "Sky",
+      "Wren"
+    ],
     "about": "Shiloh comes from an Old Testament place name written in Ancient Hebrew and is possibly connected with a meaning such as 'tranquil.' The name also appears in biblical prophecy, although its precise interpretation is uncertain. Used across genders in modern naming, Shiloh combines ancient history with a calm, contemporary character.",
     "featured": true
   },
@@ -75,10 +153,26 @@
     "meaning": "Sky; cloud",
     "pronunciation": "SKY",
     "origin": "English",
-    "collections": ["Celestial", "Nature", "Minimal"],
-    "themes": ["Sky", "Nature"],
-    "tags": ["English", "Nature", "Word Name", "Unisex"],
-    "similar": ["Sora", "River", "Sunny"],
+    "collections": [
+      "Celestial",
+      "Nature",
+      "Minimal"
+    ],
+    "themes": [
+      "Sky",
+      "Nature"
+    ],
+    "tags": [
+      "English",
+      "Nature",
+      "Word Name",
+      "Unisex"
+    ],
+    "similar": [
+      "Sora",
+      "River",
+      "Sunny"
+    ],
     "about": "Sky comes directly from the English word for the expanse above the earth and ultimately traces to the Old Norse word ský, meaning 'cloud.' As a modern word name, it evokes openness, freedom and limitless possibility. Short, vivid and established across genders, Sky is a distinctive gender-neutral name with a naturally expansive feeling.",
     "featured": true
   },
@@ -89,10 +183,26 @@
     "meaning": "Storm",
     "pronunciation": "STORM",
     "origin": "English",
-    "collections": ["Nature", "Bold", "Modern"],
-    "themes": ["Weather", "Nature"],
-    "tags": ["English", "Scandinavian", "Word Name", "Unisex"],
-    "similar": ["Sky", "River", "Sage"],
+    "collections": [
+      "Nature",
+      "Bold",
+      "Modern"
+    ],
+    "themes": [
+      "Weather",
+      "Nature"
+    ],
+    "tags": [
+      "English",
+      "Scandinavian",
+      "Word Name",
+      "Unisex"
+    ],
+    "similar": [
+      "Sky",
+      "River",
+      "Sage"
+    ],
     "about": "Storm comes directly from the English vocabulary word for a period of severe or turbulent weather, with related forms reaching back to Old English and Old Dutch. It is established as a unisex given name in modern English usage, while related Scandinavian usage is more often masculine. Powerful, atmospheric and unmistakable, Storm is a bold gender-neutral name inspired by nature.",
     "featured": true
   },
@@ -103,10 +213,26 @@
     "meaning": "Sunny; cheerful",
     "pronunciation": "SUN-ee",
     "origin": "English",
-    "collections": ["Nature", "Soft", "Modern"],
-    "themes": ["Sun", "Nature"],
-    "tags": ["English", "Word Name", "Light", "Unisex"],
-    "similar": ["Sky", "Sage", "Sol"],
+    "collections": [
+      "Nature",
+      "Soft",
+      "Modern"
+    ],
+    "themes": [
+      "Sun",
+      "Nature"
+    ],
+    "tags": [
+      "English",
+      "Word Name",
+      "Light",
+      "Unisex"
+    ],
+    "similar": [
+      "Sky",
+      "Sage",
+      "Ember"
+    ],
     "about": "Sunny comes directly from the English word describing sunshine, brightness and a cheerful disposition. Its connection with warmth and light gives it an optimistic, welcoming character. Used across genders, Sunny is a playful but established gender-neutral name that brings an immediate sense of brightness and energy.",
     "featured": true
   },
@@ -117,10 +243,25 @@
     "meaning": "Defending warrior",
     "pronunciation": "SASH-ah",
     "origin": "French",
-    "collections": ["Traditional Unisex", "Modern", "Classic"],
-    "themes": ["History"],
-    "tags": ["French", "Dutch", "Unisex", "Diminutive"],
-    "similar": ["Sasha", "Sanya", "Sam"],
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Classic"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "French",
+      "Dutch",
+      "Unisex",
+      "Diminutive"
+    ],
+    "similar": [
+      "Sasha",
+      "Sanya",
+      "Sam"
+    ],
     "about": "Sacha is the French and Dutch form of Sasha, ultimately deriving from the names Aleksandr and Aleksandra. The name is connected with the Greek roots traditionally interpreted as 'defending' or 'protecting' humanity. Used across genders in French and Dutch naming traditions, Sacha offers a distinctly European form of a widely international name.",
     "featured": true
   },
@@ -131,10 +272,25 @@
     "meaning": "Diminutive of Aleksandr or Aleksandra",
     "pronunciation": "SAN-yah",
     "origin": "Russian",
-    "collections": ["Traditional Unisex", "Modern", "Rare"],
-    "themes": ["History"],
-    "tags": ["Russian", "Unisex", "Diminutive", "Slavic"],
-    "similar": ["Sasha", "Sacha", "Sam"],
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "Russian",
+      "Unisex",
+      "Diminutive",
+      "Slavic"
+    ],
+    "similar": [
+      "Sasha",
+      "Sacha",
+      "Sam"
+    ],
     "about": "Sanya is a Russian diminutive of Aleksandr or Aleksandra and is traditionally used for people of more than one gender. Like Sasha, it belongs to the rich family of affectionate forms developed from the Alexander name tradition. Less familiar internationally than Sasha, Sanya has a distinctive sound while retaining genuine Russian linguistic and cultural roots.",
     "featured": true
   }

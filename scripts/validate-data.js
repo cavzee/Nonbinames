@@ -130,23 +130,6 @@ for (const file of files) {
       error(`${location}: invalid slug "${name.slug}"`);
     }
 
-    if (
-      typeof name.name === "string" &&
-      typeof name.slug === "string"
-    ) {
-      const expectedSlug = name.name
-        .toLowerCase()
-        .trim()
-        .replace(/[^a-z0-9]+/g, "-")
-        .replace(/^-|-$/g, "");
-
-      if (name.slug !== expectedSlug) {
-        warning(
-          `${location}: slug "${name.slug}" differs from generated slug "${expectedSlug}"`
-        );
-      }
-    }
-
     names.push({
       ...name,
       __file: file,

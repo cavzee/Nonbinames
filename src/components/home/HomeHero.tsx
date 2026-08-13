@@ -33,7 +33,7 @@ export function HomeHero() {
         </h1>
 
         <p className="mx-auto mt-8 max-w-2xl text-lg leading-8 text-zinc-400">
-          Explore more than <strong className="text-white">{names.length}</strong> carefully curated gender-neutral names inspired by nature, mythology, colour, history, adventure and modern identity.
+          Explore <strong className="text-white">{names.length}</strong> carefully curated gender-neutral names inspired by nature, mythology, colour, history, adventure and modern identity.
         </p>
 
         <div className="mt-10 flex flex-wrap justify-center gap-4">
