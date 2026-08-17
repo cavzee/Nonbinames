@@ -62,16 +62,6 @@ export function DiscoverClient() {
     <section className="mx-auto max-w-6xl px-6 py-20">
       <DiscoverHeader />
 
-      <SearchSection
-        initialQuery={query}
-        collection={collection}
-        theme={theme}
-        origin={origin}
-        firstLetter={firstLetter}
-        direction={direction}
-        directionType={directionType}
-      />
-
       <SmartRefinement
         names={filteredNames}
         query={query}
@@ -92,6 +82,16 @@ export function DiscoverClient() {
         collections={collections}
         selected={collection}
         onSelect={(value) => updateParam("collection", value)}
+      />
+
+      <SearchSection
+        initialQuery={query}
+        collection={collection}
+        theme={theme}
+        origin={origin}
+        firstLetter={firstLetter}
+        direction={direction}
+        directionType={directionType}
       />
 
     </section>
