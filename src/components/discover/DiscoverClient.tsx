@@ -72,6 +72,16 @@ export function DiscoverClient() {
         directionType={directionType}
       />
 
+      <SearchSection
+        initialQuery={query}
+        collection={collection}
+        theme={theme}
+        origin={origin}
+        firstLetter={firstLetter}
+        direction={direction}
+        directionType={directionType}
+      />
+
       <LetterFilter
         letters={letters}
         selected={firstLetter}
@@ -82,16 +92,6 @@ export function DiscoverClient() {
         collections={collections}
         selected={collection}
         onSelect={(value) => updateParam("collection", value)}
-      />
-
-      <SearchSection
-        initialQuery={query}
-        collection={collection}
-        theme={theme}
-        origin={origin}
-        firstLetter={firstLetter}
-        direction={direction}
-        directionType={directionType}
       />
 
     </section>
