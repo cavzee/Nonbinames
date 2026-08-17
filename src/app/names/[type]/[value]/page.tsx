@@ -170,6 +170,68 @@ export default async function DiscoverySeoPage({ params }: Props) {
 
   const title = getPageTitle(seoType, actualValue);
 
+  type RelatedGroup = {
+    type: DiscoverySeoType;
+    label: string;
+    values: string[];
+  };
+
+  function getRelatedValues(
+    type: DiscoverySeoType,
+    excludedValue?: string
+  ) {
+    const counts = new Map<string, number>();
+
+    for (const name of names) {
+      const values =
+        type === "collection"
+          ? name.collections
+          : type === "theme"
+            ? name.themes
+            : type === "origin"
+              ? [name.origin]
+              : [String(name.name.length)];
+
+      for (const value of values) {
+        counts.set(value, (counts.get(value) ?? 0) + 1);
+      }
+    }
+
+    return Array.from(counts.entries())
+      .filter(([value]) => value !== excludedValue)
+      .filter(([value]) => {
+        const valid = getDiscoverySeoValues(type);
+        return valid.some(
+          (candidate) => slugify(candidate) === slugify(value)
+        );
+      })
+      .sort((a, b) => {
+        if (a[1] !== b[1]) {
+          return b[1] - a[1];
+        }
+
+        return a[0].localeCompare(b[0]);
+      })
+      .slice(0, 4)
+      .map(([value]) => value);
+  }
+
+  const relatedGroups: RelatedGroup[] = (
+    [
+      ["collection", "Collections"],
+      ["theme", "Themes"],
+      ["origin", "Origins"],
+      ["length", "Name length"],
+    ] as const
+  )
+    .filter(([type]) => type !== seoType)
+    .map(([type, label]) => ({
+      type,
+      label,
+      values: getRelatedValues(type, actualValue),
+    }))
+    .filter((group) => group.values.length > 0);
+
   return (
     <main className="min-h-screen bg-zinc-950 text-white">
       <section className="mx-auto max-w-6xl px-8 py-20">
@@ -195,6 +257,36 @@ export default async function DiscoverySeoPage({ params }: Props) {
             {getDescription(seoType, actualValue, names.length)}
           </p>
         </header>
+
+        {relatedGroups.length > 0 && (
+          <section className="mt-16 border-t border-zinc-800 pt-10">
+            <h2 className="text-2xl font-bold text-white">
+              Explore related discoveries
+            </h2>
+
+            <div className="mt-8 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+              {relatedGroups.map((group) => (
+                <div key={group.type}>
+                  <h3 className="text-sm font-semibold uppercase tracking-[0.2em] text-zinc-500">
+                    {group.label}
+                  </h3>
+
+                  <div className="mt-3 flex flex-wrap gap-2">
+                    {group.values.map((relatedValue) => (
+                      <Link
+                        key={relatedValue}
+                        href={`/names/${group.type}/${slugify(relatedValue)}`}
+                        className="rounded-full border border-zinc-800 bg-zinc-900 px-3.5 py-2 text-sm text-zinc-400 transition hover:border-violet-500 hover:text-white"
+                      >
+                        {relatedValue}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
 
         <div className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {names.map((name) => (
