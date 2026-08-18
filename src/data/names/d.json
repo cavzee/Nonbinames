@@ -270,5 +270,295 @@
     ],
     "about": "Dusty began as an affectionate English nickname before becoming an independent given name. Often associated with open landscapes, country life and vintage charm, it carries a warm, approachable personality rather than its literal meaning. Relaxed, nostalgic and quietly distinctive, Dusty offers an earthy gender-neutral choice with enduring character and friendly appeal.",
     "featured": false
+  },
+  {
+    "id": "dale",
+    "slug": "dale",
+    "name": "Dale",
+    "meaning": "Valley",
+    "pronunciation": "DAYL",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Classic"
+    ],
+    "themes": [
+      "Landscape"
+    ],
+    "tags": [
+      "English",
+      "Nature",
+      "Established"
+    ],
+    "similar": [
+      "Dylan",
+      "Devin",
+      "Dara"
+    ],
+    "about": "Dale comes from the English word for a valley or broad lowland between hills. Originally a landscape surname, it became an established given name and has long been used for people of more than one gender. Simple, familiar and closely connected with the countryside, Dale has an understated timeless quality.",
+    "featured": true
+  },
+  {
+    "id": "dara",
+    "slug": "dara",
+    "name": "Dara",
+    "meaning": "Star",
+    "pronunciation": "DAH-rah",
+    "origin": "Khmer",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Nature"
+    ],
+    "themes": [
+      "Stars",
+      "Sky"
+    ],
+    "tags": [
+      "Khmer",
+      "Global",
+      "Nature",
+      "Established"
+    ],
+    "similar": [
+      "Dawa",
+      "Dylan",
+      "Dəniz"
+    ],
+    "about": "Dara is a Khmer name meaning 'star'. It is also found in several other naming traditions, giving it a particularly international character. Short, bright and easy to pronounce, Dara offers a graceful gender-neutral choice with a celestial meaning.",
+    "featured": true
+  },
+  {
+    "id": "dylan",
+    "slug": "dylan",
+    "name": "Dylan",
+    "meaning": "Great tide; great flow",
+    "pronunciation": "DIL-an",
+    "origin": "Welsh",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Water",
+      "Sea"
+    ],
+    "tags": [
+      "Welsh",
+      "Celtic",
+      "Nature",
+      "Established"
+    ],
+    "similar": [
+      "Dale",
+      "Dorian",
+      "Devin"
+    ],
+    "about": "Dylan is a Welsh name traditionally associated with the sea and interpreted through elements meaning 'great tide' or 'great flow'. Inspired by Welsh mythology and the ocean, it has become a widely recognised given name used for people of more than one gender. Familiar yet evocative, Dylan combines Celtic heritage with a strong connection to water.",
+    "featured": true
+  },
+  {
+    "id": "dorian",
+    "slug": "dorian",
+    "name": "Dorian",
+    "meaning": "Of the Dorians",
+    "pronunciation": "DOR-ee-an",
+    "origin": "Greek",
+    "collections": [
+      "Classic",
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "Greek",
+      "Historical",
+      "Established"
+    ],
+    "similar": [
+      "Dylan",
+      "Dara",
+      "Devin"
+    ],
+    "about": "Dorian comes from the name of the ancient Greek Dorian people and the region of Doris. Traditionally more common for boys, it has also seen established use as a feminine given name, allowing it to work as a gender-neutral choice. Refined and distinctive, Dorian carries a strong connection to classical Greek history.",
+    "featured": false
+  },
+  {
+    "id": "devin",
+    "slug": "devin",
+    "name": "Devin",
+    "meaning": "Descendant of the poet",
+    "pronunciation": "DEV-in",
+    "origin": "Irish",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Classic"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "Irish",
+      "Surname",
+      "Established"
+    ],
+    "similar": [
+      "Dylan",
+      "Dale",
+      "Dara"
+    ],
+    "about": "Devin is an English-language form associated with the Irish surname and given name Devine, ultimately connected with the Irish word for 'poet'. It has developed established use for people of more than one gender. Familiar and approachable, Devin offers a versatile modern name with Celtic roots.",
+    "featured": true
+  },
+  {
+    "id": "dawa",
+    "slug": "dawa",
+    "name": "Dawa",
+    "meaning": "Moon; month",
+    "pronunciation": "DAH-wah",
+    "origin": "Tibetan",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Nature"
+    ],
+    "themes": [
+      "Moon",
+      "Sky"
+    ],
+    "tags": [
+      "Tibetan",
+      "Bhutanese",
+      "Nature",
+      "Global"
+    ],
+    "similar": [
+      "Dara",
+      "Dəniz",
+      "Dayo"
+    ],
+    "about": "Dawa is a Tibetan name associated with the moon and the month. It is traditionally used for people of more than one gender and is particularly familiar in Tibetan and Himalayan naming traditions. Its celestial meaning and concise sound make Dawa a distinctive global gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "dayo",
+    "slug": "dayo",
+    "name": "Dayo",
+    "meaning": "Joy arrives",
+    "pronunciation": "DAH-yoh",
+    "origin": "Yoruba",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Joy"
+    ],
+    "tags": [
+      "Yoruba",
+      "Nigerian",
+      "Global",
+      "Established"
+    ],
+    "similar": [
+      "Dara",
+      "Dada",
+      "Dawa"
+    ],
+    "about": "Dayo is a Yoruba name expressing the idea that 'joy arrives'. Rooted in Yoruba naming traditions, it is used for people of more than one gender. Warm, positive and easy to say, Dayo brings a joyful meaning and strong West African heritage to the collection.",
+    "featured": false
+  },
+  {
+    "id": "dalitso",
+    "slug": "dalitso",
+    "name": "Dalitso",
+    "meaning": "Blessing",
+    "pronunciation": "da-LEE-tso",
+    "origin": "Chewa",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Blessings"
+    ],
+    "tags": [
+      "Chewa",
+      "Malawi",
+      "Zambia",
+      "Global"
+    ],
+    "similar": [
+      "Dayo",
+      "Dara",
+      "Dada"
+    ],
+    "about": "Dalitso is a Chewa name meaning 'blessing'. Used in Malawi, Zambia and other communities where Chewa is spoken, it is a meaningful choice for people of more than one gender. Distinctive and positive, Dalitso adds valuable Southern African representation to a global collection of gender-neutral names.",
+    "featured": false
+  },
+  {
+    "id": "deniz",
+    "slug": "deniz",
+    "name": "Dəniz",
+    "meaning": "Sea",
+    "pronunciation": "deh-NEEZ",
+    "origin": "Azerbaijani",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Nature"
+    ],
+    "themes": [
+      "Water",
+      "Sea"
+    ],
+    "tags": [
+      "Azerbaijani",
+      "Turkish",
+      "Nature",
+      "Global"
+    ],
+    "similar": [
+      "Dylan",
+      "Dawa",
+      "Dara"
+    ],
+    "about": "Dəniz is an Azerbaijani name meaning 'sea'. The closely related Deniz is also an established gender-neutral name in Turkish. Connected with the open sea, the name has a calm and expansive quality while bringing Turkish and Azerbaijani linguistic heritage into the collection.",
+    "featured": true
+  },
+  {
+    "id": "dada",
+    "slug": "dada",
+    "name": "Dada",
+    "meaning": "Curly hair",
+    "pronunciation": "DAH-dah",
+    "origin": "Yoruba",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Appearance"
+    ],
+    "tags": [
+      "Yoruba",
+      "Nigerian",
+      "Traditional",
+      "Global"
+    ],
+    "similar": [
+      "Dayo",
+      "Dalitso",
+      "Dara"
+    ],
+    "about": "Dada is a traditional Yoruba name associated with children born with long or curly hair. Used for people of more than one gender, it reflects the Yoruba tradition of names connected with circumstances surrounding a child's birth. Distinctive and culturally rich, Dada adds another genuine West African name to the collection.",
+    "featured": false
   }
 ]
