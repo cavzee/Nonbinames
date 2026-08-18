@@ -271,5 +271,289 @@
     ],
     "about": "Forest comes directly from the English word for a large woodland, making it one of the most immersive nature-inspired names. Forests have long symbolised life, exploration, renewal and a deep connection with the natural world across many cultures. Calm, adventurous and unmistakably earthy, Forest is a modern gender-neutral name that captures the beauty and resilience of the outdoors.",
     "featured": true
+  },
+  {
+    "id": "frankie",
+    "slug": "frankie",
+    "name": "Frankie",
+    "meaning": "Free; French",
+    "pronunciation": "FRANG-kee",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Freedom"
+    ],
+    "tags": [
+      "English",
+      "Diminutive"
+    ],
+    "similar": [
+      "Frank",
+      "Frances",
+      "Flynn"
+    ],
+    "about": "Frankie is a familiar English diminutive associated with both Frank and Frances. Its friendly sound and connections to traditionally masculine and feminine names give it a naturally gender-flexible character.",
+    "featured": true
+  },
+  {
+    "id": "flynn",
+    "slug": "flynn",
+    "name": "Flynn",
+    "meaning": "Descendant of Flann",
+    "pronunciation": "FLIN",
+    "origin": "Irish",
+    "collections": [
+      "Modern",
+      "Global",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Heritage"
+    ],
+    "tags": [
+      "Irish",
+      "Surname",
+      "Celtic"
+    ],
+    "similar": [
+      "Frankie",
+      "Fox",
+      "Foster"
+    ],
+    "about": "Flynn is an Irish surname-derived name connected with the Gaelic name Flann. Its concise sound and surname style give it a contemporary gender-flexible character.",
+    "featured": false
+  },
+  {
+    "id": "fox",
+    "slug": "fox",
+    "name": "Fox",
+    "meaning": "Fox",
+    "pronunciation": "FOKS",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Nature",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Animals",
+      "Nature"
+    ],
+    "tags": [
+      "English",
+      "Nature",
+      "Word Name"
+    ],
+    "similar": [
+      "Fable",
+      "Flynn",
+      "Foster"
+    ],
+    "about": "Fox is an English word and surname name taken directly from the animal. Bold, concise and nature-inspired, it works well as a modern gender-neutral choice.",
+    "featured": true
+  },
+  {
+    "id": "fable",
+    "slug": "fable",
+    "name": "Fable",
+    "meaning": "Story; legend",
+    "pronunciation": "FAY-bəl",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Rare",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Stories",
+      "Creativity"
+    ],
+    "tags": [
+      "English",
+      "Word Name",
+      "Rare"
+    ],
+    "similar": [
+      "Fox",
+      "Fenix",
+      "Fifer"
+    ],
+    "about": "Fable is an English word name meaning a story or legend. Its literary and imaginative quality makes it a distinctive modern choice that can reasonably work for either gender.",
+    "featured": false
+  },
+  {
+    "id": "femi",
+    "slug": "femi",
+    "name": "Femi",
+    "meaning": "Love me",
+    "pronunciation": "FEH-mee",
+    "origin": "Yoruba",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Love"
+    ],
+    "tags": [
+      "Yoruba",
+      "Nigerian",
+      "Global"
+    ],
+    "similar": [
+      "Farai",
+      "Favour",
+      "Eniola"
+    ],
+    "about": "Femi is a Yoruba name associated with the meaning 'love me'. It is a concise and melodic name with strong Nigerian and West African cultural connections.",
+    "featured": false
+  },
+  {
+    "id": "farah",
+    "slug": "farah",
+    "name": "Farah",
+    "meaning": "Joy; happiness",
+    "pronunciation": "FAH-rah",
+    "origin": "Arabic",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Joy",
+      "Happiness"
+    ],
+    "tags": [
+      "Arabic",
+      "Persian",
+      "Global"
+    ],
+    "similar": [
+      "Farai",
+      "Favour",
+      "Femi"
+    ],
+    "about": "Farah is a widely recognised name meaning 'joy' or 'happiness'. Its gender association varies between cultures, making it a strong global gender-flexible choice.",
+    "featured": true
+  },
+  {
+    "id": "favour",
+    "slug": "favour",
+    "name": "Favour",
+    "meaning": "Favour; blessing",
+    "pronunciation": "FAY-vər",
+    "origin": "English African",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Blessing",
+      "Fortune"
+    ],
+    "tags": [
+      "African",
+      "Nigerian",
+      "English"
+    ],
+    "similar": [
+      "Farah",
+      "Farai",
+      "Femi"
+    ],
+    "about": "Favour is an English word name used especially in African naming traditions, including Nigeria. Its meaning of favour, blessing or goodwill gives it a positive character and it can be used for either gender.",
+    "featured": false
+  },
+  {
+    "id": "farai",
+    "slug": "farai",
+    "name": "Farai",
+    "meaning": "Rejoice; be happy",
+    "pronunciation": "fah-RYE",
+    "origin": "Shona",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Joy",
+      "Happiness"
+    ],
+    "tags": [
+      "Shona",
+      "Zimbabwean",
+      "Global"
+    ],
+    "similar": [
+      "Farah",
+      "Favour",
+      "Femi"
+    ],
+    "about": "Farai is a Shona name meaning 'rejoice' or 'be happy'. Its positive meaning and Southern African heritage make it a distinctive global gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "foster",
+    "slug": "foster",
+    "name": "Foster",
+    "meaning": "Forester; forest worker",
+    "pronunciation": "FOS-tər",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Nature"
+    ],
+    "similar": [
+      "Flynn",
+      "Fox",
+      "Forest"
+    ],
+    "about": "Foster is an English surname-derived given name associated with a forester or forest worker. Its surname style gives it a contemporary and gender-flexible character.",
+    "featured": false
+  },
+  {
+    "id": "fifer",
+    "slug": "fifer",
+    "name": "Fifer",
+    "meaning": "Piper; one who plays the fife",
+    "pronunciation": "FY-fər",
+    "origin": "Scottish",
+    "collections": [
+      "Global",
+      "Modern",
+      "Rare",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Music"
+    ],
+    "tags": [
+      "Scottish",
+      "Surname",
+      "Rare"
+    ],
+    "similar": [
+      "Fifer",
+      "Foster",
+      "Flynn"
+    ],
+    "about": "Fifer is a Scottish occupational and surname-style name associated with someone who plays the fife. Its uncommon modern character and surname origins make it a distinctive option that can work for either gender.",
+    "featured": false
   }
 ]
