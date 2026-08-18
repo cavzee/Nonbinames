@@ -269,5 +269,286 @@
     ],
     "about": "Echo comes from Greek mythology, where Echo was a mountain nymph whose voice lived on as a repeating sound. The name has since become associated with memory, reflection and lasting presence, while also carrying a sleek modern quality. Minimal, distinctive and rich in mythological symbolism, Echo offers a memorable gender-neutral choice with both ancient roots and contemporary appeal.",
     "featured": true
+  },
+  {
+    "id": "emerson",
+    "slug": "emerson",
+    "name": "Emerson",
+    "meaning": "Son of Emery",
+    "pronunciation": "EM-er-sun",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Established"
+    ],
+    "similar": [
+      "Elliott",
+      "Evan",
+      "Emery"
+    ],
+    "about": "Emerson began as an English surname meaning 'son of Emery' and has developed into a widely recognised given name. Its modern use spans more than one gender, giving it a confident and contemporary character. Familiar yet distinctive, Emerson works well as a gender-neutral choice with strong surname-name appeal.",
+    "featured": true
+  },
+  {
+    "id": "elliott",
+    "slug": "elliott",
+    "name": "Elliott",
+    "meaning": "The Lord is my God",
+    "pronunciation": "EL-ee-ut",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Faith"
+    ],
+    "tags": [
+      "English",
+      "Biblical",
+      "Established"
+    ],
+    "similar": [
+      "Emerson",
+      "Eli",
+      "Evan"
+    ],
+    "about": "Elliott developed as an English surname and given name from forms of Elias, ultimately connected with the Hebrew name meaning 'the Lord is my God'. Although historically more common for boys, Elliott has established use for more than one gender. Its polished sound and long history make it a versatile gender-neutral choice.",
+    "featured": true
+  },
+  {
+    "id": "eli",
+    "slug": "eli",
+    "name": "Eli",
+    "meaning": "Ascension; my God",
+    "pronunciation": "EE-lie",
+    "origin": "Hebrew",
+    "collections": [
+      "Classic",
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Faith"
+    ],
+    "tags": [
+      "Hebrew",
+      "Biblical",
+      "Short"
+    ],
+    "similar": [
+      "Evan",
+      "Elian",
+      "Elliott"
+    ],
+    "about": "Eli is a short biblical name with Hebrew roots and meanings connected with 'ascension' and 'my God'. Traditionally masculine in many naming traditions, it has also developed feminine use in different contexts. Short, familiar and internationally recognisable, Eli can function as a gender-flexible name.",
+    "featured": false
+  },
+  {
+    "id": "esen",
+    "slug": "esen",
+    "name": "Esen",
+    "meaning": "Wind",
+    "pronunciation": "EH-sen",
+    "origin": "Turkish",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Nature"
+    ],
+    "themes": [
+      "Wind",
+      "Nature"
+    ],
+    "tags": [
+      "Turkish",
+      "Nature",
+      "Global"
+    ],
+    "similar": [
+      "Elvan",
+      "Elçin",
+      "Enkh"
+    ],
+    "about": "Esen is a Turkish name associated with the wind. Used for more than one gender, it has a light and natural quality that reflects movement and freedom. Short, distinctive and easy to pronounce, Esen brings Turkish naming heritage and a nature-inspired meaning to the collection.",
+    "featured": true
+  },
+  {
+    "id": "evan",
+    "slug": "evan",
+    "name": "Evan",
+    "meaning": "God is gracious",
+    "pronunciation": "EV-an",
+    "origin": "Welsh",
+    "collections": [
+      "Classic",
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Faith"
+    ],
+    "tags": [
+      "Welsh",
+      "Celtic",
+      "Established"
+    ],
+    "similar": [
+      "Eli",
+      "Elliott",
+      "Emerson"
+    ],
+    "about": "Evan is a Welsh form of John, ultimately carrying the meaning 'God is gracious'. Traditionally masculine in Welsh and English usage, it has also been used as a feminine given name in other contexts. Familiar, concise and internationally recognised, Evan can therefore function as a gender-flexible choice.",
+    "featured": false
+  },
+  {
+    "id": "elian",
+    "slug": "elian",
+    "name": "Elian",
+    "meaning": "A form of Elias",
+    "pronunciation": "EL-ee-an",
+    "origin": "Dutch",
+    "collections": [
+      "Global",
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Faith"
+    ],
+    "tags": [
+      "Dutch",
+      "European",
+      "Rare"
+    ],
+    "similar": [
+      "Eli",
+      "Elliott",
+      "Elçin"
+    ],
+    "about": "Elian is a Dutch given name related to forms of Elias. It has established use for more than one gender, although it remains relatively uncommon. Smooth, melodic and international in character, Elian offers a distinctive gender-neutral option with European roots.",
+    "featured": false
+  },
+  {
+    "id": "elcin",
+    "slug": "elcin",
+    "name": "Elçin",
+    "meaning": "Envoy; messenger",
+    "pronunciation": "el-CHIN",
+    "origin": "Azerbaijani",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Communication",
+      "Travel"
+    ],
+    "tags": [
+      "Azerbaijani",
+      "Turkish",
+      "Global"
+    ],
+    "similar": [
+      "Esen",
+      "Elvan",
+      "Elian"
+    ],
+    "about": "Elçin is an Azerbaijani and Turkish name associated with an envoy, messenger or ambassador. Its gender association varies by country: it is more commonly masculine in Azerbaijan and more commonly feminine in Turkey. That cross-cultural variation makes Elçin a particularly interesting gender-neutral name with a strong international identity.",
+    "featured": false
+  },
+  {
+    "id": "elvan",
+    "slug": "elvan",
+    "name": "Elvan",
+    "meaning": "Colours",
+    "pronunciation": "EL-vahn",
+    "origin": "Turkish",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Colour"
+    ],
+    "tags": [
+      "Turkish",
+      "Nature",
+      "Global"
+    ],
+    "similar": [
+      "Esen",
+      "Elçin",
+      "Eden"
+    ],
+    "about": "Elvan is a Turkish name meaning 'colours', giving it a vivid and expressive quality. It is used for more than one gender and has a distinctive connection with colour and variety. Elegant yet unusual, Elvan adds a memorable Turkish name to the global collection.",
+    "featured": true
+  },
+  {
+    "id": "eniola",
+    "slug": "eniola",
+    "name": "Eniola",
+    "meaning": "Person of wealth",
+    "pronunciation": "eh-nee-OH-lah",
+    "origin": "Yoruba",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Prosperity"
+    ],
+    "tags": [
+      "Yoruba",
+      "Nigerian",
+      "Global"
+    ],
+    "similar": [
+      "Dayo",
+      "Elian",
+      "Enkh"
+    ],
+    "about": "Eniola is a Yoruba name meaning 'person of wealth'. It is used for people of more than one gender and reflects the importance of prosperity and positive aspirations in Yoruba naming traditions. Melodic and distinctive, Eniola brings strong West African representation to the collection.",
+    "featured": false
+  },
+  {
+    "id": "enkh",
+    "slug": "enkh",
+    "name": "Enkh",
+    "meaning": "Peace; calm",
+    "pronunciation": "ENKH",
+    "origin": "Mongolian",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Peace"
+    ],
+    "tags": [
+      "Mongolian",
+      "Global",
+      "Nature"
+    ],
+    "similar": [
+      "Esen",
+      "Eniola",
+      "Elvan"
+    ],
+    "about": "Enkh is a Mongolian name associated with peace and calm. It is used for people of more than one gender and is also found as part of longer Mongolian personal names. Short, meaningful and distinctive, Enkh adds valuable Mongolian representation to the global collection.",
+    "featured": false
   }
 ]
