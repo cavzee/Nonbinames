@@ -272,5 +272,301 @@
     ],
     "about": "Ives originated as a French surname connected with the ancient personal name Yves, itself linked to the yew tree. Throughout Europe, the yew has symbolised endurance, resilience and longevity, giving the name lasting natural significance. Short, refined and uncommon, Ives is a classic gender-neutral choice that blends woodland heritage with understated elegance.",
     "featured": false
+  },
+  {
+    "id": "indie",
+    "slug": "indie",
+    "name": "Indie",
+    "meaning": "Independent; independent-minded",
+    "pronunciation": "IN-dee",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Words"
+    ],
+    "tags": [
+      "Contemporary",
+      "Short",
+      "Independent",
+      "Word Name"
+    ],
+    "similar": [
+      "Indy",
+      "Indigo",
+      "Ever"
+    ],
+    "about": "Indie is a modern English name associated with the word 'indie', a shortened form of 'independent'. The word is widely used for people, creative work and culture that are independent or outside the mainstream, giving the name an appealing sense of individuality and freedom. Indie can also occur as a short form of names such as Indiana and Indigo, but it works naturally as a name in its own right. Bright, informal and contemporary, Indie is a distinctive gender-neutral choice with an independent spirit.",
+    "featured": true
+  },
+  {
+    "id": "imani",
+    "slug": "imani",
+    "name": "Imani",
+    "meaning": "Faith",
+    "pronunciation": "ee-MAH-nee",
+    "origin": "Swahili",
+    "collections": [
+      "Traditional Unisex",
+      "Meaningful"
+    ],
+    "themes": [
+      "Virtues",
+      "Spirituality"
+    ],
+    "tags": [
+      "Swahili",
+      "Faith",
+      "Virtue",
+      "African"
+    ],
+    "similar": [
+      "Ife",
+      "Insaf",
+      "Dayo"
+    ],
+    "about": "Imani is a Swahili name meaning 'faith', ultimately connected with the Arabic word iman, referring to faith or belief. As an abstract virtue, faith has no inherent gender, giving Imani a particularly strong foundation as a gender-neutral name. The name has a graceful rhythm and a positive spiritual meaning while reflecting the linguistic heritage of East Africa. Warm, elegant and meaningful, Imani is a distinctive choice for someone drawn to names connected with belief, trust and inner strength.",
+    "featured": true
+  },
+  {
+    "id": "inari",
+    "slug": "inari",
+    "name": "Inari",
+    "meaning": "Carrying rice",
+    "pronunciation": "ee-NAH-ree",
+    "origin": "Japanese",
+    "collections": [
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Mythology",
+      "Nature",
+      "Prosperity"
+    ],
+    "tags": [
+      "Japanese",
+      "Mythology",
+      "Rice",
+      "Prosperity",
+      "Nature"
+    ],
+    "similar": [
+      "Haneul",
+      "Irie",
+      "Indigo"
+    ],
+    "about": "Inari is a Japanese name closely associated with Inari Ōkami, a major kami connected with rice, agriculture, prosperity and foxes in Japanese tradition. The name is especially rich in cultural associations because Inari has been represented in different forms and is not restricted to a single gender. Its connection with rice also links it with nourishment, abundance and the agricultural foundations of traditional Japanese life. Distinctive and evocative, Inari is a memorable gender-neutral choice with strong Japanese cultural and natural associations.",
+    "featured": true
+  },
+  {
+    "id": "izzy",
+    "slug": "izzy",
+    "name": "Izzy",
+    "meaning": "Diminutive of names such as Isabel, Isidore and Israel",
+    "pronunciation": "IZ-ee",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Names"
+    ],
+    "tags": [
+      "Short",
+      "Nickname",
+      "Friendly",
+      "Contemporary"
+    ],
+    "similar": [
+      "Indie",
+      "Indy",
+      "Frankie"
+    ],
+    "about": "Izzy is a friendly short form used with a range of longer names, including Isabel, Isidore and Israel. Because its possible source names include traditionally feminine and traditionally masculine forms, Izzy itself has a flexible and informal character that is not inherently tied to one gender. Its compact sound gives it an approachable, youthful quality, while its long history as a nickname gives it familiarity across different naming traditions. Bright and easygoing, Izzy works especially well as a gender-neutral name with a warm personal feel.",
+    "featured": true
+  },
+  {
+    "id": "indiana",
+    "slug": "indiana",
+    "name": "Indiana",
+    "meaning": "Land of the Indians",
+    "pronunciation": "in-dee-AN-uh",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "Places"
+    ],
+    "tags": [
+      "Place Name",
+      "Geographic",
+      "Contemporary",
+      "American"
+    ],
+    "similar": [
+      "Ireland",
+      "Dakota",
+      "Devon"
+    ],
+    "about": "Indiana is a place-derived name taken from the US state of Indiana. The geographic name was coined in the eighteenth century and is traditionally interpreted as referring to the land of the Indians. As a place name, Indiana has a geographic rather than inherently gendered origin, giving it a flexible modern character. Its flowing sound and strong association with landscape and American geography make Indiana a distinctive gender-neutral choice for someone drawn to place-inspired names.",
+    "featured": false
+  },
+  {
+    "id": "ife",
+    "slug": "ife",
+    "name": "Ife",
+    "meaning": "Love",
+    "pronunciation": "EE-feh",
+    "origin": "Yoruba",
+    "collections": [
+      "Traditional Unisex",
+      "Meaningful"
+    ],
+    "themes": [
+      "Love",
+      "Virtues"
+    ],
+    "tags": [
+      "Yoruba",
+      "Love",
+      "African",
+      "Positive",
+      "Short"
+    ],
+    "similar": [
+      "Imani",
+      "Dayo",
+      "Irie"
+    ],
+    "about": "Ife comes from Yoruba ìfẹ́, meaning 'love'. The word expresses affection and love as an abstract human quality rather than something inherently connected to gender, giving the name a particularly clear gender-neutral foundation. It also connects the name with the rich linguistic and cultural heritage of the Yoruba people of West Africa. Short, melodic and deeply positive in meaning, Ife is an elegant choice for a name associated with affection, warmth and human connection.",
+    "featured": true
+  },
+  {
+    "id": "ibis",
+    "slug": "ibis",
+    "name": "Ibis",
+    "meaning": "Ibis bird",
+    "pronunciation": "EYE-biss",
+    "origin": "Greek",
+    "collections": [
+      "Nature",
+      "Rare"
+    ],
+    "themes": [
+      "Animals",
+      "Nature",
+      "Mythology"
+    ],
+    "tags": [
+      "Nature",
+      "Bird",
+      "Egyptian",
+      "Mythology",
+      "Word Name"
+    ],
+    "similar": [
+      "Indigo",
+      "Haze",
+      "Fox"
+    ],
+    "about": "Ibis is the name of a distinctive long-legged wading bird with a long, curved bill. The word entered English through Greek and Latin, while the bird has an especially rich cultural history in ancient Egypt, where the sacred ibis was associated with Thoth, the god connected with wisdom, writing and knowledge. As an animal name, Ibis has no inherent gender and fits naturally within the tradition of nature-inspired names. Unusual, elegant and strongly connected with the natural world, Ibis is a memorable gender-neutral choice with an intriguing mythological dimension.",
+    "featured": false
+  },
+  {
+    "id": "isi",
+    "slug": "isi",
+    "name": "Isi",
+    "meaning": "Deer; short form of several names",
+    "pronunciation": "EE-see",
+    "origin": "Multiple",
+    "collections": [
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Nature",
+      "Names"
+    ],
+    "tags": [
+      "Short",
+      "Nature",
+      "Deer",
+      "Multicultural",
+      "Rare"
+    ],
+    "similar": [
+      "Ife",
+      "Irie",
+      "Indie"
+    ],
+    "about": "Isi is a short, internationally flexible name with several independent naming traditions. One documented tradition gives Isi as a Choctaw name meaning 'deer', connecting it with an animal often associated with gentleness, grace and the natural world. Isi can also function as a short form of longer names such as Isabel, Isidore, Isaac and Israel, giving the compact form an unusually broad range of possible associations. Simple, soft and culturally varied, Isi is a distinctive gender-neutral choice that combines nature imagery with the flexibility of a short name.",
+    "featured": false
+  },
+  {
+    "id": "itai",
+    "slug": "itai",
+    "name": "Itai",
+    "meaning": "Do; act; perform",
+    "pronunciation": "EE-tie",
+    "origin": "Shona",
+    "collections": [
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Action",
+      "Words"
+    ],
+    "tags": [
+      "Shona",
+      "African",
+      "Action",
+      "Meaningful",
+      "Rare"
+    ],
+    "similar": [
+      "Dayo",
+      "Enkh",
+      "Ife"
+    ],
+    "about": "Itai is a Shona name derived from the verb ita, meaning 'do', 'act' or 'perform'. Its meaning carries a sense of action, initiative and purposeful activity, giving the name an energetic and forward-looking quality. Itai should be distinguished from the separate Hebrew name Itai, which has a different origin and is traditionally masculine. Presented specifically as the Shona name, Itai adds valuable Southern African linguistic representation to the collection. Short, purposeful and distinctive, it is a strong gender-neutral choice with an active meaning.",
+    "featured": false
+  },
+  {
+    "id": "insaf",
+    "slug": "insaf",
+    "name": "Insaf",
+    "meaning": "Justice; fairness; equity",
+    "pronunciation": "in-SAAF",
+    "origin": "Arabic",
+    "collections": [
+      "Traditional Unisex",
+      "Meaningful",
+      "Rare"
+    ],
+    "themes": [
+      "Justice",
+      "Virtues"
+    ],
+    "tags": [
+      "Arabic",
+      "Justice",
+      "Fairness",
+      "Virtue",
+      "Rare"
+    ],
+    "similar": [
+      "Imani",
+      "Ife",
+      "Honor"
+    ],
+    "about": "Insaf comes from the Arabic word inṣāf, associated with justice, fairness, impartiality and giving people their due. Its meaning describes an ethical principle rather than a gendered characteristic, making it a particularly strong choice for a gender-neutral name. The concept of insaf is connected with balance, equitable treatment and acting fairly towards others. Distinctive and purposeful, Insaf brings a strong moral meaning and Arabic linguistic heritage to the collection while offering an uncommon alternative to more familiar virtue names.",
+    "featured": false
   }
 ]
