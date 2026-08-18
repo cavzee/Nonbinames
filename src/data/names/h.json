@@ -273,5 +273,292 @@
     ],
     "about": "Hollis originated as an English surname meaning 'dweller by the holly trees,' connecting it with one of Britain's most recognisable evergreen plants. Holly has long symbolised resilience, protection and life through the winter months, giving the name rich natural imagery. Distinctive yet timeless, Hollis is a refined gender-neutral choice that blends botanical heritage with contemporary style.",
     "featured": true
+  },
+  {
+    "id": "honor",
+    "slug": "honor",
+    "name": "Honor",
+    "meaning": "Dignity; integrity; respect",
+    "pronunciation": "ON-er",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Virtue",
+      "Character"
+    ],
+    "tags": [
+      "English",
+      "Virtue",
+      "Word Name"
+    ],
+    "similar": [
+      "Holland",
+      "Haven",
+      "Hallel"
+    ],
+    "about": "Honor is an English virtue name associated with dignity, integrity and respect. As a non-gendered virtue word, it can be used for any gender.",
+    "featured": true
+  },
+  {
+    "id": "hunter",
+    "slug": "hunter",
+    "name": "Hunter",
+    "meaning": "One who hunts",
+    "pronunciation": "HUN-ter",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Strength"
+    ],
+    "tags": [
+      "English",
+      "Occupational",
+      "Surname"
+    ],
+    "similar": [
+      "Holland",
+      "Henley",
+      "Haze"
+    ],
+    "about": "Hunter is an English occupational and surname-style name referring to one who hunts. Its occupational meaning is not inherently gendered, making it suitable for any gender.",
+    "featured": false
+  },
+  {
+    "id": "holland",
+    "slug": "holland",
+    "name": "Holland",
+    "meaning": "Land of the ridge",
+    "pronunciation": "HOL-ənd",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Heritage",
+      "Places"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Place Name"
+    ],
+    "similar": [
+      "Henley",
+      "Hadley",
+      "Harlan"
+    ],
+    "about": "Holland is a place and surname-derived name. Its geographic origin gives it no inherent gender restriction, making it suitable for any gender.",
+    "featured": false
+  },
+  {
+    "id": "hadar",
+    "slug": "hadar",
+    "name": "Hadar",
+    "meaning": "Splendour; glory",
+    "pronunciation": "HA-dar",
+    "origin": "Hebrew",
+    "collections": [
+      "Global",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Beauty",
+      "Light",
+      "Glory"
+    ],
+    "tags": [
+      "Hebrew",
+      "Global",
+      "Biblical"
+    ],
+    "similar": [
+      "Hallel",
+      "Haneul",
+      "Honor"
+    ],
+    "about": "Hadar is a Hebrew name meaning splendour or glory. Its meaning is not inherently gendered, and the name is suitable for any gender.",
+    "featured": true
+  },
+  {
+    "id": "haneul",
+    "slug": "haneul",
+    "name": "Haneul",
+    "meaning": "Heaven; sky",
+    "pronunciation": "HAH-nul",
+    "origin": "Korean",
+    "collections": [
+      "Global",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Sky",
+      "Nature",
+      "Spirituality"
+    ],
+    "tags": [
+      "Korean",
+      "Global",
+      "Nature"
+    ],
+    "similar": [
+      "Hadar",
+      "Haze",
+      "Hallel"
+    ],
+    "about": "Haneul is a Korean name meaning heaven or sky. Its nature-based meaning is not inherently gendered, making it suitable for any gender.",
+    "featured": true
+  },
+  {
+    "id": "henley",
+    "slug": "henley",
+    "name": "Henley",
+    "meaning": "High woodland clearing",
+    "pronunciation": "HEN-lee",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Place Name"
+    ],
+    "similar": [
+      "Holland",
+      "Hadyn",
+      "Haze"
+    ],
+    "about": "Henley is an English surname and place-derived name associated with a woodland clearing. Its meaning and surname form are not inherently gendered.",
+    "featured": false
+  },
+  {
+    "id": "hallel",
+    "slug": "hallel",
+    "name": "Hallel",
+    "meaning": "Praise",
+    "pronunciation": "HAH-lel",
+    "origin": "Hebrew",
+    "collections": [
+      "Global",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Faith",
+      "Praise",
+      "Spirituality"
+    ],
+    "tags": [
+      "Hebrew",
+      "Global",
+      "Faith"
+    ],
+    "similar": [
+      "Hadar",
+      "Haneul",
+      "Honor"
+    ],
+    "about": "Hallel is a Hebrew name associated with praise. Its spiritual meaning is not inherently gendered, allowing it to be used for any gender.",
+    "featured": false
+  },
+  {
+    "id": "hanne",
+    "slug": "hanne",
+    "name": "Hanne",
+    "meaning": "Grace",
+    "pronunciation": "HAN-neh",
+    "origin": "European",
+    "collections": [
+      "Global",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Grace",
+      "Heritage"
+    ],
+    "tags": [
+      "Danish",
+      "Norwegian",
+      "German",
+      "Dutch",
+      "European"
+    ],
+    "similar": [
+      "Hanne",
+      "Hadar",
+      "Honor"
+    ],
+    "about": "Hanne is a European form used across Danish, Norwegian, German and Dutch naming traditions. Its cross-cultural forms allow it to be used for any gender.",
+    "featured": false
+  },
+  {
+    "id": "hadyn",
+    "slug": "hadyn",
+    "name": "Hadyn",
+    "meaning": "Variant of Hayden",
+    "pronunciation": "HAY-dən",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Variant",
+      "Surname"
+    ],
+    "similar": [
+      "Hayden",
+      "Haze",
+      "Henley"
+    ],
+    "about": "Hadyn is an English variant spelling of Hayden. Its surname-derived form and flexible modern usage make it suitable for any gender.",
+    "featured": false
+  },
+  {
+    "id": "haze",
+    "slug": "haze",
+    "name": "Haze",
+    "meaning": "Light mist; atmospheric veil",
+    "pronunciation": "HAYZ",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Rare",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Weather",
+      "Atmosphere"
+    ],
+    "tags": [
+      "English",
+      "Nature",
+      "Word Name"
+    ],
+    "similar": [
+      "Haze",
+      "Holland",
+      "Haneul"
+    ],
+    "about": "Haze is an English atmospheric word referring to light mist or reduced visibility. Its nature-based meaning has no inherent gender and can work as a name for any gender.",
+    "featured": true
   }
 ]
