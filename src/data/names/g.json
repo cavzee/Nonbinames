@@ -272,5 +272,292 @@
     ],
     "about": "Gyre is an English word describing the vast circular currents that move through the world's oceans. These powerful natural systems symbolise movement, connection and the constant cycles of the planet, giving the name a uniquely modern character. Rare, minimalist and inspired by the sea, Gyre is a distinctive gender-neutral choice for those drawn to science, nature and exploration.",
     "featured": true
+  },
+  {
+    "id": "grey",
+    "slug": "grey",
+    "name": "Grey",
+    "meaning": "Grey; grey-haired",
+    "pronunciation": "GRAY",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Colour"
+    ],
+    "tags": [
+      "English",
+      "Colour",
+      "Surname"
+    ],
+    "similar": [
+      "Gray",
+      "Gable",
+      "Greer"
+    ],
+    "about": "Grey is an English colour and surname-style name. Its non-gendered meaning and modern surname character make it a natural choice for either gender.",
+    "featured": true
+  },
+  {
+    "id": "gentry",
+    "slug": "gentry",
+    "name": "Gentry",
+    "meaning": "Nobility; high social class",
+    "pronunciation": "JEN-tree",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Word Name"
+    ],
+    "similar": [
+      "Gable",
+      "Golden",
+      "Grey"
+    ],
+    "about": "Gentry is an English word and surname-style name associated with the gentry. Its meaning is not inherently gendered, allowing it to work for either gender.",
+    "featured": false
+  },
+  {
+    "id": "golden",
+    "slug": "golden",
+    "name": "Golden",
+    "meaning": "Made of gold; golden",
+    "pronunciation": "GOHL-dən",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Nature"
+    ],
+    "themes": [
+      "Nature",
+      "Light",
+      "Fortune"
+    ],
+    "tags": [
+      "English",
+      "Word Name",
+      "Colour"
+    ],
+    "similar": [
+      "Grey",
+      "Garnet",
+      "Galaxy"
+    ],
+    "about": "Golden is an English word name associated with gold, brightness and value. As a descriptive word without an inherent gender, it can naturally be used for either gender.",
+    "featured": true
+  },
+  {
+    "id": "gio",
+    "slug": "gio",
+    "name": "Gio",
+    "meaning": "God is gracious",
+    "pronunciation": "JEE-oh",
+    "origin": "Italian",
+    "collections": [
+      "Global",
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Faith",
+      "Grace"
+    ],
+    "tags": [
+      "Italian",
+      "Global",
+      "Short Name"
+    ],
+    "similar": [
+      "Gian",
+      "Gioia",
+      "Gable"
+    ],
+    "about": "Gio is an Italian short form used with both masculine and feminine names, including Giovanni and Giovanna. Its concise international style makes it a flexible gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "gurpreet",
+    "slug": "gurpreet",
+    "name": "Gurpreet",
+    "meaning": "Love of the Guru",
+    "pronunciation": "goor-PREET",
+    "origin": "Punjabi",
+    "collections": [
+      "Global",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Love",
+      "Faith"
+    ],
+    "tags": [
+      "Punjabi",
+      "Sikh",
+      "Indian",
+      "Global"
+    ],
+    "similar": [
+      "Farai",
+      "Femi",
+      "Gökçe"
+    ],
+    "about": "Gurpreet is a Punjabi name associated with love for the Guru. It is used across genders in Sikh and Punjabi naming traditions, making it a strong global gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "gökçe",
+    "slug": "gökçe",
+    "name": "Gökçe",
+    "meaning": "Sky blue; beautiful",
+    "pronunciation": "GURK-cheh",
+    "origin": "Turkish",
+    "collections": [
+      "Global",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Sky",
+      "Nature",
+      "Beauty"
+    ],
+    "tags": [
+      "Turkish",
+      "Global",
+      "Nature"
+    ],
+    "similar": [
+      "Grey",
+      "Galaxy",
+      "Gurpreet"
+    ],
+    "about": "Gökçe is a Turkish given name associated with the sky and beauty. It is a unisex name in Turkish usage and adds distinctive cultural and linguistic variety to the collection.",
+    "featured": true
+  },
+  {
+    "id": "gable",
+    "slug": "gable",
+    "name": "Gable",
+    "meaning": "Triangular section of a building",
+    "pronunciation": "GAY-bəl",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Architecture"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Word Name"
+    ],
+    "similar": [
+      "Gentry",
+      "Greer",
+      "Grey"
+    ],
+    "about": "Gable is an English architectural word and surname-style name. Its modern form and non-gendered meaning make it suitable as a name for either gender.",
+    "featured": false
+  },
+  {
+    "id": "gemini",
+    "slug": "gemini",
+    "name": "Gemini",
+    "meaning": "Twins",
+    "pronunciation": "JEM-in-eye",
+    "origin": "Latin",
+    "collections": [
+      "Modern",
+      "Rare",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Stars",
+      "Space",
+      "Zodiac"
+    ],
+    "tags": [
+      "Latin",
+      "Astronomy",
+      "Word Name"
+    ],
+    "similar": [
+      "Galaxy",
+      "Golden",
+      "Gökçe"
+    ],
+    "about": "Gemini is the Latin name for the zodiac constellation associated with the Twins. As a celestial word name, it has no inherent gender and can work for either gender.",
+    "featured": false
+  },
+  {
+    "id": "galaxy",
+    "slug": "galaxy",
+    "name": "Galaxy",
+    "meaning": "System of stars",
+    "pronunciation": "GAL-ək-see",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Rare",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Space",
+      "Stars",
+      "Nature"
+    ],
+    "tags": [
+      "English",
+      "Astronomy",
+      "Word Name"
+    ],
+    "similar": [
+      "Gemini",
+      "Golden",
+      "Gökçe"
+    ],
+    "about": "Galaxy is an English word name referring to a vast system of stars. Its cosmic meaning is inherently non-gendered, making it an imaginative modern choice for either gender.",
+    "featured": false
+  },
+  {
+    "id": "grady",
+    "slug": "grady",
+    "name": "Grady",
+    "meaning": "Noble; illustrious",
+    "pronunciation": "GRAY-dee",
+    "origin": "Irish",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Heritage",
+      "Strength"
+    ],
+    "tags": [
+      "Irish",
+      "Surname",
+      "Celtic"
+    ],
+    "similar": [
+      "Grey",
+      "Gentry",
+      "Gable"
+    ],
+    "about": "Grady is an Irish surname-derived name associated with nobility and distinction. Its surname style allows it to work as a modern gender-flexible given name.",
+    "featured": false
   }
 ]
