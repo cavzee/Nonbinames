@@ -291,14 +291,17 @@
     "tags": [
       "English",
       "Colour",
-      "Surname"
+      "Surname",
+      "Word Name",
+      "Minimal",
+      "Nature"
     ],
     "similar": [
       "Gray",
       "Gable",
       "Greer"
     ],
-    "about": "Grey is an English colour and surname-style name. Its non-gendered meaning and modern surname character make it a natural choice for either gender.",
+    "about": "Grey is the British English spelling of the colour name and also occurs as an English surname. As a colour, grey is associated with balance, neutrality, sophistication and the natural tones of stone, mist and weathered landscapes. Its meaning carries no inherent gender marker, while its surname history gives it additional depth. Minimal, modern and understated, Grey is a natural gender-neutral choice.",
     "featured": true
   },
   {
@@ -317,15 +320,18 @@
     ],
     "tags": [
       "English",
+      "Word Name",
       "Surname",
-      "Word Name"
+      "Heritage",
+      "Social History",
+      "Rare"
     ],
     "similar": [
       "Gable",
       "Golden",
       "Grey"
     ],
-    "about": "Gentry is an English word and surname-style name associated with the gentry. Its meaning is not inherently gendered, allowing it to work for either gender.",
+    "about": "Gentry comes from the English word referring historically to people of gentle birth or a socially privileged class below the nobility. It developed from a term describing social status rather than a personal characteristic tied to gender. Its surname and word-name qualities give it a distinctive modern character, while its meaning remains independent of gender. Refined and unusual, Gentry works as a gender-neutral choice.",
     "featured": false
   },
   {
@@ -348,14 +354,17 @@
     "tags": [
       "English",
       "Word Name",
-      "Colour"
+      "Colour",
+      "Nature",
+      "Light",
+      "Prosperity"
     ],
     "similar": [
       "Grey",
       "Garnet",
       "Galaxy"
     ],
-    "about": "Golden is an English word name associated with gold, brightness and value. As a descriptive word without an inherent gender, it can naturally be used for either gender.",
+    "about": "Golden is an English descriptive word associated with gold, the colour of sunlight and something considered precious or exceptionally valuable. Gold has carried associations with warmth, prosperity, achievement and radiance across many cultures. Because the word describes colour and value rather than a gendered quality, Golden can naturally function as a gender-neutral word name with an optimistic, luminous character.",
     "featured": true
   },
   {
@@ -376,15 +385,18 @@
     ],
     "tags": [
       "Italian",
+      "European",
+      "Diminutive",
+      "Short Name",
       "Global",
-      "Short Name"
+      "Faith"
     ],
     "similar": [
       "Gian",
       "Gioia",
       "Gable"
     ],
-    "about": "Gio is an Italian short form used with both masculine and feminine names, including Giovanni and Giovanna. Its concise international style makes it a flexible gender-neutral choice.",
+    "about": "Gio is a short form used in several European naming traditions, most notably as a shortened form of names such as Giovanni and related forms. Through those longer names it ultimately connects with the widespread Hebrew-derived meaning 'God is gracious'. Its very short form gives it an international, informal character, while its use as a standalone name allows Gio to function flexibly as a gender-neutral choice.",
     "featured": false
   },
   {
@@ -406,14 +418,17 @@
       "Punjabi",
       "Sikh",
       "Indian",
-      "Global"
+      "South Asian",
+      "Faith",
+      "Love",
+      "Spiritual"
     ],
     "similar": [
       "Farai",
       "Femi",
       "Gökçe"
     ],
-    "about": "Gurpreet is a Punjabi name associated with love for the Guru. It is used across genders in Sikh and Punjabi naming traditions, making it a strong global gender-neutral choice.",
+    "about": "Gurpreet is a Punjabi name formed from elements associated with the Guru and love or affection, giving it the sense of love for the Guru. It is rooted in Punjabi and Sikh naming culture, where names often express spiritual devotion and connection to the Guru. Strongly cultural yet accessible in sound, Gurpreet is a meaningful gender-neutral name with South Asian and Sikh heritage.",
     "featured": false
   },
   {
@@ -434,15 +449,18 @@
     ],
     "tags": [
       "Turkish",
+      "Nature",
+      "Sky",
+      "Beauty",
       "Global",
-      "Nature"
+      "Rare"
     ],
     "similar": [
       "Grey",
       "Galaxy",
       "Gurpreet"
     ],
-    "about": "Gökçe is a Turkish given name associated with the sky and beauty. It is a unisex name in Turkish usage and adds distinctive cultural and linguistic variety to the collection.",
+    "about": "Gökçe is a Turkish name connected with the Turkish word gök, meaning 'sky' or 'heaven', and is also associated with qualities such as beauty or being sky-coloured. Its imagery evokes open skies, height and natural beauty, while its Turkish linguistic identity gives it a distinctive international character. Elegant and nature-inspired, Gökçe can function as a gender-neutral name.",
     "featured": true
   },
   {
@@ -461,15 +479,18 @@
     ],
     "tags": [
       "English",
+      "Architecture",
+      "Word Name",
       "Surname",
-      "Word Name"
+      "Modern",
+      "Rare"
     ],
     "similar": [
       "Gentry",
       "Greer",
       "Grey"
     ],
-    "about": "Gable is an English architectural word and surname-style name. Its modern form and non-gendered meaning make it suitable as a name for either gender.",
+    "about": "Gable is an English architectural word referring to the triangular upper section of a building formed by the meeting of sloping roofs. It also has the character of an English surname-style name, giving it a distinctive modern naming quality. Because its literal meaning describes architecture rather than a person or gender, Gable can naturally function as a gender-neutral word and surname name.",
     "featured": false
   },
   {
@@ -492,6 +513,9 @@
     "tags": [
       "Latin",
       "Astronomy",
+      "Zodiac",
+      "Stars",
+      "Mythology",
       "Word Name"
     ],
     "similar": [
@@ -499,7 +523,7 @@
       "Golden",
       "Gökçe"
     ],
-    "about": "Gemini is the Latin name for the zodiac constellation associated with the Twins. As a celestial word name, it has no inherent gender and can work for either gender.",
+    "about": "Gemini is the Latin word for 'twins' and the name of one of the twelve zodiac constellations. In astronomy it refers to a constellation associated with the mythological twins Castor and Pollux, while astrology connects it with the Gemini zodiac sign. Celestial and symbolic rather than inherently gendered, Gemini offers an imaginative gender-neutral name with strong themes of duality, connection and the stars.",
     "featured": false
   },
   {
@@ -521,15 +545,18 @@
     ],
     "tags": [
       "English",
+      "Space",
       "Astronomy",
-      "Word Name"
+      "Cosmic",
+      "Word Name",
+      "Modern"
     ],
     "similar": [
       "Gemini",
       "Golden",
       "Gökçe"
     ],
-    "about": "Galaxy is an English word name referring to a vast system of stars. Its cosmic meaning is inherently non-gendered, making it an imaginative modern choice for either gender.",
+    "about": "Galaxy comes from the English word for a vast gravitationally bound system of stars, gas, dust and other matter. The word evokes the scale and mystery of the universe, making it especially appealing as a modern space-inspired name. Its scientific and cosmic meaning has no inherent gender marker, while its expansive imagery suggests possibility, exploration and wonder. Galaxy is a distinctive gender-neutral word name.",
     "featured": false
   },
   {
@@ -549,15 +576,18 @@
     ],
     "tags": [
       "Irish",
+      "Celtic",
       "Surname",
-      "Celtic"
+      "Heritage",
+      "Modern",
+      "Global"
     ],
     "similar": [
       "Grey",
       "Gentry",
       "Gable"
     ],
-    "about": "Grady is an Irish surname-derived name associated with nobility and distinction. Its surname style allows it to work as a modern gender-flexible given name.",
+    "about": "Grady developed from Irish surname forms associated with Ó Gráda, traditionally connected with the Irish personal name Gráda and ideas of nobility or illustriousness. Its surname heritage gives it a strong Irish identity, while its compact two-syllable form feels approachable and contemporary. As a surname-style name without an inherent gender meaning, Grady can function as a gender-neutral choice with Celtic roots.",
     "featured": false
   }
 ]
