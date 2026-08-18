@@ -60,6 +60,14 @@ export async function generateMetadata(
       url,
       siteName: "NonbiNames",
       type: "article",
+      images: [
+        {
+          url: `/name/${name.slug}/opengraph-image`,
+          width: 1200,
+          height: 630,
+          alt: `${name.name} — NonbiNames`,
+        },
+      ],
     },
 
     twitter: {
