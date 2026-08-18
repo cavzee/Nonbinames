@@ -271,5 +271,277 @@
     ],
     "about": "Brighton is an English place name meaning 'Bright's town,' originally referring to a settlement associated with a person named Bright. Today it is widely recognised through the vibrant seaside city on England's south coast, giving the name a contemporary and creative atmosphere. Fresh, uncommon and full of character, Brighton offers a modern place name with an energetic yet approachable feel.",
     "featured": false
+  },
+  {
+    "id": "bay",
+    "slug": "bay",
+    "name": "Bay",
+    "meaning": "Bay; inlet of the sea",
+    "pronunciation": "BAY",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "Ocean"
+    ],
+    "tags": [
+      "Nature",
+      "Water",
+      "Minimal"
+    ],
+    "similar": [
+      "Blue",
+      "Brook",
+      "Cove"
+    ],
+    "about": "Bay is an English word name inspired by a sheltered inlet of the sea. Its connection with coastal landscapes gives it a calm, open and natural character, while its short form makes it feel distinctly modern. Simple, memorable and quietly distinctive, Bay is a gender-neutral choice with a strong connection to water and the outdoors.",
+    "featured": true
+  },
+  {
+    "id": "bex",
+    "slug": "bex",
+    "name": "Bex",
+    "meaning": "Short form of names such as Rebecca",
+    "pronunciation": "BEKS",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "tags": [
+      "Short",
+      "Nickname",
+      "Contemporary"
+    ],
+    "similar": [
+      "Beck",
+      "Blaine",
+      "Blair"
+    ],
+    "about": "Bex is a concise English short form associated with names including Rebecca and other names beginning with Bec- or Beck-. Its compact sound and contemporary style have allowed it to develop an identity of its own. Bright, informal and distinctive, Bex offers a gender-neutral option for those drawn to short modern names.",
+    "featured": false
+  },
+  {
+    "id": "billie",
+    "slug": "billie",
+    "name": "Billie",
+    "meaning": "Resolute protector",
+    "pronunciation": "BIL-ee",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "tags": [
+      "English",
+      "Diminutive",
+      "Established"
+    ],
+    "similar": [
+      "Bertie",
+      "Bernie",
+      "Bailey"
+    ],
+    "about": "Billie developed as a diminutive of Bill and has also long been used as a feminine form of William. Its history across masculine and feminine naming traditions has helped give it a distinctly gender-neutral character. Familiar, friendly and energetic, Billie combines traditional roots with an approachable modern style.",
+    "featured": true
+  },
+  {
+    "id": "beck",
+    "slug": "beck",
+    "name": "Beck",
+    "meaning": "Stream",
+    "pronunciation": "BEK",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Nature",
+      "Rare"
+    ],
+    "themes": [
+      "Water"
+    ],
+    "tags": [
+      "Surname",
+      "Nature",
+      "Minimal"
+    ],
+    "similar": [
+      "Brook",
+      "Bay",
+      "Blair"
+    ],
+    "about": "Beck comes from an English and northern European word for a small stream and has also been used as a surname. Its association with flowing water gives the name a natural, understated quality. Short, crisp and contemporary, Beck is a distinctive gender-neutral choice with both surname and nature-name appeal.",
+    "featured": true
+  },
+  {
+    "id": "brooklyn",
+    "slug": "brooklyn",
+    "name": "Brooklyn",
+    "meaning": "Marshland settlement",
+    "pronunciation": "BROOK-lin",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Places"
+    ],
+    "themes": [
+      "Places"
+    ],
+    "tags": [
+      "Place Name",
+      "Modern",
+      "English"
+    ],
+    "similar": [
+      "Brighton",
+      "Brook",
+      "Berlin"
+    ],
+    "about": "Brooklyn is an English-language place name associated with the New York City borough, whose name ultimately derives from the Dutch settlement of Breukelen. It has developed into a widely recognised given name used across genders, with a lively urban and contemporary character. Familiar yet distinctive, Brooklyn brings together place-name heritage and modern style.",
+    "featured": true
+  },
+  {
+    "id": "bernie",
+    "slug": "bernie",
+    "name": "Bernie",
+    "meaning": "Brave as a bear",
+    "pronunciation": "BUR-nee",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "tags": [
+      "Diminutive",
+      "English",
+      "Established"
+    ],
+    "similar": [
+      "Bertie",
+      "Billie",
+      "Bex"
+    ],
+    "about": "Bernie is an English short form associated with names such as Bernard, Bernadette and other names beginning with Bern-. Through its use as both a masculine and feminine diminutive, it has developed a recognisably gender-neutral character. Warm, friendly and slightly vintage, Bernie offers an approachable alternative to more formal names.",
+    "featured": false
+  },
+  {
+    "id": "bertie",
+    "slug": "bertie",
+    "name": "Bertie",
+    "meaning": "Bright; noble",
+    "pronunciation": "BUR-tee",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Light"
+    ],
+    "tags": [
+      "Diminutive",
+      "English",
+      "Vintage"
+    ],
+    "similar": [
+      "Bernie",
+      "Billie",
+      "Bex"
+    ],
+    "about": "Bertie is an English diminutive associated with names such as Albert, Bert and Herbert, whose Germanic elements include meanings connected with brightness and fame. Historically used across masculine and feminine naming traditions, it has a warm and distinctly vintage character. Friendly and distinctive, Bertie is a gender-neutral choice with an old-fashioned charm.",
+    "featured": false
+  },
+  {
+    "id": "berlin",
+    "slug": "berlin",
+    "name": "Berlin",
+    "meaning": "Place name associated with Berlin",
+    "pronunciation": "ber-LIN",
+    "origin": "German",
+    "collections": [
+      "Modern",
+      "Places",
+      "Rare"
+    ],
+    "themes": [
+      "Places"
+    ],
+    "tags": [
+      "Place Name",
+      "International",
+      "Modern"
+    ],
+    "similar": [
+      "Brighton",
+      "Brooklyn",
+      "Bowie"
+    ],
+    "about": "Berlin is the name of Germany's capital and has also emerged as a rare given name. As a place name it carries associations with creativity, history, culture and a distinctly international atmosphere. Uncommon and modern, Berlin offers a gender-neutral choice with strong geographical character.",
+    "featured": false
+  },
+  {
+    "id": "bhavya",
+    "slug": "bhavya",
+    "name": "Bhavya",
+    "meaning": "Magnificent; grand",
+    "pronunciation": "BHAV-yah",
+    "origin": "Hindi",
+    "collections": [
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "tags": [
+      "Hindi",
+      "International",
+      "Elegant"
+    ],
+    "similar": [
+      "Bex",
+      "Bay",
+      "Berlin"
+    ],
+    "about": "Bhavya is a Hindi name associated with qualities such as magnificence, grandeur and splendour. Used across genders, it provides a distinctive international addition to the collection while retaining a graceful and expressive sound. Bhavya is a strong choice for those seeking a gender-neutral name with South Asian roots and an uplifting meaning.",
+    "featured": false
+  },
+  {
+    "id": "bronte",
+    "slug": "bronte",
+    "name": "Bronte",
+    "meaning": "Surname of Irish origin",
+    "pronunciation": "BRON-tee",
+    "origin": "Irish",
+    "collections": [
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "Surname",
+      "Irish",
+      "Literary"
+    ],
+    "similar": [
+      "Bowie",
+      "Bellamy",
+      "Berlin"
+    ],
+    "about": "Bronte is an Irish surname best known through the Brontë family of writers and has also developed occasional use as a given name. Its literary associations give it a creative and distinctive character, while its surname heritage provides a strong connection to history. Rare and elegant, Bronte offers an unusual gender-neutral choice with a memorable sound.",
+    "featured": false
   }
 ]
