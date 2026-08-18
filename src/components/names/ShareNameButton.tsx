@@ -55,9 +55,10 @@ export function ShareNameButton({ name, slug }: Props) {
       type="button"
       onClick={handleShare}
       aria-label={`Share ${name}`}
-      className="absolute right-5 top-5 rounded-xl border border-zinc-700 bg-zinc-950/80 px-3 py-2 text-xs font-medium text-zinc-400 backdrop-blur transition hover:border-violet-500 hover:text-white focus:outline-none focus:ring-2 focus:ring-violet-500"
+      className="inline-flex items-center gap-2 rounded-xl border border-violet-400/40 bg-violet-500/15 px-4 py-2.5 text-sm font-semibold text-violet-200 shadow-[0_0_25px_rgba(139,92,246,0.12)] backdrop-blur transition-all duration-200 hover:border-violet-400/70 hover:bg-violet-500/25 hover:text-white hover:shadow-[0_0_30px_rgba(139,92,246,0.22)] focus:outline-none focus:ring-2 focus:ring-violet-400 focus:ring-offset-2 focus:ring-offset-zinc-950"
     >
-      {copied ? "Copied" : "Share"}
+      <span aria-hidden="true">↗</span>
+      {copied ? "Copied!" : "Share"}
     </button>
   );
 }
