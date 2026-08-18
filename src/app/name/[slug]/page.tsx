@@ -13,6 +13,7 @@ import { NameAbout } from "@/components/names/NameAbout";
 import { SimilarNames } from "@/components/names/SimilarNames";
 import { SurpriseAgain } from "@/components/names/SurpriseAgain";
 import { NameBackLink } from "@/components/names/NameBackLink";
+import { ShareNameButton } from "@/components/names/ShareNameButton";
 
 export function generateStaticParams() {
   return getAllNames().map((name) => ({
@@ -98,6 +99,13 @@ export default async function NamePage({
 
         <div className="mt-10">
           <NameHero name={name} />
+
+          <div className="mt-6 flex justify-end">
+            <ShareNameButton
+              name={name.name}
+              slug={name.slug}
+            />
+          </div>
         </div>
 
         <NameMeta name={name} />

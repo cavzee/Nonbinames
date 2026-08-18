@@ -1,7 +1,6 @@
 import type { Name } from "@/types/name";
 
 import { NameCardLink } from "./NameCardLink";
-import { ShareNameButton } from "./ShareNameButton";
 
 type Props = {
   name: Name;
@@ -83,15 +82,8 @@ export function NameCard({ name, returnTo }: Props) {
           ))}
         </div>
 
-        <div className="mt-8 flex items-center justify-between">
-          <div className="text-sm font-medium text-violet-400 opacity-0 transition-all duration-300 group-hover:translate-x-1 group-hover:opacity-100 group-focus-visible:translate-x-1 group-focus-visible:opacity-100">
-            Discover →
-          </div>
-
-          <ShareNameButton
-            name={name.name}
-            slug={name.slug}
-          />
+        <div className="mt-8 text-sm font-medium text-violet-400 opacity-0 transition-all duration-300 group-hover:translate-x-1 group-hover:opacity-100 group-focus-visible:translate-x-1 group-focus-visible:opacity-100">
+          Discover →
         </div>
       </article>
       </NameCardLink>
