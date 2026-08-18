@@ -274,5 +274,297 @@
     ],
     "about": "Cyan comes from the Greek word 'kyanos,' referring to a deep blue colour. Today it is recognised as the vivid blue-green shade found in nature, art and digital design, giving the name a fresh contemporary feel. Minimal, distinctive and rich in colour symbolism, Cyan appeals to those looking for a modern name inspired by creativity, water and open skies.",
     "featured": false
+  },
+  {
+    "id": "celyn",
+    "slug": "celyn",
+    "name": "Celyn",
+    "meaning": "Holly",
+    "pronunciation": "KEL-in",
+    "origin": "Welsh",
+    "collections": [
+      "Global",
+      "Nature",
+      "Rare"
+    ],
+    "themes": [
+      "Plants"
+    ],
+    "tags": [
+      "Welsh",
+      "Nature",
+      "Botanical",
+      "Rare"
+    ],
+    "similar": [
+      "Ceri",
+      "Cihan",
+      "Cypress"
+    ],
+    "about": "Celyn is a Welsh name meaning 'holly', referring to the evergreen tree known for its distinctive leaves and bright berries. Rooted in Welsh language and landscape, Celyn offers a rare and distinctly Celtic choice with a strong connection to nature. Its established use for people of more than one gender makes it an appealing gender-neutral name.",
+    "featured": true
+  },
+  {
+    "id": "cypress",
+    "slug": "cypress",
+    "name": "Cypress",
+    "meaning": "Cypress tree",
+    "pronunciation": "SY-priss",
+    "origin": "English",
+    "collections": [
+      "Nature",
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "Plants"
+    ],
+    "tags": [
+      "Botanical",
+      "Nature",
+      "Word Name",
+      "Modern"
+    ],
+    "similar": [
+      "Cedar",
+      "Celyn",
+      "Clover"
+    ],
+    "about": "Cypress is an English botanical name taken from the cypress tree, an evergreen associated with endurance, longevity and graceful landscapes. Rare as a given name but used for people of more than one gender, Cypress offers a distinctive nature-inspired choice with a calm, elegant character.",
+    "featured": false
+  },
+  {
+    "id": "chandra",
+    "slug": "chandra",
+    "name": "Chandra",
+    "meaning": "Moon",
+    "pronunciation": "CHAN-druh",
+    "origin": "Sanskrit",
+    "collections": [
+      "Global",
+      "Nature",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Moon",
+      "Sky"
+    ],
+    "tags": [
+      "Sanskrit",
+      "South Asian",
+      "Nature",
+      "Established"
+    ],
+    "similar": [
+      "Cihan",
+      "Chan",
+      "Cahaya"
+    ],
+    "about": "Chandra comes from Sanskrit and means 'moon'. It has longstanding use across South Asian naming traditions and is used for people of more than one gender. Connected with the moon, Chandra carries associations of light, beauty and the night sky while offering a name with deep cultural and linguistic roots.",
+    "featured": true
+  },
+  {
+    "id": "campbell",
+    "slug": "campbell",
+    "name": "Campbell",
+    "meaning": "Crooked mouth",
+    "pronunciation": "KAM-bəl",
+    "origin": "Scottish",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Global"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "Scottish",
+      "Surname",
+      "Established",
+      "Unisex"
+    ],
+    "similar": [
+      "Cameron",
+      "Cruz",
+      "Clarke"
+    ],
+    "about": "Campbell is a Scottish surname that developed from the Gaelic nickname 'cam beul', meaning 'crooked mouth'. It later became established as a given name and is now used for people of more than one gender. Familiar yet distinctive, Campbell combines Scottish heritage with a polished modern surname style.",
+    "featured": true
+  },
+  {
+    "id": "cruz",
+    "slug": "cruz",
+    "name": "Cruz",
+    "meaning": "Cross",
+    "pronunciation": "KROOS",
+    "origin": "Spanish and Portuguese",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Faith"
+    ],
+    "tags": [
+      "Spanish",
+      "Portuguese",
+      "Surname",
+      "Established"
+    ],
+    "similar": [
+      "Cihan",
+      "Campbell",
+      "Ceri"
+    ],
+    "about": "Cruz is a Spanish and Portuguese name meaning 'cross'. It has long-standing use as both a surname and given name and is used for people of more than one gender. Short, distinctive and internationally recognisable, Cruz combines religious heritage with a crisp modern sound.",
+    "featured": true
+  },
+  {
+    "id": "ceri",
+    "slug": "ceri",
+    "name": "Ceri",
+    "meaning": "Associated with Welsh tradition",
+    "pronunciation": "KEH-ree",
+    "origin": "Welsh",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "Welsh",
+      "Celtic",
+      "Established",
+      "Rare"
+    ],
+    "similar": [
+      "Celyn",
+      "Cihan",
+      "Caelan"
+    ],
+    "about": "Ceri is a Welsh name with established use for people of more than one gender. Its exact etymology is debated, with possible connections to Welsh tradition and names such as Ceridwen. Short, gentle and distinctly Welsh, Ceri offers a rare gender-neutral choice with strong Celtic character.",
+    "featured": false
+  },
+  {
+    "id": "cihan",
+    "slug": "cihan",
+    "name": "Cihan",
+    "meaning": "World; universe",
+    "pronunciation": "JEE-hahn",
+    "origin": "Turkish",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Universe"
+    ],
+    "tags": [
+      "Turkish",
+      "Global",
+      "Established",
+      "Rare"
+    ],
+    "similar": [
+      "Chandra",
+      "Cruz",
+      "Celyn"
+    ],
+    "about": "Cihan is a Turkish name derived from the Persian-Arabic naming tradition and is associated with the 'world' or 'universe'. Used for people of more than one gender, it offers a distinctive international choice with a broad, expansive meaning.",
+    "featured": false
+  },
+  {
+    "id": "cahaya",
+    "slug": "cahaya",
+    "name": "Cahaya",
+    "meaning": "Light",
+    "pronunciation": "cha-HAH-yah",
+    "origin": "Indonesian and Malay",
+    "collections": [
+      "Global",
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "Light"
+    ],
+    "tags": [
+      "Indonesian",
+      "Malay",
+      "Nature",
+      "Rare"
+    ],
+    "similar": [
+      "Chandra",
+      "Celyn",
+      "Cihan"
+    ],
+    "about": "Cahaya is an Indonesian and Malay name meaning 'light'. Its bright meaning gives it an uplifting quality, while its Southeast Asian linguistic roots make it a distinctive global choice. Used for people of more than one gender, Cahaya is especially appealing for those drawn to names associated with illumination and hope.",
+    "featured": false
+  },
+  {
+    "id": "chan",
+    "slug": "chan",
+    "name": "Chan",
+    "meaning": "Moon",
+    "pronunciation": "CHAN",
+    "origin": "Khmer",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Moon",
+      "Sky"
+    ],
+    "tags": [
+      "Khmer",
+      "Southeast Asian",
+      "Nature",
+      "Short"
+    ],
+    "similar": [
+      "Chandra",
+      "Cihan",
+      "Celyn"
+    ],
+    "about": "Chan is a Khmer name meaning 'moon'. Short, simple and deeply connected to the night sky, it is an established Cambodian name used for people of more than one gender. Its concise sound and international character make Chan a distinctive gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "cagri",
+    "slug": "cagri",
+    "name": "Çağrı",
+    "meaning": "Call; invitation",
+    "pronunciation": "CHAH-ruh",
+    "origin": "Turkish",
+    "collections": [
+      "Global",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Communication"
+    ],
+    "tags": [
+      "Turkish",
+      "Global",
+      "Established",
+      "Rare"
+    ],
+    "similar": [
+      "Cihan",
+      "Ceri",
+      "Cruz"
+    ],
+    "about": "Çağrı is a Turkish name associated with a 'call' or 'invitation'. It is an established Turkish given name used for people of more than one gender, with a long historical presence in Turkish naming. Distinctive and culturally rooted, Çağrı adds a strong Turkish option to the global collection of gender-neutral names.",
+    "featured": false
   }
 ]
