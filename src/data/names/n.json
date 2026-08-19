@@ -277,5 +277,360 @@
     ],
     "about": "Nuri is a beautifully international name with independent origins in several cultures, including Arabic, Korean and Hebrew. Depending on its cultural context, it has meanings connected with light, the world and personal identity. Short, elegant and globally recognised, Nuri is a versatile gender-neutral name that celebrates cultural diversity and optimism.",
     "featured": true
+  },
+  {
+    "id": "noel",
+    "slug": "noel",
+    "name": "Noel",
+    "meaning": "Christmas",
+    "pronunciation": "NOH-el",
+    "origin": "French; English",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Christmas",
+      "French Heritage",
+      "Classic Names"
+    ],
+    "tags": [
+      "French",
+      "English",
+      "Unisex",
+      "Classic",
+      "Christmas"
+    ],
+    "similar": [
+      "Noam",
+      "Noa",
+      "Nika"
+    ],
+    "about": "Noel comes from the French word Noël, meaning Christmas, and developed as a given name associated with the Christmas season. It has a long history in English and French naming traditions and is recognised as both masculine and feminine in modern usage. The name combines a traditional European heritage with a concise, familiar sound, making Noel a versatile gender-neutral choice. Its seasonal meaning also gives it a distinctive cultural association.",
+    "featured": true
+  },
+  {
+    "id": "nikita",
+    "slug": "nikita",
+    "name": "Nikita",
+    "meaning": "Victory of the people",
+    "pronunciation": "nih-KEE-tə",
+    "origin": "Greek; Russian",
+    "collections": [
+      "International",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "International",
+      "Greek Heritage",
+      "Russian Heritage"
+    ],
+    "tags": [
+      "Russian",
+      "Greek",
+      "Unisex",
+      "International",
+      "Classic"
+    ],
+    "similar": [
+      "Nika",
+      "Noa",
+      "Nikita"
+    ],
+    "about": "Nikita derives ultimately from the Greek name Niketas, connected with the word nike, meaning victory. In Russian and related Slavic traditions, Nikita is an established masculine given name, while the same spelling has also developed feminine use in other naming traditions. This cross-cultural history makes Nikita a gender-flexible name when considered internationally. Its strong historical roots and distinctive pronunciation give it an adaptable modern character.",
+    "featured": true
+  },
+  {
+    "id": "noa",
+    "slug": "noa",
+    "name": "Noa",
+    "meaning": "Movement; motion",
+    "pronunciation": "NOH-ah",
+    "origin": "Hebrew; Croatian; Hawaiian",
+    "collections": [
+      "International",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Hebrew Heritage",
+      "International",
+      "Nature"
+    ],
+    "tags": [
+      "Hebrew",
+      "Croatian",
+      "Hawaiian",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Noel",
+      "Noam",
+      "Noor"
+    ],
+    "about": "Noa has several independent cultural histories, making it a genuinely international gender-neutral name. In Hebrew, Noa is a biblical feminine name associated with movement, while separate Croatian, Hawaiian and other traditions have masculine or gender-flexible uses of the same spelling. Because these are distinct naming traditions rather than one name changing gender over time, Noa is particularly well suited to a database of internationally gender-neutral names.",
+    "featured": true
+  },
+  {
+    "id": "neve",
+    "slug": "neve",
+    "name": "Neve",
+    "meaning": "Bright; snow; holy",
+    "pronunciation": "NEEV / NEV",
+    "origin": "Irish; Hebrew; Italian",
+    "collections": [
+      "International",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Irish Heritage",
+      "Hebrew Heritage",
+      "Nature"
+    ],
+    "tags": [
+      "Irish",
+      "Hebrew",
+      "Italian",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Niamh",
+      "Noa",
+      "Niv"
+    ],
+    "about": "Neve has several cultural origins and meanings. It is used as an English rendering of the Irish name Niamh, while separate Hebrew naming traditions include Neve as a masculine and feminine name. Italian Neve is also associated with the word for snow. These independent traditions give the spelling a genuinely cross-cultural gender-neutral character. Its associations with brightness, nature and snow provide several appealing interpretations.",
+    "featured": true
+  },
+  {
+    "id": "noor",
+    "slug": "noor",
+    "name": "Noor",
+    "meaning": "Light",
+    "pronunciation": "NOOR",
+    "origin": "Arabic; Urdu; Persian",
+    "collections": [
+      "International",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Arabic Heritage",
+      "Light",
+      "Spiritual",
+      "International"
+    ],
+    "tags": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Unisex",
+      "Light",
+      "International"
+    ],
+    "similar": [
+      "Nuri",
+      "Noa",
+      "Niv"
+    ],
+    "about": "Noor comes from the Arabic word nur, meaning light, and is used widely across Arabic, Urdu, Persian and related naming traditions. Established naming references classify Noor as both masculine and feminine across several cultures. The concept of light gives the name a positive symbolic association with brightness, guidance and clarity. Its international history and simple pronunciation make Noor a particularly strong gender-neutral name.",
+    "featured": true
+  },
+  {
+    "id": "noam",
+    "slug": "noam",
+    "name": "Noam",
+    "meaning": "Pleasantness",
+    "pronunciation": "NOH-am",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "International"
+    ],
+    "themes": [
+      "Hebrew Heritage",
+      "Biblical",
+      "International"
+    ],
+    "tags": [
+      "Hebrew",
+      "Unisex",
+      "Biblical",
+      "International",
+      "Classic"
+    ],
+    "similar": [
+      "Noa",
+      "Noor",
+      "Noel"
+    ],
+    "about": "Noam is a Hebrew name meaning pleasantness, agreeableness or charm. It is an established masculine and feminine name in Hebrew and has also gained recognition internationally as a gender-neutral choice. Its biblical and Hebrew linguistic heritage gives it considerable historical depth, while its short form and gentle sound make it feel contemporary. Noam therefore combines traditional roots with a clear gender-neutral classification.",
+    "featured": true
+  },
+  {
+    "id": "nagi",
+    "slug": "nagi",
+    "name": "Nagi",
+    "meaning": "Calm",
+    "pronunciation": "NAH-gee",
+    "origin": "Japanese",
+    "collections": [
+      "International",
+      "Modern",
+      "Nature"
+    ],
+    "themes": [
+      "Japanese Heritage",
+      "Nature",
+      "Calm"
+    ],
+    "tags": [
+      "Japanese",
+      "Unisex",
+      "Nature",
+      "International",
+      "Calm"
+    ],
+    "similar": [
+      "Nori",
+      "Niv",
+      "Noa"
+    ],
+    "about": "Nagi is a Japanese given name associated with 凪, a word describing a calm or still condition of the sea and wind. Established Japanese naming references recognise Nagi as both masculine and feminine. Its connection with still water and peaceful weather gives it a strong nature-based meaning and a tranquil character. The name's concise form and Japanese origin make it a distinctive international gender-neutral choice.",
+    "featured": true
+  },
+  {
+    "id": "naseem",
+    "slug": "naseem",
+    "name": "Naseem",
+    "meaning": "Breeze",
+    "pronunciation": "na-SEEM",
+    "origin": "Arabic; Urdu",
+    "collections": [
+      "International",
+      "Traditional Unisex",
+      "Nature"
+    ],
+    "themes": [
+      "Arabic Heritage",
+      "Nature",
+      "Air",
+      "International"
+    ],
+    "tags": [
+      "Arabic",
+      "Urdu",
+      "Unisex",
+      "Nature",
+      "International"
+    ],
+    "similar": [
+      "Noor",
+      "Niv",
+      "Nagi"
+    ],
+    "about": "Naseem is an Arabic and Urdu name meaning breeze or gentle wind. Established naming references recognise it as both masculine and feminine, making it a strong example of a culturally established gender-neutral name. Its meaning connects it with air, movement and nature, while its Arabic linguistic heritage gives it a long international history. Naseem is also found in several transliteration forms, including Nasim.",
+    "featured": true
+  },
+  {
+    "id": "neta",
+    "slug": "neta",
+    "name": "Neta",
+    "meaning": "Plant; shrub",
+    "pronunciation": "NEH-tah",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Nature"
+    ],
+    "themes": [
+      "Hebrew Heritage",
+      "Nature",
+      "Plants"
+    ],
+    "tags": [
+      "Hebrew",
+      "Unisex",
+      "Nature",
+      "Plants",
+      "International"
+    ],
+    "similar": [
+      "Niv",
+      "Nagi",
+      "Noa"
+    ],
+    "about": "Neta is a Hebrew name meaning plant or shrub. It is explicitly recognised as both masculine and feminine in established naming references, giving it a clear gender-neutral foundation. Its botanical meaning connects it with growth, nature and renewal, while its concise sound makes it easy to use internationally. Neta demonstrates how a nature-based Hebrew name can function naturally across genders.",
+    "featured": true
+  },
+  {
+    "id": "niv",
+    "slug": "niv",
+    "name": "Niv",
+    "meaning": "Speech; expression; also associated with fang or tusk",
+    "pronunciation": "NEEV",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "International"
+    ],
+    "themes": [
+      "Hebrew Heritage",
+      "Expression",
+      "Nature"
+    ],
+    "tags": [
+      "Hebrew",
+      "Unisex",
+      "International",
+      "Expression",
+      "Nature"
+    ],
+    "similar": [
+      "Neta",
+      "Noam",
+      "Nagi"
+    ],
+    "about": "Niv is a Hebrew name recognised as both masculine and feminine. Its meanings are associated with speech or expression, while another Hebrew interpretation connects the word with a fang or tusk. The name is short, distinctive and established within Hebrew naming tradition. Its explicit masculine and feminine classification makes it a strong gender-neutral entry, while its multiple meanings give it an unusual combination of expressive and natural imagery.",
+    "featured": true
+  },
+  {
+    "id": "nika",
+    "slug": "nika",
+    "name": "Nika",
+    "meaning": "Victory",
+    "pronunciation": "NEE-kah",
+    "origin": "Russian; Slavic; Greek",
+    "collections": [
+      "International",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Russian Heritage",
+      "Greek Heritage",
+      "Victory",
+      "International"
+    ],
+    "tags": [
+      "Russian",
+      "Slavic",
+      "Greek",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Nikita",
+      "Noa",
+      "Niv"
+    ],
+    "about": "Nika has several cultural histories and is explicitly recognised as masculine and feminine in Russian naming tradition. It can function as a short form of feminine names such as Veronika as well as masculine Nikita, while ultimately connecting with Greek nike, meaning victory. Its cross-cultural development gives the name a genuinely gender-neutral character. Nika is short, internationally pronounceable and carries a positive association with victory.",
+    "featured": true
   }
 ]
