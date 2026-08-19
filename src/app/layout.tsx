@@ -48,6 +48,10 @@ export const metadata: Metadata = {
 
   publisher: "NonbiNames",
 
+  other: {
+    "google-adsense-account": "ca-pub-7960591739719293",
+  },
+
   robots: {
     index: true,
     follow: true,
