@@ -279,5 +279,323 @@
     ],
     "about": "Morrow comes from an old English word meaning 'the following day' or 'tomorrow.' Rich in symbolism, it naturally suggests hope, possibility and looking toward the future. Distinctive, thoughtful and quietly optimistic, Morrow is a modern gender-neutral name that celebrates fresh beginnings and endless potential.",
     "featured": true
+  },
+  {
+    "id": "morgan",
+    "slug": "morgan",
+    "name": "Morgan",
+    "meaning": "Sea-born or sea-circle",
+    "pronunciation": "MOR-gən",
+    "origin": "Welsh",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Welsh Heritage",
+      "Nature",
+      "Water"
+    ],
+    "tags": [
+      "Welsh",
+      "Unisex",
+      "Celtic",
+      "Nature",
+      "Water"
+    ],
+    "similar": [
+      "Murphy",
+      "Merritt",
+      "Mackenzie"
+    ],
+    "about": "Morgan is a Welsh name with a long history in both masculine and feminine use. It is related to the older Welsh forms Morcant and Morgant, whose elements have been interpreted in connection with the sea. Morgan has also developed a strong surname tradition and became widely established as a given name in English-speaking countries. Its recognised use across genders, combined with its Welsh heritage and association with the sea, makes Morgan a classic and versatile gender-neutral choice.",
+    "featured": true
+  },
+  {
+    "id": "micah",
+    "slug": "micah",
+    "name": "Micah",
+    "meaning": "Who is like God?",
+    "pronunciation": "MY-kə",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Hebrew Heritage",
+      "Spiritual",
+      "Classic Names"
+    ],
+    "tags": [
+      "Hebrew",
+      "Biblical",
+      "Unisex",
+      "Classic",
+      "Spiritual"
+    ],
+    "similar": [
+      "Misha",
+      "Mika",
+      "Micah"
+    ],
+    "about": "Micah comes from the Hebrew name Mikhayahu, traditionally interpreted as 'Who is like God?' It is the name of a biblical prophet and belongs to a long-established Hebrew naming tradition. Although historically masculine in its biblical context, Micah is also recognised in modern naming references as a gender-neutral given name. Its familiar pronunciation, concise form and strong historical roots allow it to bridge traditional and contemporary naming styles.",
+    "featured": true
+  },
+  {
+    "id": "murphy",
+    "slug": "murphy",
+    "name": "Murphy",
+    "meaning": "Descendant of Murchadh; sea warrior",
+    "pronunciation": "MUR-fee",
+    "origin": "Irish",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Surname Names"
+    ],
+    "themes": [
+      "Irish Heritage",
+      "Surname Names",
+      "Nature"
+    ],
+    "tags": [
+      "Irish",
+      "Gaelic",
+      "Surname",
+      "Unisex",
+      "Heritage"
+    ],
+    "similar": [
+      "Morgan",
+      "Merritt",
+      "Mackenzie"
+    ],
+    "about": "Murphy comes from the Irish surname Ó Murchadha, meaning 'descendant of Murchadh.' The personal name Murchadh is traditionally associated with elements interpreted as 'sea' and 'warrior.' Murphy developed into one of the best-known Irish surnames and has also become an established given name. Its surname origin gives it a natural connection with gender-neutral naming, and it is recognised in modern naming references as both masculine and feminine.",
+    "featured": true
+  },
+  {
+    "id": "misha",
+    "slug": "misha",
+    "name": "Misha",
+    "meaning": "Who is like God?",
+    "pronunciation": "MEE-shə",
+    "origin": "Russian; Hebrew",
+    "collections": [
+      "International",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Russian Heritage",
+      "Hebrew Heritage",
+      "International"
+    ],
+    "tags": [
+      "Russian",
+      "Hebrew",
+      "Unisex",
+      "International",
+      "Diminutive"
+    ],
+    "similar": [
+      "Micah",
+      "Mika",
+      "Misha"
+    ],
+    "about": "Misha is widely known as a Russian diminutive of Mikhail, the Russian form of Michael, ultimately from the Hebrew name meaning 'Who is like God?' In Russian tradition Misha is primarily a familiar masculine form, while in wider modern naming contexts it is also recognised as gender-neutral. The name's international use and soft sound make it adaptable across cultures. Its entry therefore reflects both its traditional Russian background and its broader contemporary gender-neutral potential.",
+    "featured": true
+  },
+  {
+    "id": "mika",
+    "slug": "mika",
+    "name": "Mika",
+    "meaning": "Multiple cultural meanings and origins",
+    "pronunciation": "MEE-kə",
+    "origin": "Japanese; Finnish; Hebrew",
+    "collections": [
+      "International",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "International",
+      "Nature",
+      "Hebrew Heritage"
+    ],
+    "tags": [
+      "Japanese",
+      "Finnish",
+      "Hebrew",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Misha",
+      "Micah",
+      "Mika"
+    ],
+    "about": "Mika has several independent cultural histories, making it particularly interesting as an international gender-neutral name. In Finnish it is traditionally a masculine form related to Michael, while in Japanese Mika is commonly feminine and can be written with different kanji combinations carrying different meanings. Modern international naming references also recognise Mika as a gender-neutral name. Because its associations vary by language and culture, the name is best understood as culturally flexible rather than having one universal meaning.",
+    "featured": true
+  },
+  {
+    "id": "merritt",
+    "slug": "merritt",
+    "name": "Merritt",
+    "meaning": "Boundary gate",
+    "pronunciation": "MER-it",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Surname Names"
+    ],
+    "themes": [
+      "Places",
+      "Surname Names",
+      "English Heritage"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Unisex",
+      "Place Name",
+      "Heritage"
+    ],
+    "similar": [
+      "Merrick",
+      "Morgan",
+      "Merit"
+    ],
+    "about": "Merritt developed from an English surname and place-derived name, traditionally associated with a boundary or gate. Its surname history places it within the long English tradition of transforming family names and geographical names into given names. Merritt has an established gender-neutral classification, allowing it to function naturally across genders. Its formal sound and surname character give it a distinctive modern quality while retaining a connection to English naming history.",
+    "featured": true
+  },
+  {
+    "id": "montana",
+    "slug": "montana",
+    "name": "Montana",
+    "meaning": "Mountainous",
+    "pronunciation": "mon-TAN-ə",
+    "origin": "Latin; English",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Places"
+    ],
+    "themes": [
+      "Nature",
+      "Places",
+      "Mountains"
+    ],
+    "tags": [
+      "Latin",
+      "English",
+      "Place Name",
+      "Unisex",
+      "Nature"
+    ],
+    "similar": [
+      "Monty",
+      "Morgan",
+      "Montague"
+    ],
+    "about": "Montana comes from the name of the U.S. state of Montana, whose name ultimately derives from the Latin adjective montanus, meaning 'mountainous.' The geographical name reflects the state's extensive mountain landscapes and gives the given name a strong association with nature and place. Montana is recognised as both masculine and feminine in modern naming references, making it a legitimate gender-neutral choice. Its spacious, landscape-inspired character gives it a distinctive quality.",
+    "featured": true
+  },
+  {
+    "id": "merrick",
+    "slug": "merrick",
+    "name": "Merrick",
+    "meaning": "Ruler of the sea; powerful ruler",
+    "pronunciation": "MER-ik",
+    "origin": "Welsh; English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Surname Names"
+    ],
+    "themes": [
+      "Welsh Heritage",
+      "Nature",
+      "Surname Names"
+    ],
+    "tags": [
+      "Welsh",
+      "English",
+      "Unisex",
+      "Surname",
+      "Celtic"
+    ],
+    "similar": [
+      "Merritt",
+      "Morgan",
+      "Merryn"
+    ],
+    "about": "Merrick has Welsh and English naming connections and is associated with surname and place-name traditions. Welsh interpretations connect the name with elements related to the sea and rulership, while its English surname history gives it an additional family-name pathway. Modern naming references recognise Merrick as gender-neutral. Its strong consonants and surname style give it a contemporary character while retaining links to Welsh heritage and traditional naming.",
+    "featured": true
+  },
+  {
+    "id": "marley",
+    "slug": "marley",
+    "name": "Marley",
+    "meaning": "Pleasant wood or clearing; place-name origin",
+    "pronunciation": "MAR-lee",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Surname Names"
+    ],
+    "themes": [
+      "Nature",
+      "Places",
+      "Surname Names"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Nature",
+      "Unisex",
+      "Place Name"
+    ],
+    "similar": [
+      "Merritt",
+      "Marlowe",
+      "Morgan"
+    ],
+    "about": "Marley developed from English place names and surnames and has several possible Old English interpretations depending on the particular place-name origin. These include elements associated with a pleasant or cleared woodland setting. Marley became established as a given name through surname and place-name usage and is recognised as both masculine and feminine in modern English naming. Its soft sound and nature-related associations give it an approachable, contemporary gender-neutral character.",
+    "featured": true
+  },
+  {
+    "id": "mackenzie",
+    "slug": "mackenzie",
+    "name": "Mackenzie",
+    "meaning": "Son of Coinneach; descendant of the fair one",
+    "pronunciation": "mə-KEN-zee",
+    "origin": "Scottish Gaelic",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Surname Names"
+    ],
+    "themes": [
+      "Scottish Heritage",
+      "Surname Names",
+      "Celtic"
+    ],
+    "tags": [
+      "Scottish",
+      "Gaelic",
+      "Surname",
+      "Unisex",
+      "Celtic"
+    ],
+    "similar": [
+      "Merrick",
+      "Murphy",
+      "Morgan"
+    ],
+    "about": "Mackenzie comes from the Scottish Gaelic surname MacCoinnich, meaning 'son of Coinneach.' The personal name Coinneach is traditionally connected with the meaning 'fair' or 'handsome.' Mackenzie developed from Scottish surname tradition into a widely used given name, particularly in English-speaking countries. Modern naming references recognise it as both masculine and feminine, although its gender distribution differs between countries. Its Scottish heritage and surname character make it a well-established gender-neutral choice.",
+    "featured": true
   }
 ]
