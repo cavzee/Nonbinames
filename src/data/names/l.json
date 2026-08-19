@@ -276,5 +276,319 @@
     ],
     "about": "Lyric comes from the English word describing the words of a song or a form of expressive poetry. The name celebrates creativity, music and personal expression, making it especially appealing to those drawn to the arts. Modern, imaginative and uplifting, Lyric is a distinctive gender-neutral choice inspired by storytelling through music.",
     "featured": true
+  },
+  {
+    "id": "lane",
+    "slug": "lane",
+    "name": "Lane",
+    "meaning": "Path or roadway",
+    "pronunciation": "LAYN",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Places",
+      "Surname Names"
+    ],
+    "tags": [
+      "English",
+      "Unisex",
+      "Surname",
+      "Nature",
+      "Place Name"
+    ],
+    "similar": [
+      "Lake",
+      "Linden",
+      "Leith"
+    ],
+    "about": "Lane comes from the English word for a narrow road, path or passageway and also developed as an English surname for someone who lived near such a feature. Its simple landscape meaning gives it a natural, understated character, while its surname history connects it with the long tradition of using family names as given names. With a non-gendered word meaning and recognised gender-neutral use, Lane works well as a concise and versatile choice.",
+    "featured": true
+  },
+  {
+    "id": "lennon",
+    "slug": "lennon",
+    "name": "Lennon",
+    "meaning": "Descendant of Leannán; lover",
+    "pronunciation": "LEN-ən",
+    "origin": "Irish",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Irish Heritage",
+      "Surname Names",
+      "Music"
+    ],
+    "tags": [
+      "Irish",
+      "Gaelic",
+      "Surname",
+      "Unisex",
+      "Heritage"
+    ],
+    "similar": [
+      "Lennox",
+      "Logan",
+      "Leighton"
+    ],
+    "about": "Lennon developed from the Irish surname Ó Leannáin, connected with the Gaelic personal name Leannán and traditionally interpreted in relation to a lover or sweetheart. Its surname origins give it a strong connection with Irish heritage, while its modern sound makes it contemporary and approachable. Lennon also has a notable association with music and twentieth-century cultural history. Its recognised use across genders makes it a distinctive gender-neutral given name.",
+    "featured": true
+  },
+  {
+    "id": "logan",
+    "slug": "logan",
+    "name": "Logan",
+    "meaning": "Little hollow",
+    "pronunciation": "LOH-gən",
+    "origin": "Scottish Gaelic; English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Places",
+      "Surname Names"
+    ],
+    "tags": [
+      "Scottish",
+      "Gaelic",
+      "Surname",
+      "Nature",
+      "Unisex"
+    ],
+    "similar": [
+      "Lennon",
+      "Lennox",
+      "Leighton"
+    ],
+    "about": "Logan comes from a Scottish surname and place name, ultimately derived from the Gaelic word lagan, referring to a little hollow or low-lying place. Its geographical origin gives it a quiet connection with the Scottish landscape, while its surname history reflects the widespread development of family names into given names. Familiar without being overly elaborate, Logan has an established gender-neutral character and remains a versatile modern choice.",
+    "featured": true
+  },
+  {
+    "id": "london",
+    "slug": "london",
+    "name": "London",
+    "meaning": "Name of the English capital; ancient origin uncertain",
+    "pronunciation": "LUN-dən",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Places",
+      "Travel",
+      "Cities"
+    ],
+    "tags": [
+      "English",
+      "Place Name",
+      "City",
+      "Unisex",
+      "Modern"
+    ],
+    "similar": [
+      "Logan",
+      "Linden",
+      "Leighton"
+    ],
+    "about": "London takes its name directly from the capital city of England, one of the world's most historically significant and internationally recognised cities. The ancient origin and exact meaning of the place name remain uncertain, with several historical explanations having been proposed. As a place-inspired given name, London carries associations with culture, travel, history and urban life rather than an inherently gendered meaning. Its recognised use across genders makes it a memorable modern choice.",
+    "featured": true
+  },
+  {
+    "id": "luca",
+    "slug": "luca",
+    "name": "Luca",
+    "meaning": "From Lucania; associated with light in later interpretation",
+    "pronunciation": "LOO-kah",
+    "origin": "Italian; Hungarian; Romanian",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "European Heritage",
+      "Places",
+      "Light"
+    ],
+    "tags": [
+      "Italian",
+      "Hungarian",
+      "Romanian",
+      "European",
+      "Unisex"
+    ],
+    "similar": [
+      "Lior",
+      "Lux",
+      "Loren"
+    ],
+    "about": "Luca has distinct cultural forms. In Italian and Romanian it is traditionally masculine and belongs to the Lucas name family, while Luca is also an established feminine given name in Hungarian, where it is related to Lucia. The wider name family is associated with Lucania in southern Italy and is sometimes interpreted through a connection with light. Because the same spelling belongs to different gendered naming traditions, Luca can function as a gender-neutral choice when its cultural context is made clear.",
+    "featured": true
+  },
+  {
+    "id": "leighton",
+    "slug": "leighton",
+    "name": "Leighton",
+    "meaning": "Leek settlement or settlement by a leek field",
+    "pronunciation": "LAY-tən",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Places",
+      "Surname Names",
+      "Nature"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Place Name",
+      "Unisex",
+      "Nature"
+    ],
+    "similar": [
+      "Layton",
+      "Logan",
+      "Lennox"
+    ],
+    "about": "Leighton is an English surname and place-derived given name, found in several English place names and traditionally associated with settlements or farms connected with leeks. Its geographical and surname origins give it a strong connection with the English landscape and naming history. The name has an established gender-neutral classification, allowing it to work for people of more than one gender. Polished and contemporary in sound, Leighton combines traditional roots with a modern surname style.",
+    "featured": true
+  },
+  {
+    "id": "leslie",
+    "slug": "leslie",
+    "name": "Leslie",
+    "meaning": "Possibly garden of holly",
+    "pronunciation": "LEZ-lee",
+    "origin": "Scottish Gaelic; English",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Scottish Heritage",
+      "Places",
+      "Surname Names",
+      "Nature"
+    ],
+    "tags": [
+      "Scottish",
+      "Gaelic",
+      "Surname",
+      "Unisex",
+      "Nature"
+    ],
+    "similar": [
+      "Loren",
+      "Leighton",
+      "Lesley"
+    ],
+    "about": "Leslie developed from a Scottish surname associated with the place name Leslie in Aberdeenshire. The place name is often connected with Gaelic elements interpreted as referring to a garden or enclosure of holly, although the exact etymology is not completely certain. Leslie has a long history as a given name and an established gender-neutral classification. Its Scottish heritage, familiar pronunciation and nature-related traditional interpretation give it a distinctive combination of history and versatility.",
+    "featured": true
+  },
+  {
+    "id": "loren",
+    "slug": "loren",
+    "name": "Loren",
+    "meaning": "Short form of Laurence; variant of Lauren",
+    "pronunciation": "LOR-en",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "European Heritage",
+      "Classic Names",
+      "Short Forms"
+    ],
+    "tags": [
+      "English",
+      "European",
+      "Unisex",
+      "Variant",
+      "Classic"
+    ],
+    "similar": [
+      "Lauren",
+      "Lorenzo",
+      "Lior"
+    ],
+    "about": "Loren is an English given name with more than one established pathway. It can function as a short form of Laurence, ultimately related to the ancient Roman name Laurentius, and it is also used as a variant of Lauren. Because these naming traditions connect Loren with both traditionally masculine and traditionally feminine forms, the name has an established gender-neutral character. Its compact sound and familiar structure make it a flexible choice with a classic yet modern feel.",
+    "featured": true
+  },
+  {
+    "id": "leith",
+    "slug": "leith",
+    "name": "Leith",
+    "meaning": "Wet or damp",
+    "pronunciation": "LEETH",
+    "origin": "Scottish Gaelic; English",
+    "collections": [
+      "Traditional Unisex",
+      "Rare",
+      "Modern"
+    ],
+    "themes": [
+      "Places",
+      "Scottish Heritage",
+      "Nature"
+    ],
+    "tags": [
+      "Scottish",
+      "Gaelic",
+      "Place Name",
+      "Unisex",
+      "Rare"
+    ],
+    "similar": [
+      "Lior",
+      "Lane",
+      "Linden"
+    ],
+    "about": "Leith comes from the name of the historic Scottish district and port of Leith, now part of Edinburgh. The place name is ultimately connected with the Gaelic word lìte, traditionally associated with being wet or damp, reflecting the area's relationship with water. Leith has an established gender-neutral classification and its place-name origin gives it a strong geographical identity. Short, uncommon and distinctly Scottish, it offers a restrained choice with natural and historical associations.",
+    "featured": false
+  },
+  {
+    "id": "liron",
+    "slug": "liron",
+    "name": "Liron",
+    "meaning": "My song; my joy",
+    "pronunciation": "lee-RON",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Music",
+      "Joy",
+      "Hebrew Heritage"
+    ],
+    "tags": [
+      "Hebrew",
+      "Israeli",
+      "Unisex",
+      "Music",
+      "Joy"
+    ],
+    "similar": [
+      "Lior",
+      "Loren",
+      "Lennon"
+    ],
+    "about": "Liron is a Hebrew name formed from li, meaning 'my', and ron, meaning 'song' or 'joy', giving it the poetic interpretation 'my song' or 'my joy'. The name has an established gender-neutral classification in Hebrew naming traditions. Its positive meaning connects it with music, happiness and personal expression, while its compact form makes it easy to recognise and pronounce internationally. Liron offers a distinctive gender-neutral choice with strong Hebrew linguistic and cultural roots.",
+    "featured": true
   }
 ]
