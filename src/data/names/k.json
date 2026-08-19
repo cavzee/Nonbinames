@@ -270,5 +270,314 @@
     ],
     "about": "Kyro is a contemporary invented name valued for its bold sound and futuristic style rather than historical origins. Its clean structure and memorable pronunciation have made it increasingly popular in creative communities and among parents seeking something unique. Distinctive, modern and imaginative, Kyro is a gender-neutral choice that embraces originality.",
     "featured": true
+  },
+  {
+    "id": "kendall",
+    "slug": "kendall",
+    "name": "Kendall",
+    "meaning": "Valley on the River Kent",
+    "pronunciation": "KEN-dəl",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Places",
+      "Surname Names"
+    ],
+    "tags": [
+      "English",
+      "Unisex",
+      "Surname",
+      "Place Name",
+      "Nature"
+    ],
+    "similar": [
+      "Kennedy",
+      "Kelsey",
+      "Kerry"
+    ],
+    "about": "Kendall developed from an English surname and place name associated with Kendal in Cumbria, traditionally interpreted as referring to a valley on the River Kent. Its landscape-based origin gives it a connection with place and nature, while its surname form gives the name a modern, adaptable character. Kendall has a polished sound that works comfortably as a given name without an inherently gendered meaning. Familiar yet distinctive, Kendall is a versatile gender-neutral choice with English and geographical roots.",
+    "featured": true
+  },
+  {
+    "id": "kennedy",
+    "slug": "kennedy",
+    "name": "Kennedy",
+    "meaning": "Descendant of Cennétig",
+    "pronunciation": "KEN-ə-dee",
+    "origin": "Irish",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Heritage",
+      "Surname Names",
+      "Places"
+    ],
+    "tags": [
+      "Irish",
+      "Gaelic",
+      "Surname",
+      "Unisex",
+      "Heritage"
+    ],
+    "similar": [
+      "Kendall",
+      "Kelsey",
+      "Kirby"
+    ],
+    "about": "Kennedy is an Irish surname-derived given name from Ó Cinnéidigh, meaning 'descendant of Cennétig.' The surname has deep Gaelic roots and is particularly associated with Irish history and the Kennedy family of Ormond. Its transition from surname to given name gives Kennedy a contemporary style while preserving a strong connection to Irish heritage. With no inherently gendered meaning and an established flexible character, Kennedy is a confident gender-neutral choice.",
+    "featured": true
+  },
+  {
+    "id": "kelsey",
+    "slug": "kelsey",
+    "name": "Kelsey",
+    "meaning": "Possibly Cenel's island",
+    "pronunciation": "KEL-see",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Places",
+      "Heritage",
+      "Surname Names"
+    ],
+    "tags": [
+      "English",
+      "Unisex",
+      "Surname",
+      "Place Name",
+      "Classic"
+    ],
+    "similar": [
+      "Kendall",
+      "Kerry",
+      "Kelsey"
+    ],
+    "about": "Kelsey developed from English surnames and place names, particularly places in Lincolnshire. Its exact early meaning is uncertain, although it is often interpreted through Old English elements as something like 'Cenel's island.' The name has a light, approachable sound and a long connection with English surname traditions. Because its place and surname origins carry no inherent gender, Kelsey can function naturally as a gender-neutral given name.",
+    "featured": false
+  },
+  {
+    "id": "kris",
+    "slug": "kris",
+    "name": "Kris",
+    "meaning": "Short form of names such as Kristian, Kristoffer and Kristina",
+    "pronunciation": "KRISS",
+    "origin": "European",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Names",
+      "Christianity",
+      "Short Names"
+    ],
+    "tags": [
+      "Short",
+      "Nickname",
+      "European",
+      "Unisex",
+      "Classic"
+    ],
+    "similar": [
+      "Chris",
+      "Kit",
+      "Joss"
+    ],
+    "about": "Kris is a short form used for a range of names, including Kristian, Kristoffer, Kristina and related forms ultimately connected with the Greek name Christos, 'anointed.' Because the same short form can connect with traditionally masculine and feminine names, Kris has a particularly clear foundation as a gender-neutral choice. Compact, familiar and internationally recognisable, Kris retains the warmth of a nickname while working easily as a standalone given name.",
+    "featured": true
+  },
+  {
+    "id": "kerry",
+    "slug": "kerry",
+    "name": "Kerry",
+    "meaning": "Ciar's people",
+    "pronunciation": "KERR-ee",
+    "origin": "Irish",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Places",
+      "Irish Heritage",
+      "Nature"
+    ],
+    "tags": [
+      "Irish",
+      "Gaelic",
+      "Place Name",
+      "Unisex",
+      "Heritage"
+    ],
+    "similar": [
+      "Kieran",
+      "Kelsey",
+      "Kendall"
+    ],
+    "about": "Kerry comes from the Irish county name Ciarraí, traditionally interpreted as 'Ciar's people,' referring to an early population associated with the region. The county's name gives Kerry a strong geographical connection to Ireland and its landscape and heritage. As a place-derived given name, it has no inherent gendered meaning, and its short, friendly sound makes it an accessible gender-neutral choice with clear Irish roots.",
+    "featured": false
+  },
+  {
+    "id": "kirby",
+    "slug": "kirby",
+    "name": "Kirby",
+    "meaning": "Church settlement",
+    "pronunciation": "KER-bee",
+    "origin": "English; Old Norse",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Places",
+      "Heritage",
+      "Surname Names"
+    ],
+    "tags": [
+      "English",
+      "Old Norse",
+      "Surname",
+      "Place Name",
+      "Unisex"
+    ],
+    "similar": [
+      "Kelsey",
+      "Kendall",
+      "Kennedy"
+    ],
+    "about": "Kirby developed from English place names and surnames derived from Old Norse elements meaning 'church' and 'settlement' or 'village.' It therefore carries a long connection with English landscape and settlement history. Its surname-derived form has a friendly, energetic sound and does not contain an inherently gendered meaning. Kirby works well as a gender-neutral given name while retaining distinctive English and Scandinavian linguistic heritage.",
+    "featured": false
+  },
+  {
+    "id": "kiran",
+    "slug": "kiran",
+    "name": "Kiran",
+    "meaning": "Ray of light; sunbeam",
+    "pronunciation": "kee-RUN",
+    "origin": "Sanskrit",
+    "collections": [
+      "Traditional Unisex",
+      "Nature",
+      "Modern"
+    ],
+    "themes": [
+      "Light",
+      "Nature",
+      "South Asian Heritage"
+    ],
+    "tags": [
+      "Sanskrit",
+      "South Asian",
+      "Unisex",
+      "Nature",
+      "Light"
+    ],
+    "similar": [
+      "Kiran",
+      "Kiran",
+      "Kai"
+    ],
+    "about": "Kiran comes from the Sanskrit word kiraṇa, referring to a ray of light or sunbeam and also carrying other meanings such as thread or filament. The imagery of light gives the name associations with brightness, warmth and illumination. Kiran is used across several South Asian naming traditions and is capable of functioning for any gender. Short, melodic and meaningful, it combines a simple international sound with rich Sanskrit linguistic heritage.",
+    "featured": true
+  },
+  {
+    "id": "kyrie",
+    "slug": "kyrie",
+    "name": "Kyrie",
+    "meaning": "Lord; associated with the Greek phrase Kyrie eleison",
+    "pronunciation": "KY-ree",
+    "origin": "Greek; Modern",
+    "collections": [
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "Religion",
+      "Greek",
+      "Music"
+    ],
+    "tags": [
+      "Greek",
+      "Religious",
+      "Modern",
+      "Unisex",
+      "Rare"
+    ],
+    "similar": [
+      "Kiran",
+      "Kris",
+      "Kyrie"
+    ],
+    "about": "Kyrie has more than one modern naming pathway. The word comes from Greek kyrie, the vocative form of kyrios, meaning 'Lord,' and is familiar from the Christian prayer Kyrie eleison, meaning 'Lord, have mercy.' Modern naming references also record a separate modern form with a different cultural development. Because the spelling has independent masculine and feminine naming associations, Kyrie can function as a gender-neutral name. Its religious, musical and Greek connections give it distinctive depth.",
+    "featured": false
+  },
+  {
+    "id": "kacey",
+    "slug": "kacey",
+    "name": "Kacey",
+    "meaning": "Descendant of Cathasach; vigilant or watchful",
+    "pronunciation": "KAY-see",
+    "origin": "Irish; English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Heritage",
+      "Surname Names"
+    ],
+    "tags": [
+      "Irish",
+      "English",
+      "Surname",
+      "Variant",
+      "Unisex"
+    ],
+    "similar": [
+      "Casey",
+      "Kelsey",
+      "Kendall"
+    ],
+    "about": "Kacey is a modern English spelling variant of Casey, which developed from the Irish surname Ó Cathasaigh. The underlying Gaelic name is associated with Cathasach, traditionally connected with the idea of being vigilant or watchful. Kacey combines Irish surname heritage with a contemporary spelling and approachable sound. Because the name has no inherently gendered meaning and its underlying form is flexible, Kacey works naturally as a gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "kayden",
+    "slug": "kayden",
+    "name": "Kayden",
+    "meaning": "Modern variant of Caden; exact original meaning uncertain",
+    "pronunciation": "KAY-dən",
+    "origin": "Modern English",
+    "collections": [
+      "Modern",
+      "Contemporary"
+    ],
+    "themes": [
+      "Modern Names",
+      "Surname Names"
+    ],
+    "tags": [
+      "Modern",
+      "English",
+      "Contemporary",
+      "Variant",
+      "Unisex"
+    ],
+    "similar": [
+      "Kaden",
+      "Jaden",
+      "Kacey"
+    ],
+    "about": "Kayden is a modern English given name and spelling variant of Caden, part of a wider family of contemporary names ending in -den. The ultimate meaning of Caden is uncertain, with several proposed origins and interpretations rather than one securely established etymology. Kayden therefore works best as a modern name whose appeal comes from its sound and contemporary style rather than a definitive ancient meaning. Its flexible structure allows it to function as a gender-neutral choice.",
+    "featured": false
   }
 ]
