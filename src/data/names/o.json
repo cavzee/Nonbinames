@@ -276,5 +276,295 @@
     ],
     "about": "Ozzy began as an affectionate nickname for names such as Oswald and Osborne before becoming an established given name in its own right. Its energetic sound and friendly personality have helped it grow in popularity as a modern standalone choice. Playful, memorable and effortlessly contemporary, Ozzy is a distinctive gender-neutral name with historic roots.",
     "featured": true
+  },
+  {
+    "id": "oakley",
+    "slug": "oakley",
+    "name": "Oakley",
+    "meaning": "Oak clearing",
+    "pronunciation": "OHK-lee",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Nature"
+    ],
+    "themes": [
+      "Nature",
+      "Trees"
+    ],
+    "tags": [
+      "Nature",
+      "Surname",
+      "Modern",
+      "Unisex"
+    ],
+    "similar": [
+      "Arden",
+      "Avery",
+      "Riley"
+    ],
+    "about": "Oakley is an English name derived from place names and surnames referring to an oak clearing or woodland. Its connection to oak trees gives it a strong natural character, while its surname history has helped it develop a contemporary, approachable style. Oakley is used for people of different genders and offers a distinctive nature-inspired choice.",
+    "featured": false
+  },
+  {
+    "id": "odell",
+    "slug": "odell",
+    "name": "Odell",
+    "meaning": "Woad hill",
+    "pronunciation": "oh-DELL",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Nature",
+      "Heritage"
+    ],
+    "tags": [
+      "Surname",
+      "Place Name",
+      "Rare",
+      "Unisex"
+    ],
+    "similar": [
+      "Adair",
+      "Ellis",
+      "Arden"
+    ],
+    "about": "Odell is an English surname and place name associated with Odell in Bedfordshire. Its traditional etymology refers to woad, a plant historically used for producing blue dye, combined with a word meaning hill. With its established surname history and uncommon sound, Odell offers a distinctive gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "ollie",
+    "slug": "ollie",
+    "name": "Ollie",
+    "meaning": "Diminutive of Oliver, Olivia or Olive",
+    "pronunciation": "OL-ee",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Friendly",
+      "Nature"
+    ],
+    "tags": [
+      "Diminutive",
+      "Friendly",
+      "Familiar",
+      "Unisex"
+    ],
+    "similar": [
+      "Owen",
+      "Charlie",
+      "Jamie"
+    ],
+    "about": "Ollie is a familiar English diminutive used for Oliver, Olivia and Olive. Because it can arise from names traditionally associated with different genders, Ollie has developed a naturally flexible identity of its own. Its short, friendly sound makes it an approachable gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "omid",
+    "slug": "omid",
+    "name": "Omid",
+    "meaning": "Hope",
+    "pronunciation": "oh-MEED",
+    "origin": "Persian",
+    "collections": [
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Hope",
+      "Positive"
+    ],
+    "tags": [
+      "Persian",
+      "Hope",
+      "Rare",
+      "Unisex"
+    ],
+    "similar": [
+      "Noor",
+      "Ori",
+      "Amari"
+    ],
+    "about": "Omid is a Persian name meaning 'hope.' The name expresses an optimistic and uplifting idea, giving it a simple but meaningful character. With its established Persian usage and cross-gender associations, Omid offers a distinctive choice for someone looking for a name connected with hope and possibility.",
+    "featured": false
+  },
+  {
+    "id": "ofir",
+    "slug": "ofir",
+    "name": "Ofir",
+    "meaning": "Ophir",
+    "pronunciation": "oh-FEER",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Heritage",
+      "Biblical"
+    ],
+    "tags": [
+      "Hebrew",
+      "Biblical",
+      "Rare",
+      "Unisex"
+    ],
+    "similar": [
+      "Ori",
+      "Ofri",
+      "Oriel"
+    ],
+    "about": "Ofir is a Hebrew form of Ophir, a place mentioned in the Hebrew Bible and traditionally associated with a distant land known for its wealth and precious materials. The name has established use in modern Hebrew and is used across genders, giving this distinctive biblical name a contemporary gender-neutral character.",
+    "featured": false
+  },
+  {
+    "id": "ofri",
+    "slug": "ofri",
+    "name": "Ofri",
+    "meaning": "My fawn",
+    "pronunciation": "OH-free",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Nature",
+      "Gentle"
+    ],
+    "tags": [
+      "Hebrew",
+      "Nature",
+      "Rare",
+      "Unisex"
+    ],
+    "similar": [
+      "Ori",
+      "Ofir",
+      "Oriel"
+    ],
+    "about": "Ofri is a Hebrew name meaning 'my fawn,' giving it a gentle connection with nature and young wildlife. It is used across genders in modern Hebrew and has a soft, distinctive sound. Its combination of cultural heritage and natural imagery makes Ofri an appealing gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "or",
+    "slug": "or",
+    "name": "Or",
+    "meaning": "Light",
+    "pronunciation": "OR",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Light",
+      "Positive"
+    ],
+    "tags": [
+      "Hebrew",
+      "Light",
+      "Short",
+      "Unisex"
+    ],
+    "similar": [
+      "Ori",
+      "Noor",
+      "Oriel"
+    ],
+    "about": "Or is a Hebrew name meaning 'light.' Simple and concise, it carries an uplifting association with brightness, clarity and illumination. Or is used for people of different genders in modern Hebrew and offers an exceptionally short gender-neutral name with a strong and positive meaning.",
+    "featured": false
+  },
+  {
+    "id": "ori",
+    "slug": "ori",
+    "name": "Ori",
+    "meaning": "My light",
+    "pronunciation": "OH-ree",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Light",
+      "Positive"
+    ],
+    "tags": [
+      "Hebrew",
+      "Light",
+      "Short",
+      "Unisex"
+    ],
+    "similar": [
+      "Or",
+      "Oriel",
+      "Omid"
+    ],
+    "about": "Ori is a Hebrew name meaning 'my light.' Its meaning gives the name an uplifting association with brightness, warmth and guidance. Used for people of different genders in modern Hebrew, Ori combines a concise sound with a deeply positive meaning and a distinctive cultural heritage.",
+    "featured": false
+  },
+  {
+    "id": "osher",
+    "slug": "osher",
+    "name": "Osher",
+    "meaning": "Happiness",
+    "pronunciation": "OH-sher",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Happiness",
+      "Positive"
+    ],
+    "tags": [
+      "Hebrew",
+      "Happiness",
+      "Rare",
+      "Unisex"
+    ],
+    "similar": [
+      "Oren",
+      "Ori",
+      "Omid"
+    ],
+    "about": "Osher is a Hebrew name meaning 'happiness.' Its positive meaning gives it a warm and optimistic character, while its distinctive sound makes it less familiar outside Hebrew-speaking communities. Used across genders, Osher offers a meaningful gender-neutral choice connected with joy and wellbeing.",
+    "featured": false
+  },
+  {
+    "id": "oriel",
+    "slug": "oriel",
+    "name": "Oriel",
+    "meaning": "My light is God",
+    "pronunciation": "OR-ee-el",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Light",
+      "Heritage"
+    ],
+    "tags": [
+      "Hebrew",
+      "Spiritual",
+      "Rare",
+      "Unisex"
+    ],
+    "similar": [
+      "Ori",
+      "Or",
+      "Ofir"
+    ],
+    "about": "Oriel has several historical associations, including a Hebrew interpretation connected with the elements meaning 'my light' and 'God.' The name also has a long English history and literary associations. Its documented use across genders and its connection with light give Oriel a distinctive and adaptable character.",
+    "featured": false
   }
 ]
