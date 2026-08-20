@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { AnalyticsPreference } from "@/components/privacy/AnalyticsPreference";
 
 export const metadata: Metadata = {
   title: "Privacy",
@@ -49,11 +48,7 @@ export default function PrivacyPage() {
 
           <p className="text-zinc-400">
             Analytics data is processed by Vercel as our analytics provider.
-            You can disable analytics for this browser using the control
-            below.
           </p>
-
-          <AnalyticsPreference />
         </section>
 
         <section className="mt-12 space-y-4">
@@ -113,12 +108,6 @@ export default function PrivacyPage() {
           </h2>
 
           <p className="text-zinc-400">
-            NonbiNames uses local browser storage to remember your analytics
-            preference. This allows the website to remember whether you have
-            chosen to disable analytics.
-          </p>
-
-          <p className="text-zinc-400">
             Advertising services may also use cookies, local storage or
             similar technologies when advertising is enabled. The use of
             those technologies is subject to applicable consent requirements
@@ -155,12 +144,6 @@ export default function PrivacyPage() {
           <h2 className="text-2xl font-semibold text-white">
             Your choices
           </h2>
-
-          <p className="text-zinc-400">
-            You can disable analytics at any time using the control on this
-            page. You can also clear your browser's local storage to remove
-            the saved analytics preference.
-          </p>
 
           <p className="text-zinc-400">
             Where advertising consent controls are presented, you can use
