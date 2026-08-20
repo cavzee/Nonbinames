@@ -300,5 +300,254 @@
     ],
     "about": "Xiaoping is a Chinese given name that can be formed from several combinations of characters. 小 means 'small,' while 平 means 'level,' 'even' or 'peaceful.' Other character combinations are also possible. Used across genders, Xiaoping carries a gentle sense of simplicity and peace.",
     "featured": true
+  },
+  {
+    "id": "x",
+    "slug": "x",
+    "name": "X",
+    "meaning": "A letter; unknown variable; possibility",
+    "pronunciation": "EKS",
+    "origin": "Modern / International",
+    "collections": [
+      "Modern",
+      "Minimal",
+      "Rare"
+    ],
+    "themes": [
+      "Simplicity",
+      "Possibility",
+      "Individuality"
+    ],
+    "tags": [
+      "Modern",
+      "Minimal",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Exa",
+      "Xen",
+      "Xylo"
+    ],
+    "about": "X is an ultra-minimal modern given name built around the letter X. As a name it can suggest possibility, mystery, individuality or the unknown, while avoiding an inherently masculine or feminine association. Its use as a contemporary personal name gives it a distinctive place among modern gender-neutral names.",
+    "featured": true
+  },
+  {
+    "id": "exa",
+    "slug": "exa",
+    "name": "Exa",
+    "meaning": "Modern coined name; associated with exa-, a scientific prefix",
+    "pronunciation": "EK-sah",
+    "origin": "Modern / English",
+    "collections": [
+      "Modern",
+      "Rare",
+      "Minimal"
+    ],
+    "themes": [
+      "Technology",
+      "Innovation",
+      "Individuality"
+    ],
+    "tags": [
+      "Modern",
+      "English",
+      "Unisex",
+      "Rare"
+    ],
+    "similar": [
+      "X",
+      "Xena",
+      "Xia"
+    ],
+    "about": "Exa is a modern given name with a distinctly contemporary and gender-neutral character. It is associated with the scientific prefix exa-, used for an extremely large numerical quantity, giving the name a subtle connection with technology, scale and innovation.",
+    "featured": true
+  },
+  {
+    "id": "xan",
+    "slug": "xan",
+    "name": "Xan",
+    "meaning": "Defender; helper",
+    "pronunciation": "ZAN",
+    "origin": "English / Greek",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Minimal"
+    ],
+    "themes": [
+      "Strength",
+      "Protection",
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Greek",
+      "Unisex",
+      "Short"
+    ],
+    "similar": [
+      "Xandy",
+      "Xen",
+      "Xavi"
+    ],
+    "about": "Xan is a short, distinctive name used as a form of several longer names including Alexander and Alexandra. Through these connections it carries the traditional meaning associated with Alexander, commonly interpreted as 'defender' or 'defender of people.' Its compact form works naturally as a gender-neutral name.",
+    "featured": true
+  },
+  {
+    "id": "xen",
+    "slug": "xen",
+    "name": "Xen",
+    "meaning": "Variant of Zen",
+    "pronunciation": "ZEN",
+    "origin": "English / Modern",
+    "collections": [
+      "Modern",
+      "Minimal",
+      "Rare"
+    ],
+    "themes": [
+      "Peace",
+      "Mindfulness",
+      "Simplicity"
+    ],
+    "tags": [
+      "English",
+      "Modern",
+      "Unisex",
+      "Minimal"
+    ],
+    "similar": [
+      "Xan",
+      "X",
+      "Xylo"
+    ],
+    "about": "Xen is a modern English name and variant spelling of Zen. Its association with Zen gives it connections to meditation, calmness, simplicity and awareness. Short and visually distinctive, Xen functions naturally as a gender-neutral modern name.",
+    "featured": false
+  },
+  {
+    "id": "xylo",
+    "slug": "xylo",
+    "name": "Xylo",
+    "meaning": "Wood",
+    "pronunciation": "ZYE-loh",
+    "origin": "English / Greek",
+    "collections": [
+      "Nature",
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "Nature",
+      "Music",
+      "Creativity"
+    ],
+    "tags": [
+      "English",
+      "Greek",
+      "Unisex",
+      "Nature",
+      "Rare"
+    ],
+    "similar": [
+      "Xen",
+      "Xylia",
+      "Xan"
+    ],
+    "about": "Xylo is a rare modern English name connected with the Greek element xylon, meaning 'wood.' It also evokes the xylophone through its sound and spelling, giving it an indirect association with music and creativity. Its modern construction makes it well suited to gender-neutral naming.",
+    "featured": false
+  },
+  {
+    "id": "xandy",
+    "slug": "xandy",
+    "name": "Xandy",
+    "meaning": "Defender; helper",
+    "pronunciation": "ZAN-dee",
+    "origin": "English / Greek",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Friendly"
+    ],
+    "themes": [
+      "Strength",
+      "Protection",
+      "Character"
+    ],
+    "tags": [
+      "English",
+      "Greek",
+      "Unisex",
+      "Diminutive"
+    ],
+    "similar": [
+      "Xan",
+      "Xandy",
+      "Xander"
+    ],
+    "about": "Xandy is a modern English diminutive associated with Alexander and Alexandra. Through those names it carries the traditional meaning 'defender' or 'defender of people.' Its friendly sound and established connections to both masculine and feminine forms make Xandy a natural gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "xion",
+    "slug": "xion",
+    "name": "Xion",
+    "meaning": "Modern name with varied interpretations",
+    "pronunciation": "ZEE-on",
+    "origin": "Modern / International",
+    "collections": [
+      "Modern",
+      "Rare",
+      "International"
+    ],
+    "themes": [
+      "Individuality",
+      "Modernity"
+    ],
+    "tags": [
+      "Modern",
+      "Unisex",
+      "International",
+      "Rare"
+    ],
+    "similar": [
+      "Xen",
+      "Xion",
+      "Xylo"
+    ],
+    "about": "Xion is a rare modern given name with an intentionally contemporary sound. Its lack of a strongly gendered traditional form allows it to function naturally as a gender-neutral name. Xion offers a distinctive alternative for families looking for a short, unconventional name beginning with X.",
+    "featured": false
+  },
+  {
+    "id": "xolani",
+    "slug": "xolani",
+    "name": "Xolani",
+    "meaning": "Peace; forgiveness",
+    "pronunciation": "kho-LAH-nee",
+    "origin": "Xhosa / Zulu",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Virtues"
+    ],
+    "themes": [
+      "Peace",
+      "Forgiveness",
+      "Character"
+    ],
+    "tags": [
+      "Xhosa",
+      "Zulu",
+      "South African",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Xolile",
+      "Xola",
+      "Xolani"
+    ],
+    "about": "Xolani is a Southern African name associated with peace and forgiveness. It is found in Xhosa and related Nguni naming traditions and carries a warm virtue-based meaning. Used across genders, Xolani brings strong South African representation to the collection.",
+    "featured": true
   }
 ]

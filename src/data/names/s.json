@@ -293,5 +293,301 @@
     ],
     "about": "Sanya is a Russian diminutive of Aleksandr or Aleksandra and is traditionally used for people of more than one gender. Like Sasha, it belongs to the rich family of affectionate forms developed from the Alexander name tradition. Less familiar internationally than Sasha, Sanya has a distinctive sound while retaining genuine Russian linguistic and cultural roots.",
     "featured": true
+  },
+  {
+    "id": "sawyer",
+    "slug": "sawyer",
+    "name": "Sawyer",
+    "meaning": "Wood sawyer",
+    "pronunciation": "SAW-yer",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Surname"
+    ],
+    "themes": [
+      "Nature",
+      "Occupations"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Unisex"
+    ],
+    "similar": [
+      "Spencer",
+      "Sidney",
+      "Shannon"
+    ],
+    "about": "Sawyer is an English surname-derived given name originally associated with a person who sawed wood. Its occupational heritage gives it a practical, outdoorsy character, while its established use across genders makes Sawyer a strong modern gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "shannon",
+    "slug": "shannon",
+    "name": "Shannon",
+    "meaning": "River name",
+    "pronunciation": "SHAN-ən",
+    "origin": "Irish / English",
+    "collections": [
+      "Traditional Unisex",
+      "Nature",
+      "Classic"
+    ],
+    "themes": [
+      "Rivers",
+      "Places",
+      "Nature"
+    ],
+    "tags": [
+      "Irish",
+      "English",
+      "Unisex",
+      "Nature"
+    ],
+    "similar": [
+      "Shay",
+      "Shelby",
+      "Sidney"
+    ],
+    "about": "Shannon is an Irish river name taken from the River Shannon, Ireland's longest river. It became established as a given name in English-speaking countries and has been used across genders, though contemporary usage varies by region. Its connection with one of Ireland's defining waterways gives Shannon a strong natural and cultural identity.",
+    "featured": false
+  },
+  {
+    "id": "shelby",
+    "slug": "shelby",
+    "name": "Shelby",
+    "meaning": "Surname and place name",
+    "pronunciation": "SHEL-bee",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Surname"
+    ],
+    "themes": [
+      "Places",
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Unisex"
+    ],
+    "similar": [
+      "Shannon",
+      "Sidney",
+      "Sawyer"
+    ],
+    "about": "Shelby is an English surname and place-name style given name with a long history of use for more than one gender. Its surname heritage gives it a familiar Western character, while its established cross-gender usage makes it a natural gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "shawn",
+    "slug": "shawn",
+    "name": "Shawn",
+    "meaning": "English form of Seán",
+    "pronunciation": "SHAWN",
+    "origin": "English / Irish",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Classic"
+    ],
+    "themes": [
+      "Heritage"
+    ],
+    "tags": [
+      "Irish",
+      "English",
+      "Unisex",
+      "Surname"
+    ],
+    "similar": [
+      "Shay",
+      "Sean",
+      "Shannon"
+    ],
+    "about": "Shawn is an English spelling of the Irish name Seán, ultimately related to John and traditionally associated with the meaning 'God is gracious.' Although historically more common among men, Shawn has established use across genders and is a familiar gender-neutral option in modern English-speaking naming.",
+    "featured": false
+  },
+  {
+    "id": "shay",
+    "slug": "shay",
+    "name": "Shay",
+    "meaning": "Varies by tradition",
+    "pronunciation": "SHAY",
+    "origin": "Irish / Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "International"
+    ],
+    "themes": [
+      "Heritage",
+      "Character"
+    ],
+    "tags": [
+      "Irish",
+      "Hebrew",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Shawn",
+      "Shannon",
+      "Sage"
+    ],
+    "about": "Shay has several linguistic traditions, including Irish and Hebrew usage. In Irish contexts it is associated with names such as Séaghdha, while the Hebrew form is connected with Shai and the idea of a gift. Used across genders and in multiple cultures, Shay is a concise and internationally adaptable gender-neutral name.",
+    "featured": false
+  },
+  {
+    "id": "sidney",
+    "slug": "sidney",
+    "name": "Sidney",
+    "meaning": "Wide island",
+    "pronunciation": "SID-nee",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Places",
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Unisex"
+    ],
+    "similar": [
+      "Shelby",
+      "Sawyer",
+      "Shannon"
+    ],
+    "about": "Sidney is an English surname-derived given name traditionally connected with place-name elements interpreted as 'wide island.' It has a long history of use for more than one gender. Classic without feeling dated, Sidney works naturally as a gender-neutral name in English-speaking contexts.",
+    "featured": false
+  },
+  {
+    "id": "sabah",
+    "slug": "sabah",
+    "name": "Sabah",
+    "meaning": "Morning",
+    "pronunciation": "SAH-bah",
+    "origin": "Arabic / Turkish",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Nature"
+    ],
+    "themes": [
+      "Morning",
+      "Nature"
+    ],
+    "tags": [
+      "Arabic",
+      "Turkish",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Safa",
+      "Sage",
+      "Sora"
+    ],
+    "about": "Sabah is an Arabic and Turkish name associated with the morning and the beginning of a new day. Its imagery connects naturally with light, renewal and fresh beginnings. Used across genders in different cultural contexts, Sabah brings a distinctive Middle Eastern and international dimension to the collection.",
+    "featured": false
+  },
+  {
+    "id": "safa",
+    "slug": "safa",
+    "name": "Safa",
+    "meaning": "Purity; clarity",
+    "pronunciation": "SAH-fah",
+    "origin": "Arabic / Persian / Turkish",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Purity",
+      "Character"
+    ],
+    "tags": [
+      "Arabic",
+      "Persian",
+      "Turkish",
+      "Unisex"
+    ],
+    "similar": [
+      "Sabah",
+      "Safa",
+      "Sage"
+    ],
+    "about": "Safa is a name found across Arabic, Persian and Turkish naming traditions. It is associated with ideas of purity, clarity and serenity, with its precise interpretation varying by language and spelling. Used across genders, Safa is a graceful international name with deep cultural roots.",
+    "featured": false
+  },
+  {
+    "id": "samnang",
+    "slug": "samnang",
+    "name": "Samnang",
+    "meaning": "Luck; fortune",
+    "pronunciation": "SAM-nang",
+    "origin": "Khmer",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Rare"
+    ],
+    "themes": [
+      "Fortune",
+      "Character"
+    ],
+    "tags": [
+      "Khmer",
+      "Cambodian",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Sam",
+      "Sanya",
+      "Safa"
+    ],
+    "about": "Samnang is a Khmer name meaning 'luck' or 'fortune.' Used for people of more than one gender in Cambodian naming traditions, it carries a positive association with good fortune and prosperity. Distinctive and genuinely global, Samnang adds Southeast Asian representation to the collection.",
+    "featured": false
+  },
+  {
+    "id": "seulgi",
+    "slug": "seulgi",
+    "name": "Seulgi",
+    "meaning": "Wisdom; intelligence",
+    "pronunciation": "SUHL-gee",
+    "origin": "Korean",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Wisdom",
+      "Character"
+    ],
+    "tags": [
+      "Korean",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Sora",
+      "Sui",
+      "Shinobu"
+    ],
+    "about": "Seulgi is a Korean native name associated with wisdom and intelligence. It is used for more than one gender, although contemporary usage is more common among women. The name combines a thoughtful meaning with a distinctive Korean linguistic and cultural identity.",
+    "featured": false
   }
 ]

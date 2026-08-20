@@ -298,5 +298,309 @@
     ],
     "about": "Valya is a Russian and Bulgarian diminutive associated with names such as Valentin, Valentina and related forms ultimately connected with Latin valens, meaning 'strong' or 'healthy.' Used across genders in Slavic naming traditions, Valya has an affectionate, melodic character while retaining a meaningful connection with strength and vitality.",
     "featured": true
+  },
+  {
+    "id": "vivian",
+    "slug": "vivian",
+    "name": "Vivian",
+    "meaning": "Alive",
+    "pronunciation": "VIV-ee-an",
+    "origin": "English / Scandinavian / Latin",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Life",
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Latin",
+      "Scandinavian",
+      "Unisex"
+    ],
+    "similar": [
+      "Vivien",
+      "Vinnie",
+      "Val"
+    ],
+    "about": "Vivian derives from the Latin name Vivianus, ultimately connected with Latin vivus, meaning 'alive.' It has historical masculine use and later became established as a feminine name in English-speaking countries, making it a longstanding cross-gender choice. Vivian is also used in Swedish, Norwegian and Danish naming traditions.",
+    "featured": true
+  },
+  {
+    "id": "vlada",
+    "slug": "vlada",
+    "name": "Vlada",
+    "meaning": "To rule; to control",
+    "pronunciation": "VLAH-dah",
+    "origin": "Serbian / Russian / Ukrainian",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Slavic"
+    ],
+    "themes": [
+      "Strength",
+      "Leadership"
+    ],
+    "tags": [
+      "Slavic",
+      "Serbian",
+      "Russian",
+      "Ukrainian",
+      "Unisex"
+    ],
+    "similar": [
+      "Vanja",
+      "Vaska",
+      "Vlasta"
+    ],
+    "about": "Vlada is a Slavic short form associated with names containing the element meaning 'to rule' or 'to control.' Its gender associations vary by country: it is typically masculine in Serbia and feminine elsewhere, making it a useful example of a genuinely cross-gender Slavic name.",
+    "featured": false
+  },
+  {
+    "id": "vlasta",
+    "slug": "vlasta",
+    "name": "Vlasta",
+    "meaning": "Power; rule; sovereignty",
+    "pronunciation": "VLAHS-tah",
+    "origin": "Czech / Slovak / South Slavic",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Slavic"
+    ],
+    "themes": [
+      "Strength",
+      "Leadership"
+    ],
+    "tags": [
+      "Czech",
+      "Slovak",
+      "Slavic",
+      "Unisex"
+    ],
+    "similar": [
+      "Vlada",
+      "Vanja",
+      "Vaska"
+    ],
+    "about": "Vlasta is a Slavic name originally used as a short form of names containing an element associated with power, rule and sovereignty. It is used across genders in Czech, Slovak and South Slavic naming traditions, with its gender association varying between countries.",
+    "featured": false
+  },
+  {
+    "id": "ventura",
+    "slug": "ventura",
+    "name": "Ventura",
+    "meaning": "Fortune",
+    "pronunciation": "ven-TOO-rah",
+    "origin": "Spanish",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Surname"
+    ],
+    "themes": [
+      "Fortune",
+      "Character"
+    ],
+    "tags": [
+      "Spanish",
+      "Latin",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Val",
+      "Vivian",
+      "Vesper"
+    ],
+    "about": "Ventura is a Spanish name meaning 'fortune.' It can be a short form of Buenaventura or can be derived directly from the Spanish word ventura. Used across genders, Ventura has a distinctive Spanish character and an optimistic association with good fortune.",
+    "featured": false
+  },
+  {
+    "id": "veasna",
+    "slug": "veasna",
+    "name": "Veasna",
+    "meaning": "Fate; destiny",
+    "pronunciation": "VAY-ahs-nah",
+    "origin": "Khmer",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Destiny",
+      "Character"
+    ],
+    "tags": [
+      "Khmer",
+      "Cambodian",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Vanna",
+      "Vinh",
+      "Vũ"
+    ],
+    "about": "Veasna is a Khmer name meaning 'fate' or 'destiny,' ultimately connected with Sanskrit vāsanā. Its meaning gives the name a strong association with life's path and what is meant to unfold. Used across genders, Veasna adds a distinctive Cambodian and Southeast Asian presence to the collection.",
+    "featured": true
+  },
+  {
+    "id": "vu",
+    "slug": "vu",
+    "name": "Vũ",
+    "meaning": "Martial; rain; feather",
+    "pronunciation": "VOO",
+    "origin": "Vietnamese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Nature",
+      "Strength",
+      "Freedom"
+    ],
+    "tags": [
+      "Vietnamese",
+      "Unisex",
+      "International",
+      "Nature"
+    ],
+    "similar": [
+      "Vân",
+      "Vinh",
+      "Veasna"
+    ],
+    "about": "Vũ is a Vietnamese name whose meaning depends on the Sino-Vietnamese character used. Possible characters connect it with ideas including military or martial qualities, rain, and feathers. This makes Vũ a compact name with several distinct cultural and symbolic possibilities.",
+    "featured": true
+  },
+  {
+    "id": "voski",
+    "slug": "voski",
+    "name": "Voski",
+    "meaning": "Gold",
+    "pronunciation": "VOHS-kee",
+    "origin": "Armenian",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Rare"
+    ],
+    "themes": [
+      "Precious",
+      "Nature",
+      "Character"
+    ],
+    "tags": [
+      "Armenian",
+      "Unisex",
+      "International",
+      "Rare"
+    ],
+    "similar": [
+      "Vosgi",
+      "Vaska",
+      "Veda"
+    ],
+    "about": "Voski is an Armenian name meaning 'gold.' Its precious-metal meaning gives it associations with value, warmth and radiance. Used across genders, Voski provides a distinctive Armenian option and a memorable nature-inspired symbolic name.",
+    "featured": true
+  },
+  {
+    "id": "vefa",
+    "slug": "vefa",
+    "name": "Vəfa",
+    "meaning": "Loyalty",
+    "pronunciation": "veh-FAH",
+    "origin": "Azerbaijani",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Virtues"
+    ],
+    "themes": [
+      "Loyalty",
+      "Character"
+    ],
+    "tags": [
+      "Azerbaijani",
+      "Arabic",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Vera",
+      "Veda",
+      "Veasna"
+    ],
+    "about": "Vəfa is an Azerbaijani name meaning 'loyalty,' ultimately derived from an Arabic root associated with fulfilling a promise or living up to one's word. Its virtue meaning gives it a clear association with faithfulness, trust and integrity.",
+    "featured": false
+  },
+  {
+    "id": "vieno",
+    "slug": "vieno",
+    "name": "Vieno",
+    "meaning": "Gentle",
+    "pronunciation": "VEE-eh-noh",
+    "origin": "Finnish",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Rare"
+    ],
+    "themes": [
+      "Character",
+      "Gentleness"
+    ],
+    "tags": [
+      "Finnish",
+      "Unisex",
+      "Rare",
+      "International"
+    ],
+    "similar": [
+      "Vesa",
+      "Vili",
+      "Vaino"
+    ],
+    "about": "Vieno is a rare Finnish name meaning 'gentle.' Its soft meaning and Finnish origin give it a calm, understated character. Although uncommon, it is established as a name usable across genders and adds a distinctive Nordic option to the collection.",
+    "featured": false
+  },
+  {
+    "id": "vaska",
+    "slug": "vaska",
+    "name": "Vaska",
+    "meaning": "Diminutive form",
+    "pronunciation": "VAHS-kah",
+    "origin": "Russian / Macedonian / Bulgarian",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Slavic"
+    ],
+    "themes": [
+      "Heritage",
+      "Family"
+    ],
+    "tags": [
+      "Russian",
+      "Macedonian",
+      "Bulgarian",
+      "Slavic",
+      "Unisex"
+    ],
+    "similar": [
+      "Vlada",
+      "Vlasta",
+      "Vanya"
+    ],
+    "about": "Vaska is a Slavic diminutive with different derivational routes across the region. In Russian it can derive from Vasiliy, while in Macedonian and Bulgarian it can be associated with Vasilija. These masculine and feminine connections give Vaska a strong cross-gender character within Slavic naming traditions.",
+    "featured": false
   }
 ]

@@ -359,5 +359,242 @@
     ],
     "about": "Uria is a modern Hebrew form of the biblical name Uriah and is used across genders in contemporary Hebrew naming. It is connected with the Hebrew elements meaning 'my light' or 'Yahweh is my light.' Bright, compact and internationally accessible, Uria is a gender-neutral name with ancient linguistic roots and a luminous meaning.",
     "featured": true
+  },
+  {
+    "id": "uli",
+    "slug": "uli",
+    "name": "Uli",
+    "meaning": "Diminutive of Ulrich or Ulrike",
+    "pronunciation": "OO-lee",
+    "origin": "German",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Heritage"
+    ],
+    "tags": [
+      "German",
+      "Unisex",
+      "Diminutive"
+    ],
+    "similar": [
+      "Ulli",
+      "Udo",
+      "Umut"
+    ],
+    "about": "Uli is a German diminutive used for both masculine and feminine names, particularly Ulrich and Ulrike. Short and friendly in form, Uli has an established history as a gender-neutral personal name in German-speaking contexts.",
+    "featured": false
+  },
+  {
+    "id": "ulli",
+    "slug": "ulli",
+    "name": "Ulli",
+    "meaning": "Diminutive of Ulrich or Ulrike",
+    "pronunciation": "OO-lee",
+    "origin": "German",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Heritage"
+    ],
+    "tags": [
+      "German",
+      "Unisex",
+      "Diminutive"
+    ],
+    "similar": [
+      "Uli",
+      "Udo",
+      "Umut"
+    ],
+    "about": "Ulli is a German diminutive form associated with both Ulrich and Ulrike. Used for more than one gender, it has a warm, informal character while retaining a clear connection to traditional German naming.",
+    "featured": false
+  },
+  {
+    "id": "udell",
+    "slug": "udell",
+    "name": "Udell",
+    "meaning": "Yew-tree valley",
+    "pronunciation": "YOO-dell",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Rare"
+    ],
+    "themes": [
+      "Nature",
+      "Places"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Unisex",
+      "Nature"
+    ],
+    "similar": [
+      "Uli",
+      "Uaine",
+      "Ujarak"
+    ],
+    "about": "Udell is an English surname and place-name style given name associated with the meaning 'yew-tree valley.' Its connection with an ancient tree and landscape gives it a natural character, while its surname heritage makes it adaptable as a gender-neutral given name.",
+    "featured": false
+  },
+  {
+    "id": "uaine",
+    "slug": "uaine",
+    "name": "Uaine",
+    "meaning": "Green; verdant",
+    "pronunciation": "OO-nee-ah",
+    "origin": "Irish",
+    "collections": [
+      "Nature",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Nature",
+      "Colour"
+    ],
+    "tags": [
+      "Irish",
+      "Unisex",
+      "Nature",
+      "Colour"
+    ],
+    "similar": [
+      "Uaine",
+      "Ujarak",
+      "Ugo"
+    ],
+    "about": "Uaine is an Irish name associated with the meaning 'green' or 'verdant.' Its connection with the colour and living landscape gives it a distinctly natural character. Used as a gender-neutral name, Uaine provides an unusual Irish option with strong environmental imagery.",
+    "featured": true
+  },
+  {
+    "id": "uttara",
+    "slug": "uttara",
+    "name": "Uttara",
+    "meaning": "North; northern",
+    "pronunciation": "OOT-tah-rah",
+    "origin": "Sanskrit / Indian",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Classic"
+    ],
+    "themes": [
+      "Places",
+      "Direction",
+      "Culture"
+    ],
+    "tags": [
+      "Sanskrit",
+      "Indian",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Udaya",
+      "Uche",
+      "Umut"
+    ],
+    "about": "Uttara is a Sanskrit name associated with 'north' or 'northern.' The name appears in both masculine and feminine forms in classical Indian tradition, including figures in the Mahabharata. Its geographic meaning gives Uttara a distinctive sense of direction and place.",
+    "featured": true
+  },
+  {
+    "id": "uzochi",
+    "slug": "uzochi",
+    "name": "Uzochi",
+    "meaning": "Way of God",
+    "pronunciation": "OO-zoh-chee",
+    "origin": "Igbo",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Rare"
+    ],
+    "themes": [
+      "Faith",
+      "Culture"
+    ],
+    "tags": [
+      "Igbo",
+      "Nigerian",
+      "Unisex",
+      "Faith"
+    ],
+    "similar": [
+      "Uzoma",
+      "Uduakobong",
+      "Uche"
+    ],
+    "about": "Uzochi is an Igbo name meaning 'way of God.' Its meaning connects the name with spiritual direction, faith and a sense of purposeful path. Used across genders in Igbo naming traditions, Uzochi adds a distinctive Nigerian and West African option to the collection.",
+    "featured": false
+  },
+  {
+    "id": "uzoma",
+    "slug": "uzoma",
+    "name": "Uzoma",
+    "meaning": "Good way",
+    "pronunciation": "OO-zoh-mah",
+    "origin": "Igbo",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Character",
+      "Culture"
+    ],
+    "tags": [
+      "Igbo",
+      "Nigerian",
+      "Unisex",
+      "Meaningful"
+    ],
+    "similar": [
+      "Uzochi",
+      "Uche",
+      "Uduakobong"
+    ],
+    "about": "Uzoma is an Igbo name meaning 'good way.' The name evokes a positive path, direction and way of life. Used across genders in Igbo naming traditions, Uzoma is a meaningful and distinctive gender-neutral choice with strong cultural roots.",
+    "featured": true
+  },
+  {
+    "id": "uduakobong",
+    "slug": "uduakobong",
+    "name": "Uduakobong",
+    "meaning": "God's will",
+    "pronunciation": "OO-doo-ah-koh-bong",
+    "origin": "Ibibio",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Rare"
+    ],
+    "themes": [
+      "Faith",
+      "Culture"
+    ],
+    "tags": [
+      "Ibibio",
+      "Nigerian",
+      "Unisex",
+      "Faith"
+    ],
+    "similar": [
+      "Uduak",
+      "Uzochi",
+      "Uzoma"
+    ],
+    "about": "Uduakobong is an Ibibio name meaning 'God's will.' It connects the idea of will or desire with the divine and carries a strong spiritual significance. Used across genders, Uduakobong adds distinctive Ibibio representation and a deeply meaningful gender-neutral option to the collection.",
+    "featured": false
   }
 ]

@@ -299,5 +299,313 @@
     ],
     "about": "Willoughby comes from an English surname and place name traditionally interpreted as 'willow town,' combining the Old English words associated with willow and settlement. Its connection with willow trees gives it a natural softness alongside its historical surname character. Rare but used across genders, Willoughby is an unusual gender-neutral name with strong English roots.",
     "featured": true
+  },
+  {
+    "id": "wai",
+    "slug": "wai",
+    "name": "Wai",
+    "meaning": "To distribute; to abound",
+    "pronunciation": "WAI",
+    "origin": "Burmese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Minimal"
+    ],
+    "themes": [
+      "Character",
+      "Abundance"
+    ],
+    "tags": [
+      "Burmese",
+      "Myanmar",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Wei",
+      "Wen",
+      "Whetū"
+    ],
+    "about": "Wai is a Burmese name associated with meanings including 'to distribute,' 'to be profuse' and 'to abound.' Its concise form makes it easy to use internationally while retaining a distinct Burmese cultural identity. Used across genders, Wai provides a compact and uncommon Southeast Asian option.",
+    "featured": false
+  },
+  {
+    "id": "wambli",
+    "slug": "wambli",
+    "name": "Wambli",
+    "meaning": "Eagle",
+    "pronunciation": "wahm-BLEE",
+    "origin": "Lakota",
+    "collections": [
+      "Nature",
+      "Traditional Unisex",
+      "International"
+    ],
+    "themes": [
+      "Birds",
+      "Nature",
+      "Freedom"
+    ],
+    "tags": [
+      "Lakota",
+      "Indigenous",
+      "Unisex",
+      "Nature",
+      "Bird"
+    ],
+    "similar": [
+      "Wren",
+      "Whetū",
+      "Wayan"
+    ],
+    "about": "Wambli is a Lakota name meaning 'eagle.' The eagle carries powerful associations with freedom, vision, strength and the natural world. Used across genders, Wambli brings Indigenous North American naming tradition and strong bird symbolism to the collection.",
+    "featured": true
+  },
+  {
+    "id": "wangchuk",
+    "slug": "wangchuk",
+    "name": "Wangchuk",
+    "meaning": "Mighty",
+    "pronunciation": "WANG-chook",
+    "origin": "Tibetan / Bhutanese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Rare"
+    ],
+    "themes": [
+      "Strength",
+      "Power",
+      "Culture"
+    ],
+    "tags": [
+      "Tibetan",
+      "Bhutanese",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Tashi",
+      "Tenzin",
+      "Wattana"
+    ],
+    "about": "Wangchuk is a Tibetan and Bhutanese name associated with the meaning 'mighty.' Its elements connect with ideas of power and wealth, giving it a strong and dignified character. Used across genders, Wangchuk provides distinctive Himalayan representation.",
+    "featured": false
+  },
+  {
+    "id": "wattana",
+    "slug": "wattana",
+    "name": "Wattana",
+    "meaning": "Development; prosperity; growth",
+    "pronunciation": "wat-TAH-nah",
+    "origin": "Thai",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Growth",
+      "Prosperity",
+      "Character"
+    ],
+    "tags": [
+      "Thai",
+      "Thailand",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Veasna",
+      "Wayan",
+      "Wangchuk"
+    ],
+    "about": "Wattana is a Thai name associated with 'development,' 'prosperity' and 'growth.' Its positive meaning connects the name with progress, flourishing and personal development. Used across genders, Wattana adds a meaningful Thai option to the collection.",
+    "featured": false
+  },
+  {
+    "id": "wayan",
+    "slug": "wayan",
+    "name": "Wayan",
+    "meaning": "Old; mature",
+    "pronunciation": "WAH-yahn",
+    "origin": "Balinese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Culture"
+    ],
+    "themes": [
+      "Wisdom",
+      "Heritage",
+      "Culture"
+    ],
+    "tags": [
+      "Balinese",
+      "Indonesian",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Wai",
+      "Wattana",
+      "Wayan"
+    ],
+    "about": "Wayan is a Balinese name derived from a word meaning 'old' or 'mature.' In traditional Balinese naming, it is associated with the first-born child and forms part of a wider birth-order naming system. Used across genders, Wayan offers a strong connection to Balinese culture and heritage.",
+    "featured": true
+  },
+  {
+    "id": "wenting",
+    "slug": "wenting",
+    "name": "Wenting",
+    "meaning": "Culture/literature and grace",
+    "pronunciation": "WEN-ting",
+    "origin": "Chinese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Culture",
+      "Beauty",
+      "Character"
+    ],
+    "tags": [
+      "Chinese",
+      "Mandarin",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Wen",
+      "Wei",
+      "Vân"
+    ],
+    "about": "Wenting is a Chinese given name whose precise meaning depends on the characters used. A common combination, 文婷, brings together 文, associated with culture, writing or literature, and 婷, associated with prettiness or grace. Other character combinations are possible, so the written form determines the exact meaning.",
+    "featured": false
+  },
+  {
+    "id": "wesam",
+    "slug": "wesam",
+    "name": "Wesam",
+    "meaning": "Badge; medal",
+    "pronunciation": "weh-SAHM",
+    "origin": "Arabic",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Honour",
+      "Achievement",
+      "Character"
+    ],
+    "tags": [
+      "Arabic",
+      "Middle Eastern",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Wisam",
+      "Wafa",
+      "Wiam"
+    ],
+    "about": "Wesam is an Arabic name and alternate transcription of Wisam, meaning 'badge' or 'medal.' The meaning evokes honour, recognition and achievement. Used across genders, Wesam is a concise Arabic choice with a positive and distinguished association.",
+    "featured": true
+  },
+  {
+    "id": "whetu",
+    "slug": "whetu",
+    "name": "Whetū",
+    "meaning": "Star",
+    "pronunciation": "FEH-too",
+    "origin": "Māori",
+    "collections": [
+      "Nature",
+      "Traditional Unisex",
+      "International"
+    ],
+    "themes": [
+      "Stars",
+      "Sky",
+      "Nature"
+    ],
+    "tags": [
+      "Māori",
+      "New Zealand",
+      "Unisex",
+      "Nature"
+    ],
+    "similar": [
+      "Wren",
+      "Wambli",
+      "Wayan"
+    ],
+    "about": "Whetū is a Māori name meaning 'star.' Its celestial meaning gives it associations with the night sky, guidance and natural beauty. The macron in Whetū represents the long vowel in Māori pronunciation. Used across genders, Whetū brings a distinctive Māori nature name into the collection.",
+    "featured": true
+  },
+  {
+    "id": "willie",
+    "slug": "willie",
+    "name": "Willie",
+    "meaning": "Desire; determination",
+    "pronunciation": "WIL-ee",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Strength",
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Germanic",
+      "Unisex",
+      "Diminutive"
+    ],
+    "similar": [
+      "Wil",
+      "Willy",
+      "Winnie"
+    ],
+    "about": "Willie is an English diminutive of William and related forms. The underlying Germanic elements are associated with will, desire and determination. Willie has established masculine and feminine use and provides a familiar, friendly gender-neutral option with deep English-language roots.",
+    "featured": false
+  },
+  {
+    "id": "wynne",
+    "slug": "wynne",
+    "name": "Wynne",
+    "meaning": "Fair; blessed; white",
+    "pronunciation": "WIN",
+    "origin": "Welsh / English",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Heritage",
+      "Character"
+    ],
+    "tags": [
+      "Welsh",
+      "English",
+      "Surname",
+      "Unisex"
+    ],
+    "similar": [
+      "Wren",
+      "Wallis",
+      "Wendel"
+    ],
+    "about": "Wynne is a Welsh and English name with more than one documented route. It can be associated with the Welsh name Wyn and also occurs as an English surname-derived given name. Used across genders, Wynne has a concise sound and strong Welsh heritage while remaining accessible internationally.",
+    "featured": false
   }
 ]

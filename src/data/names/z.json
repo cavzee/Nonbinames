@@ -301,5 +301,286 @@
     ],
     "about": "Zihan is a Chinese given name with several established character combinations, including 子涵, 梓涵 and 紫涵. 子 can mean 'child,' 梓 refers to the catalpa tree, while 涵 means 'to contain' or 'include.' Used across genders, Zihan combines natural imagery with ideas of depth, growth and openness.",
     "featured": true
+  },
+  {
+    "id": "zayaan",
+    "slug": "zayaan",
+    "name": "Zayaan",
+    "meaning": "Beautiful",
+    "pronunciation": "ZAY-ahn",
+    "origin": "Arabic",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Beauty",
+      "Character",
+      "Culture"
+    ],
+    "tags": [
+      "Arabic",
+      "Middle Eastern",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Zayan",
+      "Zahra",
+      "Zain"
+    ],
+    "about": "Zayaan is an Arabic name and alternate transcription of Zayan, associated with the meaning 'beautiful.' Its positive meaning and contemporary sound make it an appealing international choice. Used across genders, Zayaan adds a distinctive Arabic option to the collection.",
+    "featured": true
+  },
+  {
+    "id": "zhannur",
+    "slug": "zhannur",
+    "name": "Zhannur",
+    "meaning": "Soul and light",
+    "pronunciation": "zhan-NOOR",
+    "origin": "Kazakh",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Virtues"
+    ],
+    "themes": [
+      "Light",
+      "Spirit",
+      "Character"
+    ],
+    "tags": [
+      "Kazakh",
+      "Central Asian",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Zhen",
+      "Ziv",
+      "Zayaan"
+    ],
+    "about": "Zhannur is a Kazakh name combining elements associated with the soul or spirit and light. The name evokes inner light, warmth and vitality. Used across genders, Zhannur brings a distinctive Central Asian name to the collection.",
+    "featured": false
+  },
+  {
+    "id": "zheng",
+    "slug": "zheng",
+    "name": "Zheng",
+    "meaning": "Right; proper; correct",
+    "pronunciation": "JUNG",
+    "origin": "Chinese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Virtues"
+    ],
+    "themes": [
+      "Integrity",
+      "Character",
+      "Wisdom"
+    ],
+    "tags": [
+      "Chinese",
+      "Mandarin",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Zhi",
+      "Zhen",
+      "Zimo"
+    ],
+    "about": "Zheng is a Chinese name with several possible character forms and meanings. Depending on the characters used, it can be associated with ideas such as being right, proper or correct, or with government and administration. Used across genders, Zheng is concise and culturally significant.",
+    "featured": false
+  },
+  {
+    "id": "zikomo",
+    "slug": "zikomo",
+    "name": "Zikomo",
+    "meaning": "Thank you; greeting",
+    "pronunciation": "zee-KOH-moh",
+    "origin": "Chewa",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Virtues"
+    ],
+    "themes": [
+      "Gratitude",
+      "Kindness",
+      "Character"
+    ],
+    "tags": [
+      "Chewa",
+      "Malawi",
+      "Zambia",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Yamikani",
+      "Zola",
+      "Zawadi"
+    ],
+    "about": "Zikomo is a Chewa name and expression associated with 'thank you' and greetings. Its meaning centres on gratitude, appreciation and social connection. Used across genders, Zikomo brings a warm and distinctive southeastern African name into the collection.",
+    "featured": true
+  },
+  {
+    "id": "zimo",
+    "slug": "zimo",
+    "name": "Zimo",
+    "meaning": "Child and ink",
+    "pronunciation": "DZUH-moh",
+    "origin": "Chinese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Wisdom",
+      "Creativity",
+      "Culture"
+    ],
+    "tags": [
+      "Chinese",
+      "Mandarin",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Zhi",
+      "Zheng",
+      "Zixuan"
+    ],
+    "about": "Zimo is a Chinese given name with several possible character combinations. A common interpretation uses 子, associated with a child or learned person, and 墨, meaning 'ink.' This gives the name associations with learning, literature and creativity. Used across genders, Zimo is a distinctive modern Chinese choice.",
+    "featured": false
+  },
+  {
+    "id": "zirui",
+    "slug": "zirui",
+    "name": "Zirui",
+    "meaning": "Child and wisdom",
+    "pronunciation": "DZUH-rway",
+    "origin": "Chinese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Wisdom",
+      "Learning",
+      "Character"
+    ],
+    "tags": [
+      "Chinese",
+      "Mandarin",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Zimo",
+      "Zixuan",
+      "Zhen"
+    ],
+    "about": "Zirui is a Chinese given name with multiple possible character combinations. Forms such as 子睿 combine an element associated with a child or learned person with 睿, meaning wise or farsighted. Used across genders, Zirui has a thoughtful and intellectual character.",
+    "featured": false
+  },
+  {
+    "id": "zixuan",
+    "slug": "zixuan",
+    "name": "Zixuan",
+    "meaning": "Varies by Chinese characters",
+    "pronunciation": "DZUH-shwen",
+    "origin": "Chinese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Culture",
+      "Nature",
+      "Character"
+    ],
+    "tags": [
+      "Chinese",
+      "Mandarin",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Zirui",
+      "Zimo",
+      "Zihan"
+    ],
+    "about": "Zixuan is a Chinese given name whose precise meaning depends on the characters chosen. Different character combinations can create associations with ideas such as highness, elegance, or the daylily plant. Used across genders, Zixuan is a well-established contemporary Chinese choice.",
+    "featured": false
+  },
+  {
+    "id": "zola",
+    "slug": "zola",
+    "name": "Zola",
+    "meaning": "Calm",
+    "pronunciation": "ZOH-lah",
+    "origin": "Xhosa",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Virtues"
+    ],
+    "themes": [
+      "Peace",
+      "Calm",
+      "Character"
+    ],
+    "tags": [
+      "Xhosa",
+      "South African",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Zikomo",
+      "Zawadi",
+      "Ziv"
+    ],
+    "about": "Zola is a Xhosa name derived from an element meaning 'calm.' Its meaning evokes peace, composure and a gentle character. Used across genders, Zola adds a concise and culturally rich Southern African option to the collection.",
+    "featured": true
+  },
+  {
+    "id": "zedong",
+    "slug": "zedong",
+    "name": "Zedong",
+    "meaning": "Grace and east",
+    "pronunciation": "DZUH-dong",
+    "origin": "Chinese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Rare"
+    ],
+    "themes": [
+      "Grace",
+      "Direction",
+      "Culture"
+    ],
+    "tags": [
+      "Chinese",
+      "Mandarin",
+      "Unisex",
+      "International",
+      "Rare"
+    ],
+    "similar": [
+      "Zheng",
+      "Zimo",
+      "Zixuan"
+    ],
+    "about": "Zedong is a Chinese given name whose characters can combine meanings associated with grace or brilliance and the east. It is a rare but documented gender-neutral Chinese name and provides an unusual addition to the Z collection.",
+    "featured": false
   }
 ]

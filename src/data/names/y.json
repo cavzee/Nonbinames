@@ -302,5 +302,318 @@
     ],
     "about": "Yahav is a modern Hebrew name meaning 'hope.' Its concise form and uplifting meaning give it a contemporary character while grounding it in Hebrew language and naming culture. Used across genders, Yahav is a distinctive gender-neutral name centred on optimism and possibility.",
     "featured": true
+  },
+  {
+    "id": "yagmur",
+    "slug": "yagmur",
+    "name": "Yağmur",
+    "meaning": "Rain",
+    "pronunciation": "yah-MOOR",
+    "origin": "Turkish / Azerbaijani",
+    "collections": [
+      "Nature",
+      "Traditional Unisex",
+      "International"
+    ],
+    "themes": [
+      "Rain",
+      "Nature",
+      "Water"
+    ],
+    "tags": [
+      "Turkish",
+      "Azerbaijani",
+      "Unisex",
+      "Nature",
+      "International"
+    ],
+    "similar": [
+      "Yali",
+      "Yuki",
+      "Yarrow"
+    ],
+    "about": "Yağmur is a Turkish and Azerbaijani name meaning 'rain.' Its direct connection to nature gives it associations with renewal, growth and life-giving water. Used across genders, Yağmur is a distinctive international nature name.",
+    "featured": true
+  },
+  {
+    "id": "yali",
+    "slug": "yali",
+    "name": "Yali",
+    "meaning": "My God",
+    "pronunciation": "YAH-lee",
+    "origin": "Hebrew",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Faith",
+      "Heritage",
+      "Character"
+    ],
+    "tags": [
+      "Hebrew",
+      "Israeli",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Yuli",
+      "Yona",
+      "Yuval"
+    ],
+    "about": "Yali is a Hebrew name meaning 'my God.' It is a compact and contemporary-sounding name with deep Hebrew roots and a clear spiritual meaning. Used across genders, Yali provides a concise international option.",
+    "featured": false
+  },
+  {
+    "id": "yalwa",
+    "slug": "yalwa",
+    "name": "Yalwa",
+    "meaning": "Abundance",
+    "pronunciation": "YAL-wah",
+    "origin": "Hausa",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Virtues"
+    ],
+    "themes": [
+      "Abundance",
+      "Prosperity",
+      "Nature"
+    ],
+    "tags": [
+      "Hausa",
+      "West African",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Yali",
+      "Yusri",
+      "Yamikani"
+    ],
+    "about": "Yalwa is a Hausa name meaning 'abundance.' Its positive meaning connects it with prosperity, plenty and flourishing. Used across genders, Yalwa adds a distinctive West African name and cultural perspective to the collection.",
+    "featured": false
+  },
+  {
+    "id": "yamikani",
+    "slug": "yamikani",
+    "name": "Yamikani",
+    "meaning": "Be grateful; praise",
+    "pronunciation": "yah-mee-KAH-nee",
+    "origin": "Chewa",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Virtues"
+    ],
+    "themes": [
+      "Gratitude",
+      "Praise",
+      "Character"
+    ],
+    "tags": [
+      "Chewa",
+      "Malawi",
+      "African",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Yalwa",
+      "Yusri",
+      "Yali"
+    ],
+    "about": "Yamikani is a Chewa name associated with the meaning 'be grateful' or 'praise.' It carries a positive virtue-based meaning centred on gratitude and appreciation. Used across genders, Yamikani adds strong Chewa and southeastern African representation.",
+    "featured": true
+  },
+  {
+    "id": "yanick",
+    "slug": "yanick",
+    "name": "Yanick",
+    "meaning": "God is gracious",
+    "pronunciation": "YAH-neek",
+    "origin": "Breton / French",
+    "collections": [
+      "Traditional Unisex",
+      "European",
+      "Classic"
+    ],
+    "themes": [
+      "Grace",
+      "Heritage",
+      "Character"
+    ],
+    "tags": [
+      "Breton",
+      "French",
+      "European",
+      "Unisex"
+    ],
+    "similar": [
+      "Yali",
+      "Yann",
+      "Yves"
+    ],
+    "about": "Yanick is a Breton and French diminutive associated with Yann and Yanna, ultimately related to John and its meaning 'God is gracious.' Its use across masculine and feminine forms gives it a distinctly European gender-neutral character.",
+    "featured": false
+  },
+  {
+    "id": "yusri",
+    "slug": "yusri",
+    "name": "Yusri",
+    "meaning": "Comfort; ease; prosperity",
+    "pronunciation": "YOOS-ree",
+    "origin": "Arabic / Malay / Indonesian",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Virtues"
+    ],
+    "themes": [
+      "Peace",
+      "Prosperity",
+      "Ease"
+    ],
+    "tags": [
+      "Arabic",
+      "Malay",
+      "Indonesian",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Yali",
+      "Yusra",
+      "Yusuf"
+    ],
+    "about": "Yusri is an Arabic-derived name used in Malay and Indonesian naming traditions and associated with meanings including 'comfort,' 'ease' and 'prosperity.' Its positive meaning gives it associations with a peaceful and flourishing life. Used across genders, Yusri provides broad cultural reach.",
+    "featured": false
+  },
+  {
+    "id": "yuli",
+    "slug": "yuli",
+    "name": "Yuli",
+    "meaning": "July",
+    "pronunciation": "YOO-lee",
+    "origin": "Modern Hebrew",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "International"
+    ],
+    "themes": [
+      "Summer",
+      "Nature",
+      "Time"
+    ],
+    "tags": [
+      "Hebrew",
+      "Israeli",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Yali",
+      "Yuki",
+      "Yona"
+    ],
+    "about": "Yuli is a modern Hebrew name associated with the month of July. Its connection with midsummer gives it warm associations with sunshine, summer and the natural world. Used across genders, Yuli is short, approachable and internationally accessible.",
+    "featured": false
+  },
+  {
+    "id": "yarrow",
+    "slug": "yarrow",
+    "name": "Yarrow",
+    "meaning": "Yarrow plant",
+    "pronunciation": "YAR-oh",
+    "origin": "English",
+    "collections": [
+      "Nature",
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Plants",
+      "Nature",
+      "Healing"
+    ],
+    "tags": [
+      "English",
+      "Botanical",
+      "Unisex",
+      "Nature"
+    ],
+    "similar": [
+      "Willow",
+      "Yule",
+      "Yuki"
+    ],
+    "about": "Yarrow is an English botanical name taken from the yarrow plant, a flowering herb with a long history of traditional medicinal and folkloric associations. As a nature name it has a distinctly earthy character and works naturally as a gender-neutral choice.",
+    "featured": true
+  },
+  {
+    "id": "yale",
+    "slug": "yale",
+    "name": "Yale",
+    "meaning": "Fertile upland; surname/place name",
+    "pronunciation": "YAYL",
+    "origin": "Welsh / English",
+    "collections": [
+      "Surname",
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Heritage",
+      "Nature",
+      "Place"
+    ],
+    "tags": [
+      "Welsh",
+      "English",
+      "Surname",
+      "Unisex"
+    ],
+    "similar": [
+      "Yule",
+      "Wynne",
+      "Yarrow"
+    ],
+    "about": "Yale is a Welsh and English surname and place-name choice. The name is associated with the Welsh place-name Iâl and has a strong surname-style character when used as a given name. Its compact form and lack of an inherently gendered meaning make it suitable as a modern gender-neutral option.",
+    "featured": false
+  },
+  {
+    "id": "yule",
+    "slug": "yule",
+    "name": "Yule",
+    "meaning": "Winter festival; Christmastime",
+    "pronunciation": "YOOL",
+    "origin": "English",
+    "collections": [
+      "Nature",
+      "Seasonal",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Winter",
+      "Celebration",
+      "Nature"
+    ],
+    "tags": [
+      "English",
+      "Seasonal",
+      "Unisex",
+      "Nature"
+    ],
+    "similar": [
+      "Yale",
+      "Yarrow",
+      "Yu"
+    ],
+    "about": "Yule is an English word name associated with the winter festival and the Christmas season. Its seasonal meaning gives it strong associations with winter, celebration, warmth and renewal. Used across genders, Yule provides a distinctive English word-name option.",
+    "featured": true
   }
 ]

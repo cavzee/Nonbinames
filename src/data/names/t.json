@@ -295,5 +295,300 @@
     ],
     "about": "Takondwa is a Chewa name meaning 'we are glad,' expressing happiness and shared celebration. The name comes from the Chewa root kondwa, meaning to be glad, and is also related to the Tumbuka name Kondwani. Used across genders, Takondwa brings a joyful Southern African naming tradition to NonbiNames with a meaning centred on happiness and togetherness.",
     "featured": true
+  },
+  {
+    "id": "terry",
+    "slug": "terry",
+    "name": "Terry",
+    "meaning": "Diminutive of Terence or Theresa",
+    "pronunciation": "TER-ee",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Unisex",
+      "Classic"
+    ],
+    "similar": [
+      "Toby",
+      "Tracy",
+      "Tory"
+    ],
+    "about": "Terry is an established English name used across genders. It can be a diminutive of names such as Terence and Theresa, and it also has surname-derived history connected with Thierry. Familiar, approachable and adaptable, Terry has a long history of cross-gender use.",
+    "featured": false
+  },
+  {
+    "id": "tracy",
+    "slug": "tracy",
+    "name": "Tracy",
+    "meaning": "Surname and place-name origin",
+    "pronunciation": "TRAY-see",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Heritage",
+      "Places"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Unisex"
+    ],
+    "similar": [
+      "Terry",
+      "Tory",
+      "Sidney"
+    ],
+    "about": "Tracy began as an English surname derived from a Norman French place name before becoming an established given name. It has a long history of use across genders, particularly in English-speaking countries, giving it a familiar and adaptable character.",
+    "featured": false
+  },
+  {
+    "id": "toby",
+    "slug": "toby",
+    "name": "Toby",
+    "meaning": "God is good",
+    "pronunciation": "TOH-bee",
+    "origin": "English",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "Modern"
+    ],
+    "themes": [
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Hebrew",
+      "Unisex",
+      "Classic"
+    ],
+    "similar": [
+      "Terry",
+      "Tory",
+      "Tobi"
+    ],
+    "about": "Toby is an English form of Tobias, ultimately derived from the Hebrew name Toviyah and traditionally associated with the meaning 'God is good.' Although more commonly masculine today, Toby has documented use across genders, including historical feminine usage.",
+    "featured": true
+  },
+  {
+    "id": "tory",
+    "slug": "tory",
+    "name": "Tory",
+    "meaning": "Diminutive name",
+    "pronunciation": "TOR-ee",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Classic"
+    ],
+    "themes": [
+      "Heritage"
+    ],
+    "tags": [
+      "English",
+      "Unisex",
+      "Diminutive"
+    ],
+    "similar": [
+      "Terry",
+      "Tracy",
+      "Toby"
+    ],
+    "about": "Tory is an English diminutive used for several longer names, including Victoria and Salvatore, depending on the naming tradition. Its independent use across genders has made it a concise and familiar gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "tsubasa",
+    "slug": "tsubasa",
+    "name": "Tsubasa",
+    "meaning": "Wing",
+    "pronunciation": "tsoo-BAH-sah",
+    "origin": "Japanese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Nature"
+    ],
+    "themes": [
+      "Birds",
+      "Nature",
+      "Freedom"
+    ],
+    "tags": [
+      "Japanese",
+      "Unisex",
+      "Nature",
+      "International"
+    ],
+    "similar": [
+      "Sora",
+      "Tashi",
+      "Tenzin"
+    ],
+    "about": "Tsubasa is a Japanese given name explicitly used across genders. Written with the kanji 翼, it means 'wing,' giving the name associations with flight, freedom and movement. Other kanji can produce the same reading, so the precise meaning can vary.",
+    "featured": true
+  },
+  {
+    "id": "tashi",
+    "slug": "tashi",
+    "name": "Tashi",
+    "meaning": "Good fortune",
+    "pronunciation": "TAH-shee",
+    "origin": "Tibetan / Bhutanese",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Fortune",
+      "Character"
+    ],
+    "tags": [
+      "Tibetan",
+      "Bhutanese",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Tenzin",
+      "Tsubasa",
+      "Toby"
+    ],
+    "about": "Tashi is a Tibetan and Bhutanese name associated with 'good fortune.' Used across genders, it carries a positive meaning connected with luck and wellbeing and provides a distinctive Himalayan cultural presence in the collection.",
+    "featured": true
+  },
+  {
+    "id": "tafadzwa",
+    "slug": "tafadzwa",
+    "name": "Tafadzwa",
+    "meaning": "We are pleased",
+    "pronunciation": "tah-fah-DZWAH",
+    "origin": "Shona",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Rare"
+    ],
+    "themes": [
+      "Joy",
+      "Character"
+    ],
+    "tags": [
+      "Shona",
+      "Zimbabwe",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Tinashe",
+      "Tshepo",
+      "Tumelo"
+    ],
+    "about": "Tafadzwa is a Shona name meaning 'we are pleased.' Used across genders, it expresses joy and satisfaction and reflects the communal character often found in Shona naming traditions. Its distinctive sound adds meaningful Southern African representation.",
+    "featured": false
+  },
+  {
+    "id": "tinashe",
+    "slug": "tinashe",
+    "name": "Tinashe",
+    "meaning": "We are with God",
+    "pronunciation": "tee-NAH-sheh",
+    "origin": "Shona",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Faith",
+      "Character"
+    ],
+    "tags": [
+      "Shona",
+      "Zimbabwe",
+      "Unisex",
+      "International"
+    ],
+    "similar": [
+      "Tafadzwa",
+      "Tshepo",
+      "Tumelo"
+    ],
+    "about": "Tinashe is a Shona name meaning 'we are with God.' It is used across genders and expresses a strong sense of spiritual connection. The name provides a culturally significant Southern African addition to the collection.",
+    "featured": true
+  },
+  {
+    "id": "tshepo",
+    "slug": "tshepo",
+    "name": "Tshepo",
+    "meaning": "Hope",
+    "pronunciation": "TSEH-poh",
+    "origin": "Sotho / Tswana",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Hope",
+      "Character"
+    ],
+    "tags": [
+      "Sotho",
+      "Tswana",
+      "Southern African",
+      "Unisex"
+    ],
+    "similar": [
+      "Tumelo",
+      "Tinashe",
+      "Tashi"
+    ],
+    "about": "Tshepo is a Sotho and Tswana name meaning 'hope.' Used across genders, it carries a clear and uplifting meaning and is established across Southern African naming communities.",
+    "featured": true
+  },
+  {
+    "id": "tumelo",
+    "slug": "tumelo",
+    "name": "Tumelo",
+    "meaning": "Faith",
+    "pronunciation": "too-MEH-loh",
+    "origin": "Sotho / Tswana",
+    "collections": [
+      "Traditional Unisex",
+      "International",
+      "Modern"
+    ],
+    "themes": [
+      "Faith",
+      "Character"
+    ],
+    "tags": [
+      "Sotho",
+      "Tswana",
+      "Southern African",
+      "Unisex"
+    ],
+    "similar": [
+      "Tshepo",
+      "Tinashe",
+      "Tashi"
+    ],
+    "about": "Tumelo is a Sotho and Tswana name meaning 'faith.' Used across genders, it expresses trust and belief and is established in Southern African naming traditions. Its clear meaning and distinctive sound make it a strong global gender-neutral choice.",
+    "featured": false
   }
 ]

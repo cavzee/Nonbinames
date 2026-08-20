@@ -285,5 +285,287 @@
     ],
     "about": "Ravid is a Hebrew name meaning 'ornament' or 'necklace.' Its imagery suggests something precious, carefully made and valued, giving the name a quiet sense of beauty without relying on a strongly gendered tradition. Rare outside Hebrew-speaking communities, Ravid offers a distinctive and culturally rooted gender-neutral option for those looking beyond familiar names.",
     "featured": true
+  },
+  {
+    "id": "rory",
+    "slug": "rory",
+    "name": "Rory",
+    "meaning": "Red king",
+    "pronunciation": "ROAR-ee",
+    "origin": "Irish",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Classic"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "Irish",
+      "Unisex",
+      "Gender Neutral"
+    ],
+    "similar": [
+      "Reese",
+      "Rowan",
+      "Robin"
+    ],
+    "about": "Rory is an Irish name derived from Ruaidhrí, traditionally associated with the meaning 'red king.' Established across Irish and Scottish naming traditions and now used for more than one gender in English-speaking countries, Rory combines Celtic heritage with a friendly, energetic sound.",
+    "featured": false
+  },
+  {
+    "id": "reese",
+    "slug": "reese",
+    "name": "Reese",
+    "meaning": "Ardent; fiery",
+    "pronunciation": "REES",
+    "origin": "Welsh",
+    "collections": [
+      "Traditional Unisex",
+      "Modern"
+    ],
+    "themes": [
+      "Character"
+    ],
+    "tags": [
+      "Welsh",
+      "Unisex",
+      "Surname"
+    ],
+    "similar": [
+      "Rory",
+      "Reagan",
+      "Riley"
+    ],
+    "about": "Reese is an English form of the Welsh name Rhys, traditionally associated with qualities such as ardour and enthusiasm. Its compact sound and established use for multiple genders have made Reese a familiar and versatile gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "reagan",
+    "slug": "reagan",
+    "name": "Reagan",
+    "meaning": "Descendant of Riagán",
+    "pronunciation": "RAY-gən",
+    "origin": "Irish",
+    "collections": [
+      "Traditional Unisex",
+      "Modern",
+      "Classic"
+    ],
+    "themes": [
+      "History"
+    ],
+    "tags": [
+      "Irish",
+      "Unisex",
+      "Surname"
+    ],
+    "similar": [
+      "Reese",
+      "Rory",
+      "Riley"
+    ],
+    "about": "Reagan is an Irish surname-derived given name from Ó Riagáin, meaning 'descendant of Riagán.' Its modern use across genders has given it a distinctly contemporary character while retaining its Irish heritage and surname tradition.",
+    "featured": false
+  },
+  {
+    "id": "ripley",
+    "slug": "ripley",
+    "name": "Ripley",
+    "meaning": "Clearing by the woodland",
+    "pronunciation": "RIP-lee",
+    "origin": "English",
+    "collections": [
+      "Modern",
+      "Rare",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Places"
+    ],
+    "tags": [
+      "English",
+      "Surname",
+      "Unisex"
+    ],
+    "similar": [
+      "Riley",
+      "Rory",
+      "River"
+    ],
+    "about": "Ripley is an English surname and place name derived from Old English elements associated with woodland and a clearing. Rare as a given name but used for more than one gender, Ripley offers an unusual combination of English heritage, nature imagery and contemporary character.",
+    "featured": false
+  },
+  {
+    "id": "rei",
+    "slug": "rei",
+    "name": "Rei",
+    "meaning": "Varies by kanji",
+    "pronunciation": "RAY",
+    "origin": "Japanese",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Culture"
+    ],
+    "tags": [
+      "Japanese",
+      "Unisex",
+      "Minimal"
+    ],
+    "similar": [
+      "Ren",
+      "Rin",
+      "Ryo"
+    ],
+    "about": "Rei is a Japanese given name that can be written with several different kanji, so its precise meaning depends on the form chosen. Possible associations include ideas such as beauty, spirit or gratitude. Short, elegant and used across genders, Rei is a distinctive Japanese gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "rio",
+    "slug": "rio",
+    "name": "Rio",
+    "meaning": "Varies by language and kanji",
+    "pronunciation": "REE-oh",
+    "origin": "Japanese / International",
+    "collections": [
+      "Modern",
+      "International",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Nature",
+      "Culture"
+    ],
+    "tags": [
+      "Japanese",
+      "International",
+      "Unisex"
+    ],
+    "similar": [
+      "Rei",
+      "Ren",
+      "River"
+    ],
+    "about": "Rio is an internationally used name with Japanese forms that can be written with different kanji and therefore carry different meanings. It is also familiar in several other languages and cultures, giving it a broadly international character. Short, energetic and used across genders, Rio makes an accessible global gender-neutral choice.",
+    "featured": false
+  },
+  {
+    "id": "raven",
+    "slug": "raven",
+    "name": "Raven",
+    "meaning": "Raven bird",
+    "pronunciation": "RAY-vən",
+    "origin": "English",
+    "collections": [
+      "Nature",
+      "Modern",
+      "Traditional Unisex"
+    ],
+    "themes": [
+      "Birds",
+      "Nature"
+    ],
+    "tags": [
+      "Nature",
+      "Word Name",
+      "Unisex"
+    ],
+    "similar": [
+      "River",
+      "Robin",
+      "Rowan"
+    ],
+    "about": "Raven comes directly from the English name of the intelligent black bird. Ravens have carried rich symbolism in mythology and folklore across many cultures, often associated with mystery, wisdom and transformation. Used for more than one gender, Raven is a distinctive nature-inspired choice with strong visual character.",
+    "featured": false
+  },
+  {
+    "id": "ritsu",
+    "slug": "ritsu",
+    "name": "Ritsu",
+    "meaning": "Law; order",
+    "pronunciation": "REET-soo",
+    "origin": "Japanese",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Character"
+    ],
+    "tags": [
+      "Japanese",
+      "Unisex",
+      "Minimal"
+    ],
+    "similar": [
+      "Rei",
+      "Rin",
+      "Ren"
+    ],
+    "about": "Ritsu is a Japanese given name that can be written with different kanji. One established form uses 律, associated with 'law' or 'order.' Compact and refined, Ritsu is used for more than one gender and offers a distinctive Japanese gender-neutral option with a strong, composed character.",
+    "featured": false
+  },
+  {
+    "id": "ryo",
+    "slug": "ryo",
+    "name": "Ryo",
+    "meaning": "Varies by kanji",
+    "pronunciation": "RYOH",
+    "origin": "Japanese",
+    "collections": [
+      "Modern",
+      "Traditional Unisex",
+      "Rare"
+    ],
+    "themes": [
+      "Culture"
+    ],
+    "tags": [
+      "Japanese",
+      "Unisex",
+      "Minimal"
+    ],
+    "similar": [
+      "Rei",
+      "Ritsu",
+      "Ren"
+    ],
+    "about": "Ryo is a Japanese given name that can be written with different kanji, giving it several possible meanings and associations. Depending on the characters chosen, meanings can include ideas such as clarity, refreshing qualities or reality. Its short, clean sound and use across genders make Ryo a versatile Japanese gender-neutral name.",
+    "featured": false
+  },
+  {
+    "id": "rene",
+    "slug": "rene",
+    "name": "Rene",
+    "meaning": "Born again; reborn",
+    "pronunciation": "REH-nay",
+    "origin": "French",
+    "collections": [
+      "Traditional Unisex",
+      "Classic",
+      "International"
+    ],
+    "themes": [
+      "Renewal"
+    ],
+    "tags": [
+      "French",
+      "International",
+      "Unisex"
+    ],
+    "similar": [
+      "Remy",
+      "Reese",
+      "Ren"
+    ],
+    "about": "Rene is an English form of the French René and is ultimately derived from the Latin name Renatus, meaning 'born again' or 'reborn.' René and Rene have established use across genders in different linguistic contexts, giving the name a classic international character and a positive association with renewal.",
+    "featured": false
   }
 ]
