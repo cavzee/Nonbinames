@@ -19,6 +19,8 @@ type Props = {
 
 const BASE_URL = "https://nonbinames.com";
 
+const MIN_INDEXABLE_NAMES = 5;
+
 const validTypes: DiscoverySeoType[] = [
   "collection",
   "theme",
@@ -119,6 +121,8 @@ export async function generateMetadata({
     actualValue,
     names.length
   );
+
+  const isIndexable = names.length >= MIN_INDEXABLE_NAMES;
   const url = `${BASE_URL}/names/${type}/${value}`;
 
   return {
@@ -128,6 +132,13 @@ export async function generateMetadata({
     alternates: {
       canonical: url,
     },
+
+    robots: isIndexable
+      ? undefined
+      : {
+          index: false,
+          follow: true,
+        },
 
     openGraph: {
       title,

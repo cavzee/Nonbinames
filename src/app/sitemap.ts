@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 
 import {
   getAllNames,
+  getDiscoverySeoNames,
   getDiscoverySeoValues,
   type DiscoverySeoType,
 } from "@/lib";
@@ -20,6 +21,8 @@ const seoTypes: DiscoverySeoType[] = [
   "origin",
   "length",
 ];
+
+const MIN_INDEXABLE_NAMES = 5;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://nonbinames.com";
@@ -47,12 +50,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const seoPages: MetadataRoute.Sitemap = seoTypes.flatMap((type) =>
-    getDiscoverySeoValues(type).map((value) => ({
-      url: `${baseUrl}/names/${type}/${slugify(value)}`,
-      lastModified: new Date(),
-      changeFrequency: "weekly" as const,
-      priority: 0.7,
-    }))
+    getDiscoverySeoValues(type)
+      .filter(
+        (value) =>
+          getDiscoverySeoNames(type, value).length >= MIN_INDEXABLE_NAMES
+      )
+      .map((value) => ({
+        url: `${baseUrl}/names/${type}/${slugify(value)}`,
+        lastModified: new Date(),
+        changeFrequency: "weekly" as const,
+        priority: 0.7,
+      }))
   );
 
   return [...staticPages, ...namePages, ...seoPages];
